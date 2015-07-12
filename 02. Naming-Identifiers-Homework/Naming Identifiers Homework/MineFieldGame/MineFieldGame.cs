@@ -208,7 +208,7 @@
 
         private static char[,] PutTheBombs()
         {
-            var bombs = new char[MaxRows, MaxCols];
+            bombs = new char[MaxRows, MaxCols];
 
             for (var row = 0; row < bombs.GetLength(0); row++)
             {
