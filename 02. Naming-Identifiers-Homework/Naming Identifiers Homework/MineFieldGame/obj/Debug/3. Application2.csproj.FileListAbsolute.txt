@@ -1,0 +1,7 @@
+C:\Users\Elena\Downloads\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Application2\bin\Debug\Application2.exe.config
+C:\Users\Elena\Downloads\C#\CSharpKPK\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Application2\bin\Debug\Application2.exe.config
+C:\Users\Elena\Downloads\C#\CSharpKPK\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Application2\bin\Debug\Application2.exe
+C:\Users\Elena\Downloads\C#\CSharpKPK\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Application2\bin\Debug\Application2.pdb
+C:\Users\Elena\Downloads\C#\CSharpKPK\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Application2\obj\Debug\3. Application2.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\C#\CSharpKPK\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Application2\obj\Debug\Application2.exe
+C:\Users\Elena\Downloads\C#\CSharpKPK\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Application2\obj\Debug\Application2.pdb

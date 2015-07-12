@@ -1,0 +1,6 @@
+C:\Users\Elena\Downloads\C#\CSharpKPK\02. Naming-Identifiers-Homework\Naming Identifiers Homework\MineFieldGame\bin\Debug\Application2.exe.config
+C:\Users\Elena\Downloads\C#\CSharpKPK\02. Naming-Identifiers-Homework\Naming Identifiers Homework\MineFieldGame\obj\Debug\Application2.exe
+C:\Users\Elena\Downloads\C#\CSharpKPK\02. Naming-Identifiers-Homework\Naming Identifiers Homework\MineFieldGame\obj\Debug\Application2.pdb
+C:\Users\Elena\Downloads\C#\CSharpKPK\02. Naming-Identifiers-Homework\Naming Identifiers Homework\MineFieldGame\bin\Debug\Application2.exe
+C:\Users\Elena\Downloads\C#\CSharpKPK\02. Naming-Identifiers-Homework\Naming Identifiers Homework\MineFieldGame\bin\Debug\Application2.pdb
+C:\Users\Elena\Downloads\C#\CSharpKPK\02. Naming-Identifiers-Homework\Naming Identifiers Homework\MineFieldGame\obj\Debug\MineFieldGame.csprojResolveAssemblyReference.cache

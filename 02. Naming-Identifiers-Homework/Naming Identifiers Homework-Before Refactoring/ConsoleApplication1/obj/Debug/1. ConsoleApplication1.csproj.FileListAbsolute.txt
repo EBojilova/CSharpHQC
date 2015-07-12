@@ -1,0 +1,2 @@
+C:\Users\Elena\Downloads\C#\CSharpKPK\02. Naming-Identifiers-Homework\Skeleton\Naming Identifiers Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Elena\Downloads\C#\CSharpKPK\02. Naming-Identifiers-Homework\Naming Identifiers Homework-Before Refactoring\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
