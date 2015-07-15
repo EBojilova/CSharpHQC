@@ -1,4 +1,4 @@
-﻿namespace Application2
+namespace MineFieldGame
 {
     public class Player
     {

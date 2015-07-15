@@ -1,4 +1,4 @@
-Ôªønamespace Application2
+namespace MineFieldGame
 {
     using System;
     using System.Collections.Generic;
@@ -38,34 +38,9 @@
                     gameStarted = true;
                     playgroundField = CreatePlaygroundField();
                     bombs = PutTheBombs();
-                    var sb = new StringBuilder();
-                    sb.AppendLine("Lets play a game ‚ÄúMini4KI‚Äù.");
-                    sb.AppendLine("Try to step on a field without mines.");
-                    sb.AppendLine("Commands:");
-                    sb.AppendLine("'top' shows the rating,");
-                    sb.AppendLine("'restart' starts a new game");
-                    sb.AppendLine("'exit' exits the game and Good Bye!");
-                    Console.Write(sb.ToString());
+                    PrintStartGameMessage();
                     PrintPlayGroundField(playgroundField);
-                    Console.Write("Please enter your nickname: ");
-                    var playerName = Console.ReadLine();
-                    currentPlayer = new Player(playerName, 0);
-                    if (players.Count < 5)
-                    {
-                        players.Add(currentPlayer);
-                    }
-                    else
-                    {
-                        for (var i = 0; i < players.Count; i++)
-                        {
-                            if (players[i].Score <= currentPlayer.Score)
-                            {
-                                players.Insert(i, currentPlayer);
-                                players.RemoveAt(players.Count - 1);
-                                break;
-                            }
-                        }
-                    }
+                    AddNewPlayer();
                 }
 
                 Console.Write("Enter row[0...4] and column[0...9], separated by space: ");
@@ -104,10 +79,7 @@
 
                             if (MaxTurns == currentPlayer.Score)
                             {
-                                Console.WriteLine(
-                                    "\nCONGRATULATIONS, {0}! You made {1} steps without exploding a bomb.", 
-                                    currentPlayer.Name, 
-                                    currentPlayer.Score);
+                                PrintWinGameMessage();
                                 PrintPlayGroundField(bombs);
                                 PrintRating();
                                 gameStarted = false;
@@ -120,8 +92,7 @@
                         else
                         {
                             PrintPlayGroundField(bombs);
-                            Console.WriteLine("\nHrrrrrr! Sorry {0}, you stepped on mine and died.", currentPlayer.Name);
-                            Console.WriteLine("You made {0} steps without exploding a bomb.", currentPlayer.Score);
+                            PrintLostGameMessage();
                             PrintRating();
                             gameStarted = false;
                         }
@@ -133,8 +104,58 @@
                 }
             }
             while (command != "exit");
+
             Console.WriteLine("Made in Bulgaria - Uauahahahahaha!");
             Console.WriteLine("Have a nice day!");
+        }
+
+        private static void PrintLostGameMessage()
+        {
+            Console.WriteLine("\nHrrrrrr! Sorry {0}, you stepped on mine and died.", currentPlayer.Name);
+            Console.WriteLine("You made {0} steps without exploding a bomb.", currentPlayer.Score);
+        }
+
+        private static void PrintWinGameMessage()
+        {
+            Console.WriteLine(
+                "\nCONGRATULATIONS, {0}! You made {1} steps without exploding a bomb.",
+                currentPlayer.Name,
+                currentPlayer.Score);
+        }
+
+        private static void AddNewPlayer()
+        {
+            Console.Write("Please enter your nickname: ");
+            var playerName = Console.ReadLine();
+            currentPlayer = new Player(playerName, 0);
+            if (players.Count < 5)
+            {
+                players.Add(currentPlayer);
+            }
+            else
+            {
+                for (var i = 0; i < players.Count; i++)
+                {
+                    if (players[i].Score <= currentPlayer.Score)
+                    {
+                        players.Insert(i, currentPlayer);
+                        players.RemoveAt(players.Count - 1);
+                        break;
+                    }
+                }
+            }
+        }
+
+        private static void PrintStartGameMessage()
+        {
+            var sb = new StringBuilder();
+            sb.AppendLine("Lets play a game ìMini4KIî.");
+            sb.AppendLine("Try to step on a field without mines.");
+            sb.AppendLine("Commands:");
+            sb.AppendLine("'top' shows the rating,");
+            sb.AppendLine("'restart' starts a new game");
+            sb.AppendLine("'exit' exits the game and Good Bye!");
+            Console.Write(sb.ToString());
         }
 
         private static void PrintRating()

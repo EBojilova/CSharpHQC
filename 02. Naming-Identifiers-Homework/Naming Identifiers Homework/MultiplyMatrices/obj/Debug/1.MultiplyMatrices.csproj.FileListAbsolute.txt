@@ -1,3 +1,5 @@
 C:\Users\Elena\Downloads\C#\CSharpKPK\02. Naming-Identifiers-Homework\Naming Identifiers Homework\MultiplyMatrices\bin\Debug\ConsoleApplication1.exe.config
 C:\Users\Elena\Downloads\C#\CSharpKPK\02. Naming-Identifiers-Homework\Naming Identifiers Homework\MultiplyMatrices\obj\Debug\ConsoleApplication1.exe
 C:\Users\Elena\Downloads\C#\CSharpKPK\02. Naming-Identifiers-Homework\Naming Identifiers Homework\MultiplyMatrices\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Elena\Downloads\C#\CSharpKPK\02. Naming-Identifiers-Homework\Naming Identifiers Homework\MultiplyMatrices\bin\Debug\1.MultiplyMatrices.exe.config
+C:\Users\Elena\Downloads\C#\CSharpKPK\02. Naming-Identifiers-Homework\Naming Identifiers Homework\MultiplyMatrices\bin\Debug\MultiplyMatrices.exe.config
