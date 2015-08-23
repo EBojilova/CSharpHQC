@@ -1,0 +1,10 @@
+D:\Lectures\Quality Code\Homework-13-Refactoring\bin\Debug\RotatingWalkInMatrix.exe
+D:\Lectures\Quality Code\Homework-13-Refactoring\bin\Debug\RotatingWalkInMatrix.pdb
+D:\Lectures\Quality Code\Homework-13-Refactoring\obj\x86\Debug\RotatingWalkInMatrix.csprojResolveAssemblyReference.cache
+D:\Lectures\Quality Code\Homework-13-Refactoring\obj\x86\Debug\RotatingWalkInMatrix.exe
+D:\Lectures\Quality Code\Homework-13-Refactoring\obj\x86\Debug\RotatingWalkInMatrix.pdb
+C:\Users\Elena\Downloads\CSharpKPK\FilipKolev-Quality Code-Homework\Homework-13-Refactoring\obj\x86\Debug\RotatingWalkInMatrix.exe
+C:\Users\Elena\Downloads\CSharpKPK\FilipKolev-Quality Code-Homework\Homework-13-Refactoring\obj\x86\Debug\RotatingWalkInMatrix.pdb
+C:\Users\Elena\Downloads\CSharpKPK\FilipKolev-Quality Code-Homework\Homework-13-Refactoring\bin\Debug\RotatingWalkInMatrix.exe
+C:\Users\Elena\Downloads\CSharpKPK\FilipKolev-Quality Code-Homework\Homework-13-Refactoring\bin\Debug\RotatingWalkInMatrix.pdb
+C:\Users\Elena\Downloads\CSharpKPK\FilipKolev-Quality Code-Homework\Homework-13-Refactoring\obj\x86\Debug\RotatingWalkInMatrix.csprojResolveAssemblyReference.cache

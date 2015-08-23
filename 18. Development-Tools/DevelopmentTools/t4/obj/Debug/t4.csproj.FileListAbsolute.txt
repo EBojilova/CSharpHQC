@@ -1,0 +1,8 @@
+c:\users\elena\documents\visual studio 2013\Projects\DevelopmentTools\t4\bin\Debug\t4.exe.config
+c:\users\elena\documents\visual studio 2013\Projects\DevelopmentTools\t4\bin\Debug\t4.exe
+c:\users\elena\documents\visual studio 2013\Projects\DevelopmentTools\t4\bin\Debug\t4.pdb
+c:\users\elena\documents\visual studio 2013\Projects\DevelopmentTools\t4\bin\Debug\log4net.dll
+c:\users\elena\documents\visual studio 2013\Projects\DevelopmentTools\t4\bin\Debug\log4net.xml
+c:\users\elena\documents\visual studio 2013\Projects\DevelopmentTools\t4\obj\Debug\t4.csprojResolveAssemblyReference.cache
+c:\users\elena\documents\visual studio 2013\Projects\DevelopmentTools\t4\obj\Debug\t4.exe
+c:\users\elena\documents\visual studio 2013\Projects\DevelopmentTools\t4\obj\Debug\t4.pdb

@@ -1,0 +1,14 @@
+c:\users\elena\documents\visual studio 2013\Projects\UnitTesting-StackDemo\Softuni.Collections.Generic.Tests\bin\Debug\Softuni.Collections.Generic.Tests.dll
+c:\users\elena\documents\visual studio 2013\Projects\UnitTesting-StackDemo\Softuni.Collections.Generic.Tests\bin\Debug\Softuni.Collections.Generic.Tests.pdb
+c:\users\elena\documents\visual studio 2013\Projects\UnitTesting-StackDemo\Softuni.Collections.Generic.Tests\bin\Debug\Softuni.Collections.Generic.dll
+c:\users\elena\documents\visual studio 2013\Projects\UnitTesting-StackDemo\Softuni.Collections.Generic.Tests\bin\Debug\Softuni.Collections.Generic.pdb
+c:\users\elena\documents\visual studio 2013\Projects\UnitTesting-StackDemo\Softuni.Collections.Generic.Tests\obj\Debug\Softuni.Collections.Generic.Tests.csprojResolveAssemblyReference.cache
+c:\users\elena\documents\visual studio 2013\Projects\UnitTesting-StackDemo\Softuni.Collections.Generic.Tests\obj\Debug\Softuni.Collections.Generic.Tests.dll
+c:\users\elena\documents\visual studio 2013\Projects\UnitTesting-StackDemo\Softuni.Collections.Generic.Tests\obj\Debug\Softuni.Collections.Generic.Tests.pdb
+C:\Users\Elena\Downloads\CSharpKPK\11. Unit-Testing\Unit-Testing-Demos\UnitTesting-StackDemo\Softuni.Collections.Generic.Tests\bin\Debug\Softuni.Collections.Generic.Tests.dll
+C:\Users\Elena\Downloads\CSharpKPK\11. Unit-Testing\Unit-Testing-Demos\UnitTesting-StackDemo\Softuni.Collections.Generic.Tests\bin\Debug\Softuni.Collections.Generic.Tests.pdb
+C:\Users\Elena\Downloads\CSharpKPK\11. Unit-Testing\Unit-Testing-Demos\UnitTesting-StackDemo\Softuni.Collections.Generic.Tests\bin\Debug\Softuni.Collections.Generic.dll
+C:\Users\Elena\Downloads\CSharpKPK\11. Unit-Testing\Unit-Testing-Demos\UnitTesting-StackDemo\Softuni.Collections.Generic.Tests\bin\Debug\Softuni.Collections.Generic.pdb
+C:\Users\Elena\Downloads\CSharpKPK\11. Unit-Testing\Unit-Testing-Demos\UnitTesting-StackDemo\Softuni.Collections.Generic.Tests\obj\Debug\Softuni.Collections.Generic.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\CSharpKPK\11. Unit-Testing\Unit-Testing-Demos\UnitTesting-StackDemo\Softuni.Collections.Generic.Tests\obj\Debug\Softuni.Collections.Generic.Tests.dll
+C:\Users\Elena\Downloads\CSharpKPK\11. Unit-Testing\Unit-Testing-Demos\UnitTesting-StackDemo\Softuni.Collections.Generic.Tests\obj\Debug\Softuni.Collections.Generic.Tests.pdb

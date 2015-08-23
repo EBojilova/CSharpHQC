@@ -1,0 +1,5 @@
+C:\Users\Elena\Downloads\CSharpKPK\15. SOLID-Principles-in-Software-Design\Demo\SOLID-Principles-Demos\bin\Debug\SOLID and Other Principles.dll
+C:\Users\Elena\Downloads\CSharpKPK\15. SOLID-Principles-in-Software-Design\Demo\SOLID-Principles-Demos\bin\Debug\SOLID and Other Principles.pdb
+C:\Users\Elena\Downloads\CSharpKPK\15. SOLID-Principles-in-Software-Design\Demo\SOLID-Principles-Demos\obj\Debug\SOLID-Principles-Demos.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\CSharpKPK\15. SOLID-Principles-in-Software-Design\Demo\SOLID-Principles-Demos\obj\Debug\SOLID and Other Principles.dll
+C:\Users\Elena\Downloads\CSharpKPK\15. SOLID-Principles-in-Software-Design\Demo\SOLID-Principles-Demos\obj\Debug\SOLID and Other Principles.pdb

@@ -1,0 +1,14 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\TravelAgency\TravelAgencyTests\bin\Debug\TravelAgencyTests.dll
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\TravelAgency\TravelAgencyTests\bin\Debug\TravelAgencyTests.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\TravelAgency\TravelAgencyTests\obj\Debug\TravelAgencyTests.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\TravelAgency\TravelAgencyTests\obj\Debug\TravelAgencyTests.dll
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\TravelAgency\TravelAgencyTests\obj\Debug\TravelAgencyTests.pdb
+C:\Users\Elena\Downloads\CSharpKPK\Exam\TravelAgency\TravelAgency-MySolution\TravelAgencyTests\obj\Debug\TravelAgencyTests.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\CSharpKPK\Exam\TravelAgency\TravelAgency-MySolution\TravelAgencyTests\obj\Debug\TravelAgencyTests.dll
+C:\Users\Elena\Downloads\CSharpKPK\Exam\TravelAgency\TravelAgency-MySolution\TravelAgencyTests\obj\Debug\TravelAgencyTests.pdb
+C:\Users\Elena\Downloads\CSharpKPK\Exam\TravelAgency\TravelAgency-MySolution\TravelAgencyTests\bin\Debug\TravelAgencyTests.dll
+C:\Users\Elena\Downloads\CSharpKPK\Exam\TravelAgency\TravelAgency-MySolution\TravelAgencyTests\bin\Debug\TravelAgencyTests.pdb
+C:\Users\Elena\Downloads\CSharpKPK\Exam\TravelAgency\TravelAgency-MySolution\TravelAgencyTests\bin\Debug\TravelAgency.exe
+C:\Users\Elena\Downloads\CSharpKPK\Exam\TravelAgency\TravelAgency-MySolution\TravelAgencyTests\bin\Debug\PowerCollections.dll
+C:\Users\Elena\Downloads\CSharpKPK\Exam\TravelAgency\TravelAgency-MySolution\TravelAgencyTests\bin\Debug\TravelAgency.pdb
+C:\Users\Elena\Downloads\CSharpKPK\Exam\TravelAgency\TravelAgency-MySolution\TravelAgencyTests\bin\Debug\PowerCollections.xml

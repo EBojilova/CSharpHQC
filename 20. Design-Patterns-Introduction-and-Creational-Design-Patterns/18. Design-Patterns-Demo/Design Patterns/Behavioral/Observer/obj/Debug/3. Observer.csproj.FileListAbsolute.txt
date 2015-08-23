@@ -1,0 +1,8 @@
+C:\Users\Jamal\Desktop\Design Patterns\Behavioral\Observer\bin\Debug\Observer.exe.config
+C:\Users\Jamal\Desktop\Trash\Design Patterns\Behavioral\Observer\bin\Debug\Observer.exe.config
+C:\Users\Elena\Downloads\CSharpKPK\20. Design-Patterns-Introduction-and-Creational-Design-Patterns\18. Design-Patterns-Demo\Design Patterns\Behavioral\Observer\bin\Debug\Observer.exe.config
+C:\Users\Elena\Downloads\CSharpKPK\20. Design-Patterns-Introduction-and-Creational-Design-Patterns\18. Design-Patterns-Demo\Design Patterns\Behavioral\Observer\bin\Debug\Observer.exe
+C:\Users\Elena\Downloads\CSharpKPK\20. Design-Patterns-Introduction-and-Creational-Design-Patterns\18. Design-Patterns-Demo\Design Patterns\Behavioral\Observer\bin\Debug\Observer.pdb
+C:\Users\Elena\Downloads\CSharpKPK\20. Design-Patterns-Introduction-and-Creational-Design-Patterns\18. Design-Patterns-Demo\Design Patterns\Behavioral\Observer\obj\Debug\3. Observer.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\CSharpKPK\20. Design-Patterns-Introduction-and-Creational-Design-Patterns\18. Design-Patterns-Demo\Design Patterns\Behavioral\Observer\obj\Debug\Observer.exe
+C:\Users\Elena\Downloads\CSharpKPK\20. Design-Patterns-Introduction-and-Creational-Design-Patterns\18. Design-Patterns-Demo\Design Patterns\Behavioral\Observer\obj\Debug\Observer.pdb

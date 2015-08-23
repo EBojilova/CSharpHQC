@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\DoFactoryDemo\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\DoFactoryDemo\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\DoFactoryDemo\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\DoFactoryDemo\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\DoFactoryDemo\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\DoFactoryDemo\FactoryMethod\obj\Debug\FactoryMethod.pdb

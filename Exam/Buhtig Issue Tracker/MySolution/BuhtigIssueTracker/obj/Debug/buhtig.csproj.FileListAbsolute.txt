@@ -1,0 +1,2 @@
+C:\Users\Jamal\Desktop\Buhtigfehlerverfolgungssystem\buhtig\bin\Debug\buhtig.exe.config
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution\buhtig\bin\Debug\buhtig.exe.config

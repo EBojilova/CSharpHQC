@@ -1,0 +1,5 @@
+C:\Users\Elena\Downloads\CSharpKPK\10. Code-Tuning-and-Optimization\Demos\StopwatchDemo\bin\Debug\StopwatchDemo.exe
+C:\Users\Elena\Downloads\CSharpKPK\10. Code-Tuning-and-Optimization\Demos\StopwatchDemo\bin\Debug\StopwatchDemo.pdb
+C:\Users\Elena\Downloads\CSharpKPK\10. Code-Tuning-and-Optimization\Demos\StopwatchDemo\obj\Debug\StopwatchDemo.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\CSharpKPK\10. Code-Tuning-and-Optimization\Demos\StopwatchDemo\obj\Debug\StopwatchDemo.exe
+C:\Users\Elena\Downloads\CSharpKPK\10. Code-Tuning-and-Optimization\Demos\StopwatchDemo\obj\Debug\StopwatchDemo.pdb

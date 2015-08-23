@@ -1,0 +1,164 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=TravelAgency_002ETravelAgencyMain_002EMain/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x0020000F" OwnTime="76652228" SysTime="75155481336" TotalTime="78666898256" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=System_002EObject_002EToString/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x0020002E" OwnTime="54966814" SysTime="910690490" TotalTime="998514414" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=TravelAgency_002ETickets_002ETicket_002Eget_005FTicketKey/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x0020003C" OwnTime="0" SysTime="230171682" TotalTime="230171682" /&gt;&lt;Implementation FuId="0x00200042" OwnTime="0" SysTime="175614044" TotalTime="175614044" /&gt;&lt;Implementation FuId="0x00200036" OwnTime="0" SysTime="98802314" TotalTime="98802314" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=System_002ECollections_002EIEnumerator_002EMoveNext/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x0030060C" OwnTime="438714466" SysTime="0" TotalTime="5167766344" /&gt;&lt;Implementation FuId="0x0030063C" OwnTime="22043324" SysTime="0" TotalTime="208692782" /&gt;&lt;Implementation FuId="0x00300636" OwnTime="10941864" SysTime="11009662" TotalTime="526531606" /&gt;&lt;Implementation FuId="0x00300522" OwnTime="10931108" SysTime="0" TotalTime="406173284" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=TravelAgency_002ETicketCatalog_002EFormatTicketsForPrinting/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x0020001C" OwnTime="21925882" SysTime="153704722" TotalTime="1975097282" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=TravelAgency_002ECommandManager_002EParseDateTime/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x00200003" OwnTime="10967828" SysTime="131591992" TotalTime="142559820" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=Wintellect_002EPowerCollections_002ERedBlackTree_00601_002EEnumerateRangeInOrder/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x00300451" OwnTime="54794178" SysTime="66049772" TotalTime="120843950" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=TravelAgency_002ECommandManager_002EParseCommand/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x00200001" OwnTime="54776458" SysTime="54951000" TotalTime="3434764692" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=TravelAgency_002ETickets_002ETicket_002ECompareTo/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x0020002C" OwnTime="76842296" SysTime="10935278" TotalTime="120664864" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=Wintellect_002EPowerCollections_002EOrderedMultiDictionary_00602_002B_003C_003Ec_005F_005FDisplayClass1_002E_003CKeyRange_003Eb_005F_005F0/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x0030062F" OwnTime="22058350" SysTime="54975436" TotalTime="77033786" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=TravelAgency_002ECommandManager_002EGetCommandParameters/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x00200002" OwnTime="0" SysTime="76913900" TotalTime="76913900" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=TravelAgency_002ETicketCatalog_002EAddTicket/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x0020001D" OwnTime="22000110" SysTime="54911496" TotalTime="768204602" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=Wintellect_002EPowerCollections_002ERedBlackTree_00601_002B_003CEnumerateRangeInOrder_003Ed_005F_005Ff_002ESystem_002ECollections_002EGeneric_002EIEnumerator_003CT_003E_002Eget_005FCurrent/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x0030060D" OwnTime="54844394" SysTime="0" TotalTime="54844394" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=Wintellect_002EPowerCollections_002ERedBlackTree_00601_002EFirstItemInRange/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x00300458" OwnTime="54828082" SysTime="0" TotalTime="76866118" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=Wintellect_002EPowerCollections_002EUtil_002EGetHashCode/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x00300363" OwnTime="33023022" SysTime="10983248" TotalTime="44006270" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=Wintellect_002EPowerCollections_002EComparers_002BPairComparer_00602_002ECompare/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x003001EB" OwnTime="11006678" SysTime="22022842" TotalTime="55132720" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=System_002ECollections_002EGeneric_002EIDictionary_00602_002EAdd/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x00300175" OwnTime="21964938" SysTime="0" TotalTime="76997954" /&gt;&lt;Implementation FuId="0x003004BA" OwnTime="10968390" SysTime="0" TotalTime="131759822" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=TravelAgency_002ETickets_002ETicket_002ECreateFromToKey/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x0020002D" OwnTime="0" SysTime="32908392" TotalTime="32908392" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=Wintellect_002EPowerCollections_002EOrderedMultiDictionary_00602_002B_003C_003Ec_005F_005FDisplayClass4_002E_003CDoubleBoundedKeyRangeTester_003Eb_005F_005F3/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x00300631" OwnTime="32875330" SysTime="0" TotalTime="32875330" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=TravelAgency_002EInterfaces_002EITicketCatalog_002EFindTickets/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x00200013" OwnTime="32858012" SysTime="0" TotalTime="428078714" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=TravelAgency_002ETickets_002ETicket_002Eget_005FPrice/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x00200027" OwnTime="32820458" SysTime="0" TotalTime="32820458" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=TravelAgency_002ETickets_002ETicket_002Eget_005FDateAndTime/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x00200025" OwnTime="21978044" SysTime="0" TotalTime="21978044" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=TravelAgency_002ETicketCatalog_002E_003CFormatTicketsForPrinting_003Eb_005F_005F0/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x0020001F" OwnTime="21946246" SysTime="0" TotalTime="1020460660" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=TravelAgency_002ECommandManager_002E_002Ecctor/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x00200005" OwnTime="21946142" SysTime="0" TotalTime="43958800" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=Wintellect_002EPowerCollections_002EMultiDictionaryBase_00602_002ERemove/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x00300176" OwnTime="21936184" SysTime="0" TotalTime="32919432" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=TravelAgency_002ETicketCatalog_002EDeleteTicket/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x0020001E" OwnTime="10857356" SysTime="10968108" TotalTime="142673184" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=Wintellect_002EPowerCollections_002ERedBlackTree_00601_002EInsertSplit/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x00300445" OwnTime="21783514" SysTime="0" TotalTime="21783514" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=Wintellect_002EPowerCollections_002EMultiDictionaryBase_00602_002ECountAllValues/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x0030014B" OwnTime="11104166" SysTime="0" TotalTime="406111124" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=TravelAgency_002ETicketCatalog_002E_002Ector/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x00200012" OwnTime="0" SysTime="11038840" TotalTime="22012658" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=TravelAgency_002ETickets_002ETicket_002E_002Ector/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x00200020" OwnTime="11030548" SysTime="0" TotalTime="11030548" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=Wintellect_002EPowerCollections_002EHash_00601_002EGetFullHash/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x00300494" OwnTime="11018774" SysTime="0" TotalTime="44041796" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=Wintellect_002EPowerCollections_002ERedBlackTree_00601_002ECheckEnumerationStamp/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x0030043D" OwnTime="11013828" SysTime="0" TotalTime="11013828" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=Wintellect_002EPowerCollections_002EMultiDictionaryBase_00602_002ECountValues/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x003004DE" OwnTime="10997424" SysTime="0" TotalTime="44019474" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=System_002ECollections_002EGeneric_002EICollection_00601_002ECopyTo/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x00300051" OwnTime="10993940" SysTime="0" TotalTime="537833486" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=Wintellect_002EPowerCollections_002EHash_00601_002EGetHashValuesFromFullHash/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x00300495" OwnTime="10991220" SysTime="0" TotalTime="10991220" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=TravelAgency_002ETickets_002ETicket_002Eget_005FFromToKey/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x0020002B" OwnTime="10981428" SysTime="0" TotalTime="43889820" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=TravelAgency_002ETickets_002ETrainTicket_002Eset_005FStudentPrice/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x00200040" OwnTime="10979530" SysTime="0" TotalTime="10979530" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=Wintellect_002EPowerCollections_002EOrderedMultiDictionary_00602_002E_002Ector/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x003004B4" OwnTime="10973818" SysTime="0" TotalTime="10973818" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=TravelAgency_002EInterfaces_002EITicketCatalog_002EFindTicketsInInterval/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x00200014" OwnTime="10973800" SysTime="0" TotalTime="1744596936" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=Wintellect_002EPowerCollections_002ERedBlackTree_00601_002B_003CEnumerateRangeInOrder_003Ed_005F_005Ff_002ESystem_002EIDisposable_002EDispose/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x0030060F" OwnTime="10963870" SysTime="0" TotalTime="10963870" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=TravelAgency_002ETickets_002ETicket_002Eget_005FType/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x00200041" OwnTime="10945898" SysTime="0" TotalTime="10945898" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=Wintellect_002EPowerCollections_002EMultiDictionaryBase_00602_002BValuesForKeyCollection_002EGetEnumerator/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x0030015F" OwnTime="10912562" SysTime="0" TotalTime="10912562" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/PerformanceTabManager/XmlContent/@EntryValue">&lt;TabManagerStates&gt;&lt;z:anyType xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns:d1p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotViews.Performance.PerformanceTab" i:type="d1p1:PerformanceTabSerializer.State" xmlns:z="http://schemas.microsoft.com/2003/10/Serialization/"&gt;&#xD;
+  &lt;d1p1:ActiveIndex&gt;0&lt;/d1p1:ActiveIndex&gt;&#xD;
+  &lt;d1p1:TabStates&gt;&#xD;
+    &lt;d1p1:PerformanceTabSerializer.State.TabState&gt;&#xD;
+      &lt;d1p1:OpenedView&gt;0&lt;/d1p1:OpenedView&gt;&#xD;
+      &lt;d1p1:TabRootState xmlns:d4p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotViews.Performance.TabRoots" i:type="d4p1:SnapshotTabRoot.State"&gt;&#xD;
+        &lt;d4p1:ViewsFactoryState xmlns:d5p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotViews.Performance.Views" i:type="d5p1:ViewsFactoryBase.State"&gt;&#xD;
+          &lt;d5p1:States&gt;&#xD;
+            &lt;d5p1:ViewsFactoryBase.State.ViewKeyAndState&gt;&#xD;
+              &lt;d5p1:ViewKey&gt;CallTreePerThread&lt;/d5p1:ViewKey&gt;&#xD;
+              &lt;d5p1:ViewState xmlns:d8p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotViews.Performance.TreeViews" i:type="d8p1:SnapshotViewBase.State"&gt;&#xD;
+                &lt;d8p1:HorizontalScroll&gt;0&lt;/d8p1:HorizontalScroll&gt;&#xD;
+                &lt;d8p1:RootNodeData xmlns:d9p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotViews.Performance.Persistence"&gt;&#xD;
+                  &lt;d9p1:Children&gt;&#xD;
+                    &lt;d9p1:AbstractTreeNodeState&gt;&#xD;
+                      &lt;d9p1:Children&gt;&#xD;
+                        &lt;d9p1:AbstractTreeNodeState&gt;&#xD;
+                          &lt;d9p1:Children /&gt;&#xD;
+                          &lt;d9p1:State xmlns:d14p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d14p1:SnapshotTreeNode.State"&gt;&#xD;
+                            &lt;d14p1:mySectionNodesState&gt;&#xD;
+                              &lt;d14p1:myData&gt;362A/0&lt;/d14p1:myData&gt;&#xD;
+                            &lt;/d14p1:mySectionNodesState&gt;&#xD;
+                          &lt;/d9p1:State&gt;&#xD;
+                        &lt;/d9p1:AbstractTreeNodeState&gt;&#xD;
+                        &lt;d9p1:AbstractTreeNodeState&gt;&#xD;
+                          &lt;d9p1:Children /&gt;&#xD;
+                          &lt;d9p1:State xmlns:d14p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d14p1:SnapshotTreeNode.State"&gt;&#xD;
+                            &lt;d14p1:mySectionNodesState&gt;&#xD;
+                              &lt;d14p1:myData&gt;370B/0&lt;/d14p1:myData&gt;&#xD;
+                            &lt;/d14p1:mySectionNodesState&gt;&#xD;
+                          &lt;/d9p1:State&gt;&#xD;
+                        &lt;/d9p1:AbstractTreeNodeState&gt;&#xD;
+                        &lt;d9p1:AbstractTreeNodeState&gt;&#xD;
+                          &lt;d9p1:Children&gt;&#xD;
+                            &lt;d9p1:AbstractTreeNodeState&gt;&#xD;
+                              &lt;d9p1:Children&gt;&#xD;
+                                &lt;d9p1:AbstractTreeNodeState&gt;&#xD;
+                                  &lt;d9p1:Children&gt;&#xD;
+                                    &lt;d9p1:AbstractTreeNodeState&gt;&#xD;
+                                      &lt;d9p1:Children&gt;&#xD;
+                                        &lt;d9p1:AbstractTreeNodeState&gt;&#xD;
+                                          &lt;d9p1:Children /&gt;&#xD;
+                                          &lt;d9p1:State xmlns:d22p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotViews.Performance.Folding" i:type="d22p1:FilterSubtreeFoldedNode.State"&gt;&#xD;
+                                            &lt;d22p1:FoldRoot xmlns:d23p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d23p1:SnapshotTreeNode.State"&gt;&#xD;
+                                              &lt;d23p1:mySectionNodesState&gt;&#xD;
+                                                &lt;d23p1:myData&gt;3675/0&lt;/d23p1:myData&gt;&#xD;
+                                              &lt;/d23p1:mySectionNodesState&gt;&#xD;
+                                            &lt;/d22p1:FoldRoot&gt;&#xD;
+                                            &lt;d22p1:FoldedNodes xmlns:d23p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" /&gt;&#xD;
+                                          &lt;/d9p1:State&gt;&#xD;
+                                        &lt;/d9p1:AbstractTreeNodeState&gt;&#xD;
+                                        &lt;d9p1:AbstractTreeNodeState&gt;&#xD;
+                                          &lt;d9p1:Children /&gt;&#xD;
+                                          &lt;d9p1:State xmlns:d22p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d22p1:SnapshotTreeNode.State"&gt;&#xD;
+                                            &lt;d22p1:mySectionNodesState&gt;&#xD;
+                                              &lt;d22p1:myData&gt;368E/0&lt;/d22p1:myData&gt;&#xD;
+                                            &lt;/d22p1:mySectionNodesState&gt;&#xD;
+                                          &lt;/d9p1:State&gt;&#xD;
+                                        &lt;/d9p1:AbstractTreeNodeState&gt;&#xD;
+                                      &lt;/d9p1:Children&gt;&#xD;
+                                      &lt;d9p1:State xmlns:d20p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d20p1:SnapshotTreeNode.State"&gt;&#xD;
+                                        &lt;d20p1:mySectionNodesState&gt;&#xD;
+                                          &lt;d20p1:myData&gt;36A7/0&lt;/d20p1:myData&gt;&#xD;
+                                        &lt;/d20p1:mySectionNodesState&gt;&#xD;
+                                      &lt;/d9p1:State&gt;&#xD;
+                                    &lt;/d9p1:AbstractTreeNodeState&gt;&#xD;
+                                  &lt;/d9p1:Children&gt;&#xD;
+                                  &lt;d9p1:State xmlns:d18p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d18p1:SnapshotTreeNode.State"&gt;&#xD;
+                                    &lt;d18p1:mySectionNodesState&gt;&#xD;
+                                      &lt;d18p1:myData&gt;36C0/0&lt;/d18p1:myData&gt;&#xD;
+                                    &lt;/d18p1:mySectionNodesState&gt;&#xD;
+                                  &lt;/d9p1:State&gt;&#xD;
+                                &lt;/d9p1:AbstractTreeNodeState&gt;&#xD;
+                              &lt;/d9p1:Children&gt;&#xD;
+                              &lt;d9p1:State xmlns:d16p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d16p1:SnapshotTreeNode.State"&gt;&#xD;
+                                &lt;d16p1:mySectionNodesState&gt;&#xD;
+                                  &lt;d16p1:myData&gt;36D9/0&lt;/d16p1:myData&gt;&#xD;
+                                &lt;/d16p1:mySectionNodesState&gt;&#xD;
+                              &lt;/d9p1:State&gt;&#xD;
+                            &lt;/d9p1:AbstractTreeNodeState&gt;&#xD;
+                          &lt;/d9p1:Children&gt;&#xD;
+                          &lt;d9p1:State xmlns:d14p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d14p1:SnapshotTreeNode.State"&gt;&#xD;
+                            &lt;d14p1:mySectionNodesState&gt;&#xD;
+                              &lt;d14p1:myData&gt;36F2/0&lt;/d14p1:myData&gt;&#xD;
+                            &lt;/d14p1:mySectionNodesState&gt;&#xD;
+                          &lt;/d9p1:State&gt;&#xD;
+                        &lt;/d9p1:AbstractTreeNodeState&gt;&#xD;
+                        &lt;d9p1:AbstractTreeNodeState&gt;&#xD;
+                          &lt;d9p1:Children /&gt;&#xD;
+                          &lt;d9p1:State xmlns:d14p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d14p1:SnapshotTreeNode.State"&gt;&#xD;
+                            &lt;d14p1:mySectionNodesState&gt;&#xD;
+                              &lt;d14p1:myData&gt;10/0&lt;/d14p1:myData&gt;&#xD;
+                            &lt;/d14p1:mySectionNodesState&gt;&#xD;
+                          &lt;/d9p1:State&gt;&#xD;
+                        &lt;/d9p1:AbstractTreeNodeState&gt;&#xD;
+                      &lt;/d9p1:Children&gt;&#xD;
+                      &lt;d9p1:State xmlns:d12p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d12p1:ThreadStartNode.State"&gt;&#xD;
+                        &lt;d12p1:mySectionNodesState&gt;&#xD;
+                          &lt;d12p1:myData&gt;3724/0&lt;/d12p1:myData&gt;&#xD;
+                        &lt;/d12p1:mySectionNodesState&gt;&#xD;
+                        &lt;d12p1:Name&gt;Main Thread&lt;/d12p1:Name&gt;&#xD;
+                        &lt;d12p1:ThreadType&gt;HasMessageQueue MainThread&lt;/d12p1:ThreadType&gt;&#xD;
+                      &lt;/d9p1:State&gt;&#xD;
+                    &lt;/d9p1:AbstractTreeNodeState&gt;&#xD;
+                  &lt;/d9p1:Children&gt;&#xD;
+                  &lt;d9p1:State xmlns:d10p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d10p1:RootNode.StateOfThreadStartNodeBTfqEAW4"&gt;&#xD;
+                    &lt;d10p1:mySectionNodesState&gt;&#xD;
+                      &lt;d10p1:myData&gt;3724/0;25/1&lt;/d10p1:myData&gt;&#xD;
+                    &lt;/d10p1:mySectionNodesState&gt;&#xD;
+                    &lt;d10p1:IsFiltered&gt;true&lt;/d10p1:IsFiltered&gt;&#xD;
+                  &lt;/d9p1:State&gt;&#xD;
+                &lt;/d8p1:RootNodeData&gt;&#xD;
+                &lt;d8p1:VerticalScroll&gt;0&lt;/d8p1:VerticalScroll&gt;&#xD;
+              &lt;/d5p1:ViewState&gt;&#xD;
+            &lt;/d5p1:ViewsFactoryBase.State.ViewKeyAndState&gt;&#xD;
+          &lt;/d5p1:States&gt;&#xD;
+        &lt;/d4p1:ViewsFactoryState&gt;&#xD;
+      &lt;/d1p1:TabRootState&gt;&#xD;
+    &lt;/d1p1:PerformanceTabSerializer.State.TabState&gt;&#xD;
+  &lt;/d1p1:TabStates&gt;&#xD;
+&lt;/z:anyType&gt;&lt;/TabManagerStates&gt;</s:String></wpf:ResourceDictionary>

@@ -1,0 +1,7 @@
+C:\SVN\January-2015\18. Design-Patterns-Demo\Design Patterns\Structural\Bridge\bin\Debug\Bridge.exe.config
+C:\Users\Elena\Downloads\CSharpKPK\20. Design-Patterns-Introduction-and-Creational-Design-Patterns\18. Design-Patterns-Demo\Design Patterns\Structural\Bridge\bin\Debug\Bridge.exe.config
+C:\Users\Elena\Downloads\CSharpKPK\20. Design-Patterns-Introduction-and-Creational-Design-Patterns\18. Design-Patterns-Demo\Design Patterns\Structural\Bridge\bin\Debug\Bridge.exe
+C:\Users\Elena\Downloads\CSharpKPK\20. Design-Patterns-Introduction-and-Creational-Design-Patterns\18. Design-Patterns-Demo\Design Patterns\Structural\Bridge\bin\Debug\Bridge.pdb
+C:\Users\Elena\Downloads\CSharpKPK\20. Design-Patterns-Introduction-and-Creational-Design-Patterns\18. Design-Patterns-Demo\Design Patterns\Structural\Bridge\obj\Debug\6. Bridge.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\CSharpKPK\20. Design-Patterns-Introduction-and-Creational-Design-Patterns\18. Design-Patterns-Demo\Design Patterns\Structural\Bridge\obj\Debug\Bridge.exe
+C:\Users\Elena\Downloads\CSharpKPK\20. Design-Patterns-Introduction-and-Creational-Design-Patterns\18. Design-Patterns-Demo\Design Patterns\Structural\Bridge\obj\Debug\Bridge.pdb

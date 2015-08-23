@@ -1,0 +1,3 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\DoFactoryDemo\DoFactoryDemo\bin\Debug\DoFactoryDemo.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\DoFactoryDemo\DoFactoryDemo\obj\Debug\DoFactoryDemo.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\DoFactoryDemo\DoFactoryDemo\obj\Debug\DoFactoryDemo.pdb

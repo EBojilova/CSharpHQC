@@ -1,0 +1,9 @@
+c:\users\elena\documents\visual studio 2013\Projects\01.Introduction\IncorrectCode\bin\Debug\IncorrectCode.exe.config
+c:\users\elena\documents\visual studio 2013\Projects\01.Introduction\IncorrectCode\bin\Debug\IncorrectCode.exe
+c:\users\elena\documents\visual studio 2013\Projects\01.Introduction\IncorrectCode\bin\Debug\IncorrectCode.pdb
+c:\users\elena\documents\visual studio 2013\Projects\01.Introduction\IncorrectCode\obj\Debug\IncorrectCode.csprojResolveAssemblyReference.cache
+c:\users\elena\documents\visual studio 2013\Projects\01.Introduction\IncorrectCode\obj\Debug\IncorrectCode.exe
+c:\users\elena\documents\visual studio 2013\Projects\01.Introduction\IncorrectCode\obj\Debug\IncorrectCode.pdb
+C:\Users\Elena\Downloads\CSharpKPK\01. Introduction-to-High-Quality-Code\01.Introduction\IncorrectCode\bin\Debug\IncorrectCode.exe.config
+C:\Users\Elena\Downloads\CSharpKPK\01. Introduction-to-High-Quality-Code\01.Introduction\IncorrectCode\obj\Debug\IncorrectCode.exe
+C:\Users\Elena\Downloads\CSharpKPK\01. Introduction-to-High-Quality-Code\01.Introduction\IncorrectCode\obj\Debug\IncorrectCode.pdb

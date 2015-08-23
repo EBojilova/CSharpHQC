@@ -1,0 +1,7 @@
+C:\Users\Elena\Downloads\CSharpKPK\15. SOLID-Principles-in-Software-Design\Demo\DependencyInversionTests\bin\Debug\DependencyInversionTests.dll
+C:\Users\Elena\Downloads\CSharpKPK\15. SOLID-Principles-in-Software-Design\Demo\DependencyInversionTests\bin\Debug\DependencyInversionTests.pdb
+C:\Users\Elena\Downloads\CSharpKPK\15. SOLID-Principles-in-Software-Design\Demo\DependencyInversionTests\bin\Debug\SOLID and Other Principles.dll
+C:\Users\Elena\Downloads\CSharpKPK\15. SOLID-Principles-in-Software-Design\Demo\DependencyInversionTests\bin\Debug\SOLID and Other Principles.pdb
+C:\Users\Elena\Downloads\CSharpKPK\15. SOLID-Principles-in-Software-Design\Demo\DependencyInversionTests\obj\Debug\DependencyInversionTests.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\CSharpKPK\15. SOLID-Principles-in-Software-Design\Demo\DependencyInversionTests\obj\Debug\DependencyInversionTests.dll
+C:\Users\Elena\Downloads\CSharpKPK\15. SOLID-Principles-in-Software-Design\Demo\DependencyInversionTests\obj\Debug\DependencyInversionTests.pdb

@@ -1,0 +1,15 @@
+RegisterUser?username=user&password=this_is_my_password&confirmPassword=this_is_my_password
+LoginUser?username=user&password=this_is_my_password
+LogoutUser
+LoginUser?username=user&password=invalid
+RegisterUser?username=admin&password=pass123&confirmPassword=pass123
+LoginUser?username=admin&password=pass123
+LoginUser?username=admin&password=pass123
+CreateIssue?title=New%20issue&description=This%20is%20a%20new%20issue&priority=high&tags=new|issue
+AddComment?id=1&text=New%20comment
+AddComment?id=2&text=Another%20comment
+AddComment?id=3&text=New%20comment
+AddComment?id=4&text=Another%20comment
+AddComment?id=10&text=New%20comment
+MyIssues
+MyComments

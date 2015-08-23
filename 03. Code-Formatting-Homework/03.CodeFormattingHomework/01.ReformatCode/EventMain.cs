@@ -10,7 +10,7 @@
             {
             }
 
-            Console.WriteLine(Messages.Output);
+            Console.WriteLine(Messages.Writer);
         }
     }
 }

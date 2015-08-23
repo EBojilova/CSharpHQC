@@ -1,0 +1,12 @@
+D:\Lectures\Quality Code\Homework-15-Code-Optimization\02.Operations-Performance-Tests\Performance-Tests\Complex-Operations\bin\Debug\Complex-Operations.exe.config
+D:\Lectures\Quality Code\Homework-15-Code-Optimization\02.Operations-Performance-Tests\Performance-Tests\Complex-Operations\bin\Debug\Complex-Operations.exe
+D:\Lectures\Quality Code\Homework-15-Code-Optimization\02.Operations-Performance-Tests\Performance-Tests\Complex-Operations\bin\Debug\Complex-Operations.pdb
+D:\Lectures\Quality Code\Homework-15-Code-Optimization\02.Operations-Performance-Tests\Performance-Tests\Complex-Operations\obj\Debug\Complex-Operations.exe
+D:\Lectures\Quality Code\Homework-15-Code-Optimization\02.Operations-Performance-Tests\Performance-Tests\Complex-Operations\obj\Debug\Complex-Operations.pdb
+D:\Lectures\Quality Code\Homework-15-Code-Optimization\02.Operations-Performance-Tests\Performance-Tests\Complex-Operations\obj\Debug\Complex-Operations.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\CSharpKPK\10. Code-Tuning-and-Optimization\Homework\MySolution\02.Operations-Performance-Tests\Performance-Tests\Complex-Operations\bin\Debug\Complex-Operations.exe.config
+C:\Users\Elena\Downloads\CSharpKPK\10. Code-Tuning-and-Optimization\Homework\MySolution\02.Operations-Performance-Tests\Performance-Tests\Complex-Operations\obj\Debug\Complex-Operations.exe
+C:\Users\Elena\Downloads\CSharpKPK\10. Code-Tuning-and-Optimization\Homework\MySolution\02.Operations-Performance-Tests\Performance-Tests\Complex-Operations\obj\Debug\Complex-Operations.pdb
+C:\Users\Elena\Downloads\CSharpKPK\10. Code-Tuning-and-Optimization\Homework\MySolution\02.Operations-Performance-Tests\Performance-Tests\Complex-Operations\bin\Debug\Complex-Operations.exe
+C:\Users\Elena\Downloads\CSharpKPK\10. Code-Tuning-and-Optimization\Homework\MySolution\02.Operations-Performance-Tests\Performance-Tests\Complex-Operations\bin\Debug\Complex-Operations.pdb
+C:\Users\Elena\Downloads\CSharpKPK\10. Code-Tuning-and-Optimization\Homework\MySolution\02.Operations-Performance-Tests\Performance-Tests\Complex-Operations\obj\Debug\Complex-Operations.csprojResolveAssemblyReference.cache

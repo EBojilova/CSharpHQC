@@ -1,0 +1,8 @@
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Vehicle-Park-System\MySolution\vp_himineu\bin\Debug\vp_himineu.exe.config
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Vehicle-Park-System\MySolution\vp_himineu\bin\Debug\vp_himineu.exe
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Vehicle-Park-System\MySolution\vp_himineu\bin\Debug\vp_himineu.pdb
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Vehicle-Park-System\MySolution\vp_himineu\bin\Debug\PowerCollections.dll
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Vehicle-Park-System\MySolution\vp_himineu\bin\Debug\PowerCollections.xml
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Vehicle-Park-System\MySolution\vp_himineu\obj\Debug\vp_himineu.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Vehicle-Park-System\MySolution\vp_himineu\obj\Debug\vp_himineu.exe
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Vehicle-Park-System\MySolution\vp_himineu\obj\Debug\vp_himineu.pdb

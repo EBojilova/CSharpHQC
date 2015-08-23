@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\DoFactoryDemo\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\DoFactoryDemo\Prototype\bin\Debug\Prototype.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\DoFactoryDemo\Prototype\bin\Debug\Prototype.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\DoFactoryDemo\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\DoFactoryDemo\Prototype\obj\Debug\Prototype.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\DoFactoryDemo\Prototype\obj\Debug\Prototype.pdb

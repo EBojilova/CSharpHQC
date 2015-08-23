@@ -1,0 +1,4 @@
+C:\Users\Elena\Downloads\CSharpKPK\09. Defensive-Programming-and-Exceptions\Demo\ExceptionsDemo\bin\Debug\ExceptionsDemo.exe
+C:\Users\Elena\Downloads\CSharpKPK\09. Defensive-Programming-and-Exceptions\Demo\ExceptionsDemo\bin\Debug\ExceptionsDemo.pdb
+C:\Users\Elena\Downloads\CSharpKPK\09. Defensive-Programming-and-Exceptions\Demo\ExceptionsDemo\obj\Debug\ExceptionsDemo.exe
+C:\Users\Elena\Downloads\CSharpKPK\09. Defensive-Programming-and-Exceptions\Demo\ExceptionsDemo\obj\Debug\ExceptionsDemo.pdb

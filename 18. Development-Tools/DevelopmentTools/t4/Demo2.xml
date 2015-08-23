@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" ?>
+<project>
+	<file>App.config</file>
+	<file>Demo.cs</file>
+	<file>Demo.tt</file>
+	<file>Demo2.tt</file>
+	<file>Demo2.xml</file>
+	<file>packages.config</file>
+	<file>Program.cs</file>
+	<file>t4.csproj</file>
+</project>

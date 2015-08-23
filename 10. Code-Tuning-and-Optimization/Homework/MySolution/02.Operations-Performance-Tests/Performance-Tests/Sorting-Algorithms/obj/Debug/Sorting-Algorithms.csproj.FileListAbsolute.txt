@@ -1,0 +1,12 @@
+D:\Lectures\Quality Code\Homework-15-Code-Optimization\02.Operations-Performance-Tests\Performance-Tests\Sorting-Algorithms\bin\Debug\Sorting-Algorithms.exe.config
+D:\Lectures\Quality Code\Homework-15-Code-Optimization\02.Operations-Performance-Tests\Performance-Tests\Sorting-Algorithms\bin\Debug\Sorting-Algorithms.exe
+D:\Lectures\Quality Code\Homework-15-Code-Optimization\02.Operations-Performance-Tests\Performance-Tests\Sorting-Algorithms\bin\Debug\Sorting-Algorithms.pdb
+D:\Lectures\Quality Code\Homework-15-Code-Optimization\02.Operations-Performance-Tests\Performance-Tests\Sorting-Algorithms\obj\Debug\Sorting-Algorithms.exe
+D:\Lectures\Quality Code\Homework-15-Code-Optimization\02.Operations-Performance-Tests\Performance-Tests\Sorting-Algorithms\obj\Debug\Sorting-Algorithms.pdb
+D:\Lectures\Quality Code\Homework-15-Code-Optimization\02.Operations-Performance-Tests\Performance-Tests\Sorting-Algorithms\obj\Debug\Sorting-Algorithms.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\CSharpKPK\10. Code-Tuning-and-Optimization\Homework\MySolution\02.Operations-Performance-Tests\Performance-Tests\Sorting-Algorithms\bin\Debug\Sorting-Algorithms.exe.config
+C:\Users\Elena\Downloads\CSharpKPK\10. Code-Tuning-and-Optimization\Homework\MySolution\02.Operations-Performance-Tests\Performance-Tests\Sorting-Algorithms\obj\Debug\Sorting-Algorithms.exe
+C:\Users\Elena\Downloads\CSharpKPK\10. Code-Tuning-and-Optimization\Homework\MySolution\02.Operations-Performance-Tests\Performance-Tests\Sorting-Algorithms\obj\Debug\Sorting-Algorithms.pdb
+C:\Users\Elena\Downloads\CSharpKPK\10. Code-Tuning-and-Optimization\Homework\MySolution\02.Operations-Performance-Tests\Performance-Tests\Sorting-Algorithms\bin\Debug\Sorting-Algorithms.exe
+C:\Users\Elena\Downloads\CSharpKPK\10. Code-Tuning-and-Optimization\Homework\MySolution\02.Operations-Performance-Tests\Performance-Tests\Sorting-Algorithms\bin\Debug\Sorting-Algorithms.pdb
+C:\Users\Elena\Downloads\CSharpKPK\10. Code-Tuning-and-Optimization\Homework\MySolution\02.Operations-Performance-Tests\Performance-Tests\Sorting-Algorithms\obj\Debug\Sorting-Algorithms.csprojResolveAssemblyReference.cache

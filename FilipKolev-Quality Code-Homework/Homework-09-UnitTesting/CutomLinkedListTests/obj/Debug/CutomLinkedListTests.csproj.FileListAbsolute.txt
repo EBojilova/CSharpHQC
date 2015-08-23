@@ -1,0 +1,14 @@
+D:\Lectures\Quality Code\09. Unit-Tests-Homework\CustomeLinedList\CutomLinkedListTests\bin\Debug\CutomLinkedListTests.dll
+D:\Lectures\Quality Code\09. Unit-Tests-Homework\CustomeLinedList\CutomLinkedListTests\bin\Debug\CutomLinkedListTests.pdb
+D:\Lectures\Quality Code\09. Unit-Tests-Homework\CustomeLinedList\CutomLinkedListTests\bin\Debug\CustomLinkedList.dll
+D:\Lectures\Quality Code\09. Unit-Tests-Homework\CustomeLinedList\CutomLinkedListTests\bin\Debug\CustomLinkedList.pdb
+D:\Lectures\Quality Code\09. Unit-Tests-Homework\CustomeLinedList\CutomLinkedListTests\obj\Debug\CutomLinkedListTests.csprojResolveAssemblyReference.cache
+D:\Lectures\Quality Code\09. Unit-Tests-Homework\CustomeLinedList\CutomLinkedListTests\obj\Debug\CutomLinkedListTests.dll
+D:\Lectures\Quality Code\09. Unit-Tests-Homework\CustomeLinedList\CutomLinkedListTests\obj\Debug\CutomLinkedListTests.pdb
+C:\Users\Elena\Downloads\CSharpKPK\FilipKolev-Quality Code-Homework\Homework-09-UnitTesting\CutomLinkedListTests\bin\Debug\CutomLinkedListTests.dll
+C:\Users\Elena\Downloads\CSharpKPK\FilipKolev-Quality Code-Homework\Homework-09-UnitTesting\CutomLinkedListTests\bin\Debug\CutomLinkedListTests.pdb
+C:\Users\Elena\Downloads\CSharpKPK\FilipKolev-Quality Code-Homework\Homework-09-UnitTesting\CutomLinkedListTests\bin\Debug\CustomLinkedList.dll
+C:\Users\Elena\Downloads\CSharpKPK\FilipKolev-Quality Code-Homework\Homework-09-UnitTesting\CutomLinkedListTests\bin\Debug\CustomLinkedList.pdb
+C:\Users\Elena\Downloads\CSharpKPK\FilipKolev-Quality Code-Homework\Homework-09-UnitTesting\CutomLinkedListTests\obj\Debug\CutomLinkedListTests.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\CSharpKPK\FilipKolev-Quality Code-Homework\Homework-09-UnitTesting\CutomLinkedListTests\obj\Debug\CutomLinkedListTests.dll
+C:\Users\Elena\Downloads\CSharpKPK\FilipKolev-Quality Code-Homework\Homework-09-UnitTesting\CutomLinkedListTests\obj\Debug\CutomLinkedListTests.pdb

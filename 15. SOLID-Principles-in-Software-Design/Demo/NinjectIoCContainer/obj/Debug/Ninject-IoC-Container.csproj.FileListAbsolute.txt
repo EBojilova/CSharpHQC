@@ -1,0 +1,7 @@
+C:\Users\Elena\Downloads\CSharpKPK\15. SOLID-Principles-in-Software-Design\Demo\NinjectIoCContainer\bin\Debug\NinjectIoCContainer.exe
+C:\Users\Elena\Downloads\CSharpKPK\15. SOLID-Principles-in-Software-Design\Demo\NinjectIoCContainer\bin\Debug\NinjectIoCContainer.pdb
+C:\Users\Elena\Downloads\CSharpKPK\15. SOLID-Principles-in-Software-Design\Demo\NinjectIoCContainer\bin\Debug\Ninject.dll
+C:\Users\Elena\Downloads\CSharpKPK\15. SOLID-Principles-in-Software-Design\Demo\NinjectIoCContainer\bin\Debug\Ninject.xml
+C:\Users\Elena\Downloads\CSharpKPK\15. SOLID-Principles-in-Software-Design\Demo\NinjectIoCContainer\obj\Debug\Ninject-IoC-Container.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\CSharpKPK\15. SOLID-Principles-in-Software-Design\Demo\NinjectIoCContainer\obj\Debug\NinjectIoCContainer.exe
+C:\Users\Elena\Downloads\CSharpKPK\15. SOLID-Principles-in-Software-Design\Demo\NinjectIoCContainer\obj\Debug\NinjectIoCContainer.pdb

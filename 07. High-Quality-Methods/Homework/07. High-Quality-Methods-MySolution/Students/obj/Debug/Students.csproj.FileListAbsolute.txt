@@ -1,0 +1,6 @@
+C:\Users\Elena\Downloads\CSharpKPK\07. High-Quality-Methods\Homework\07. High-Quality-Methods-MySolution\Students\bin\Debug\Students.exe.config
+C:\Users\Elena\Downloads\CSharpKPK\07. High-Quality-Methods\Homework\07. High-Quality-Methods-MySolution\Students\bin\Debug\Students.exe
+C:\Users\Elena\Downloads\CSharpKPK\07. High-Quality-Methods\Homework\07. High-Quality-Methods-MySolution\Students\bin\Debug\Students.pdb
+C:\Users\Elena\Downloads\CSharpKPK\07. High-Quality-Methods\Homework\07. High-Quality-Methods-MySolution\Students\obj\Debug\Students.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\CSharpKPK\07. High-Quality-Methods\Homework\07. High-Quality-Methods-MySolution\Students\obj\Debug\Students.exe
+C:\Users\Elena\Downloads\CSharpKPK\07. High-Quality-Methods\Homework\07. High-Quality-Methods-MySolution\Students\obj\Debug\Students.pdb

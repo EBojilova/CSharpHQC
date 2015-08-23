@@ -1,0 +1,5 @@
+C:\Users\Elena\Downloads\CSharpKPK\FilipKolev-Quality Code-Homework\Homework-03-CodeDocumentation\C#\bin\Debug\StringExtensions.dll
+C:\Users\Elena\Downloads\CSharpKPK\FilipKolev-Quality Code-Homework\Homework-03-CodeDocumentation\C#\bin\Debug\StringExtensions.pdb
+C:\Users\Elena\Downloads\CSharpKPK\FilipKolev-Quality Code-Homework\Homework-03-CodeDocumentation\C#\obj\Debug\StringExtensions.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\CSharpKPK\FilipKolev-Quality Code-Homework\Homework-03-CodeDocumentation\C#\obj\Debug\StringExtensions.dll
+C:\Users\Elena\Downloads\CSharpKPK\FilipKolev-Quality Code-Homework\Homework-03-CodeDocumentation\C#\obj\Debug\StringExtensions.pdb

@@ -1,0 +1,16 @@
+c:\users\elena\documents\visual studio 2013\Projects\SOLIDhomework\LoggerTests\bin\Debug\LoggerTests.exe.config
+c:\users\elena\documents\visual studio 2013\Projects\SOLIDhomework\LoggerTests\bin\Debug\LoggerTests.exe
+c:\users\elena\documents\visual studio 2013\Projects\SOLIDhomework\LoggerTests\bin\Debug\LoggerTests.pdb
+c:\users\elena\documents\visual studio 2013\Projects\SOLIDhomework\LoggerTests\bin\Debug\Logger.dll
+c:\users\elena\documents\visual studio 2013\Projects\SOLIDhomework\LoggerTests\bin\Debug\Logger.pdb
+c:\users\elena\documents\visual studio 2013\Projects\SOLIDhomework\LoggerTests\obj\Debug\LoggerTests.csprojResolveAssemblyReference.cache
+c:\users\elena\documents\visual studio 2013\Projects\SOLIDhomework\LoggerTests\obj\Debug\LoggerTests.exe
+c:\users\elena\documents\visual studio 2013\Projects\SOLIDhomework\LoggerTests\obj\Debug\LoggerTests.pdb
+C:\Users\Elena\Downloads\CSharpKPK\15. SOLID-Principles-in-Software-Design\Homework\SOLIDhomework\LoggerTests\bin\Debug\LoggerTests.exe.config
+C:\Users\Elena\Downloads\CSharpKPK\15. SOLID-Principles-in-Software-Design\Homework\SOLIDhomework\LoggerTests\obj\Debug\LoggerTests.exe
+C:\Users\Elena\Downloads\CSharpKPK\15. SOLID-Principles-in-Software-Design\Homework\SOLIDhomework\LoggerTests\obj\Debug\LoggerTests.pdb
+C:\Users\Elena\Downloads\CSharpKPK\15. SOLID-Principles-in-Software-Design\Homework\SOLIDhomework\LoggerTests\bin\Debug\LoggerTests.exe
+C:\Users\Elena\Downloads\CSharpKPK\15. SOLID-Principles-in-Software-Design\Homework\SOLIDhomework\LoggerTests\bin\Debug\LoggerTests.pdb
+C:\Users\Elena\Downloads\CSharpKPK\15. SOLID-Principles-in-Software-Design\Homework\SOLIDhomework\LoggerTests\bin\Debug\Logger.dll
+C:\Users\Elena\Downloads\CSharpKPK\15. SOLID-Principles-in-Software-Design\Homework\SOLIDhomework\LoggerTests\bin\Debug\Logger.pdb
+C:\Users\Elena\Downloads\CSharpKPK\15. SOLID-Principles-in-Software-Design\Homework\SOLIDhomework\LoggerTests\obj\Debug\LoggerTests.csprojResolveAssemblyReference.cache

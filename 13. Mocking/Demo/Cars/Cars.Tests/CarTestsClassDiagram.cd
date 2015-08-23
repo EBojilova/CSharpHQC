@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Cars.Tests.CarsControllerTests">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEACABCAIAEAAAAABAAAAAAAAAAAAAAAAAAQACA=</HashCode>
+      <FileName>CarsControllerTests.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cars.Tests.Mocks.CarsRepositoryBaseMock">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAABAAAAAAAAAAAAAAAAAAAAgAAAAAABAAAA=</HashCode>
+      <FileName>Mocks\CarsRepositoryBaseMock.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Cars.Tests.Mocks.CarsRepositoryMock">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mocks\CarsRepositoryMock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Cars.Tests.Mocks.ICarsRepositoryMock">
+    <Position X="2.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mocks\ICarsRepositoryMock.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

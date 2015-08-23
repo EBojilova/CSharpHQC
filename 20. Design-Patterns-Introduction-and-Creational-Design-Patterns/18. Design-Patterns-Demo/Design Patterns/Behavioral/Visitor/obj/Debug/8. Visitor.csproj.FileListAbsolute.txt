@@ -1,0 +1,8 @@
+C:\Users\Jamal\Desktop\Design Patterns\Behavioral\Visitor\bin\Debug\Visitor.exe.config
+C:\Users\Jamal\Desktop\Trash\Design Patterns\Behavioral\Visitor\bin\Debug\Visitor.exe.config
+C:\Users\Elena\Downloads\CSharpKPK\20. Design-Patterns-Introduction-and-Creational-Design-Patterns\18. Design-Patterns-Demo\Design Patterns\Behavioral\Visitor\bin\Debug\Visitor.exe.config
+C:\Users\Elena\Downloads\CSharpKPK\20. Design-Patterns-Introduction-and-Creational-Design-Patterns\18. Design-Patterns-Demo\Design Patterns\Behavioral\Visitor\bin\Debug\Visitor.exe
+C:\Users\Elena\Downloads\CSharpKPK\20. Design-Patterns-Introduction-and-Creational-Design-Patterns\18. Design-Patterns-Demo\Design Patterns\Behavioral\Visitor\bin\Debug\Visitor.pdb
+C:\Users\Elena\Downloads\CSharpKPK\20. Design-Patterns-Introduction-and-Creational-Design-Patterns\18. Design-Patterns-Demo\Design Patterns\Behavioral\Visitor\obj\Debug\8. Visitor.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\CSharpKPK\20. Design-Patterns-Introduction-and-Creational-Design-Patterns\18. Design-Patterns-Demo\Design Patterns\Behavioral\Visitor\obj\Debug\Visitor.exe
+C:\Users\Elena\Downloads\CSharpKPK\20. Design-Patterns-Introduction-and-Creational-Design-Patterns\18. Design-Patterns-Demo\Design Patterns\Behavioral\Visitor\obj\Debug\Visitor.pdb

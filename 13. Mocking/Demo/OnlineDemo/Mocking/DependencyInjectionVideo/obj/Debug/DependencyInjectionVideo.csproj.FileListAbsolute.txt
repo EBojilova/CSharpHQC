@@ -1,0 +1,9 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Mocking\DependencyInjectionVideo\bin\Debug\DependencyInjectionVideo.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Mocking\DependencyInjectionVideo\bin\Debug\DependencyInjectionVideo.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Mocking\DependencyInjectionVideo\bin\Debug\DependencyInjectionVideo.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Mocking\DependencyInjectionVideo\obj\Debug\DependencyInjectionVideo.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Mocking\DependencyInjectionVideo\obj\Debug\DependencyInjectionVideo.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Mocking\DependencyInjectionVideo\obj\Debug\DependencyInjectionVideo.pdb
+C:\Users\Elena\Downloads\CSharpKPK\13. Mocking\Demo\OnlineDemo\Mocking\DependencyInjectionVideo\bin\Debug\DependencyInjectionVideo.exe.config
+C:\Users\Elena\Downloads\CSharpKPK\13. Mocking\Demo\OnlineDemo\Mocking\DependencyInjectionVideo\obj\Debug\DependencyInjectionVideo.exe
+C:\Users\Elena\Downloads\CSharpKPK\13. Mocking\Demo\OnlineDemo\Mocking\DependencyInjectionVideo\obj\Debug\DependencyInjectionVideo.pdb

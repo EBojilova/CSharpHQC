@@ -1,0 +1,7 @@
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Evening-Ticket-Office\Salimur\bin\Debug\Salimur.exe
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Evening-Ticket-Office\Salimur\bin\Debug\Salimur.pdb
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Evening-Ticket-Office\Salimur\bin\Debug\PowerCollections.dll
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Evening-Ticket-Office\Salimur\bin\Debug\PowerCollections.xml
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Evening-Ticket-Office\Salimur\obj\x86\Debug\Salimur.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Evening-Ticket-Office\Salimur\obj\x86\Debug\Salimur.exe
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Evening-Ticket-Office\Salimur\obj\x86\Debug\Salimur.pdb

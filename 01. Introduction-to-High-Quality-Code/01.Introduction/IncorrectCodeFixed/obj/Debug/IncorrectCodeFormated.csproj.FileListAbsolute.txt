@@ -1,0 +1,6 @@
+C:\Users\Elena\Downloads\CSharpKPK\01. Introduction-to-High-Quality-Code\01.Introduction\IncorrectCodeFixed\bin\Debug\IncorrectCodeFixed.exe.config
+C:\Users\Elena\Downloads\CSharpKPK\01. Introduction-to-High-Quality-Code\01.Introduction\IncorrectCodeFixed\bin\Debug\IncorrectCodeFixed.exe
+C:\Users\Elena\Downloads\CSharpKPK\01. Introduction-to-High-Quality-Code\01.Introduction\IncorrectCodeFixed\bin\Debug\IncorrectCodeFixed.pdb
+C:\Users\Elena\Downloads\CSharpKPK\01. Introduction-to-High-Quality-Code\01.Introduction\IncorrectCodeFixed\obj\Debug\IncorrectCodeFormated.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\CSharpKPK\01. Introduction-to-High-Quality-Code\01.Introduction\IncorrectCodeFixed\obj\Debug\IncorrectCodeFixed.exe
+C:\Users\Elena\Downloads\CSharpKPK\01. Introduction-to-High-Quality-Code\01.Introduction\IncorrectCodeFixed\obj\Debug\IncorrectCodeFixed.pdb

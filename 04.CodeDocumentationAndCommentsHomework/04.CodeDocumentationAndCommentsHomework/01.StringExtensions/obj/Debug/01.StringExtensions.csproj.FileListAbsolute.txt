@@ -1,0 +1,7 @@
+c:\users\elena\documents\visual studio 2013\Projects\04.CodeDocumentationAndCommentsHomework\01.StringExtensions\bin\Debug\01.StringExtensions.exe.config
+c:\users\elena\documents\visual studio 2013\Projects\04.CodeDocumentationAndCommentsHomework\01.StringExtensions\bin\Debug\01.StringExtensions.exe
+c:\users\elena\documents\visual studio 2013\Projects\04.CodeDocumentationAndCommentsHomework\01.StringExtensions\bin\Debug\01.StringExtensions.pdb
+c:\users\elena\documents\visual studio 2013\Projects\04.CodeDocumentationAndCommentsHomework\01.StringExtensions\obj\Debug\01.StringExtensions.csprojResolveAssemblyReference.cache
+c:\users\elena\documents\visual studio 2013\Projects\04.CodeDocumentationAndCommentsHomework\01.StringExtensions\obj\Debug\01.StringExtensions.exe
+c:\users\elena\documents\visual studio 2013\Projects\04.CodeDocumentationAndCommentsHomework\01.StringExtensions\obj\Debug\01.StringExtensions.pdb
+c:\users\elena\documents\visual studio 2013\Projects\04.CodeDocumentationAndCommentsHomework\01.StringExtensions\bin\Debug\01.StringExtensions.XML

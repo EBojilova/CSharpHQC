@@ -1,0 +1,5 @@
+C:\Software-University\Exam-Problems\High-Quality-Code\Theatre\Theatre-Author-Solution\Theatre.TestGenerator\bin\Debug\TestGenerator.exe
+C:\Software-University\Exam-Problems\High-Quality-Code\Theatre\Theatre-Author-Solution\Theatre.TestGenerator\bin\Debug\TestGenerator.pdb
+C:\Software-University\Exam-Problems\High-Quality-Code\Theatre\Theatre-Author-Solution\Theatre.TestGenerator\obj\Debug\Theatre.TestGenerator.csprojResolveAssemblyReference.cache
+C:\Software-University\Exam-Problems\High-Quality-Code\Theatre\Theatre-Author-Solution\Theatre.TestGenerator\obj\Debug\TestGenerator.exe
+C:\Software-University\Exam-Problems\High-Quality-Code\Theatre\Theatre-Author-Solution\Theatre.TestGenerator\obj\Debug\TestGenerator.pdb

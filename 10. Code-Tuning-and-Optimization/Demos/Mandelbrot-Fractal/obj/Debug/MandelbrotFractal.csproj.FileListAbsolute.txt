@@ -1,0 +1,7 @@
+C:\Users\Elena\Downloads\CSharpKPK\10. Code-Tuning-and-Optimization\Demos\Mandelbrot-Fractal\bin\Debug\MandelbrotDemo.exe
+C:\Users\Elena\Downloads\CSharpKPK\10. Code-Tuning-and-Optimization\Demos\Mandelbrot-Fractal\bin\Debug\MandelbrotDemo.pdb
+C:\Users\Elena\Downloads\CSharpKPK\10. Code-Tuning-and-Optimization\Demos\Mandelbrot-Fractal\obj\Debug\MandelbrotFractal.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\CSharpKPK\10. Code-Tuning-and-Optimization\Demos\Mandelbrot-Fractal\obj\Debug\Mandelbrot.MandelbrotWindow.resources
+C:\Users\Elena\Downloads\CSharpKPK\10. Code-Tuning-and-Optimization\Demos\Mandelbrot-Fractal\obj\Debug\MandelbrotFractal.csproj.GenerateResource.Cache
+C:\Users\Elena\Downloads\CSharpKPK\10. Code-Tuning-and-Optimization\Demos\Mandelbrot-Fractal\obj\Debug\MandelbrotDemo.exe
+C:\Users\Elena\Downloads\CSharpKPK\10. Code-Tuning-and-Optimization\Demos\Mandelbrot-Fractal\obj\Debug\MandelbrotDemo.pdb

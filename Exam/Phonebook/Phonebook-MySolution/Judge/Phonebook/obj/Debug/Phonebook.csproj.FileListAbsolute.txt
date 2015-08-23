@@ -1,0 +1,16 @@
+c:\users\elena\documents\visual studio 2013\Projects\Phonebook\Phonebook\bin\Debug\Phonebook.exe.config
+c:\users\elena\documents\visual studio 2013\Projects\Phonebook\Phonebook\bin\Debug\Phonebook.exe
+c:\users\elena\documents\visual studio 2013\Projects\Phonebook\Phonebook\bin\Debug\Phonebook.pdb
+c:\users\elena\documents\visual studio 2013\Projects\Phonebook\Phonebook\bin\Debug\PowerCollections.dll
+c:\users\elena\documents\visual studio 2013\Projects\Phonebook\Phonebook\bin\Debug\PowerCollections.xml
+c:\users\elena\documents\visual studio 2013\Projects\Phonebook\Phonebook\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache
+c:\users\elena\documents\visual studio 2013\Projects\Phonebook\Phonebook\obj\Debug\Phonebook.exe
+c:\users\elena\documents\visual studio 2013\Projects\Phonebook\Phonebook\obj\Debug\Phonebook.pdb
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Phonebook\Phonebook-MySolution\Phonebook\bin\Debug\Phonebook.exe.config
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Phonebook\Phonebook-MySolution\Phonebook\obj\Debug\Phonebook.exe
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Phonebook\Phonebook-MySolution\Phonebook\obj\Debug\Phonebook.pdb
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Phonebook\Phonebook-MySolution\Phonebook\bin\Debug\Phonebook.exe
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Phonebook\Phonebook-MySolution\Phonebook\bin\Debug\Phonebook.pdb
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Phonebook\Phonebook-MySolution\Phonebook\bin\Debug\PowerCollections.dll
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Phonebook\Phonebook-MySolution\Phonebook\bin\Debug\PowerCollections.xml
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Phonebook\Phonebook-MySolution\Phonebook\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache

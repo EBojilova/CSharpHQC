@@ -1,0 +1,5 @@
+C:\Users\Elena\Downloads\CSharpKPK\07. High-Quality-Methods\Homework\Geometry\bin\Debug\Geometry.exe.config
+C:\Users\Elena\Downloads\CSharpKPK\07. High-Quality-Methods\Homework\Geometry\bin\Debug\Geometry.exe
+C:\Users\Elena\Downloads\CSharpKPK\07. High-Quality-Methods\Homework\Geometry\bin\Debug\Geometry.pdb
+C:\Users\Elena\Downloads\CSharpKPK\07. High-Quality-Methods\Homework\Geometry\obj\Debug\Geometry.exe
+C:\Users\Elena\Downloads\CSharpKPK\07. High-Quality-Methods\Homework\Geometry\obj\Debug\Geometry.pdb

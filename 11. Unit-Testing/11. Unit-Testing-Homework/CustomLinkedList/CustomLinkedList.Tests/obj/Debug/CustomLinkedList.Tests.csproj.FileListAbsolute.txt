@@ -1,0 +1,12 @@
+C:\Users\Elena\Downloads\CSharpKPK\11. Unit-Testing\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList.Tests\bin\Debug\CustomLinkedList.Tests.dll
+C:\Users\Elena\Downloads\CSharpKPK\11. Unit-Testing\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList.Tests\bin\Debug\CustomLinkedList.Tests.pdb
+C:\Users\Elena\Downloads\CSharpKPK\11. Unit-Testing\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList.Tests\bin\Debug\CustomLinkedList.dll
+C:\Users\Elena\Downloads\CSharpKPK\11. Unit-Testing\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList.Tests\bin\Debug\Microsoft.Pex.Framework.dll
+C:\Users\Elena\Downloads\CSharpKPK\11. Unit-Testing\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Elena\Downloads\CSharpKPK\11. Unit-Testing\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList.Tests\bin\Debug\Microsoft.ExtendedReflection.Reasoning.dll
+C:\Users\Elena\Downloads\CSharpKPK\11. Unit-Testing\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList.Tests\bin\Debug\Microsoft.ExtendedReflection.dll
+C:\Users\Elena\Downloads\CSharpKPK\11. Unit-Testing\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList.Tests\bin\Debug\CustomLinkedList.pdb
+C:\Users\Elena\Downloads\CSharpKPK\11. Unit-Testing\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList.Tests\bin\Debug\Microsoft.Pex.Framework.xml
+C:\Users\Elena\Downloads\CSharpKPK\11. Unit-Testing\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList.Tests\obj\Debug\CustomLinkedList.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\CSharpKPK\11. Unit-Testing\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList.Tests\obj\Debug\CustomLinkedList.Tests.dll
+C:\Users\Elena\Downloads\CSharpKPK\11. Unit-Testing\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList.Tests\obj\Debug\CustomLinkedList.Tests.pdb

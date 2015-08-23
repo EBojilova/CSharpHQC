@@ -1,0 +1,8 @@
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Vehicle-Park-System\MySolution\VechicleParkSystem\bin\Debug\VechicleParkSystem.exe.config
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Vehicle-Park-System\MySolution\VechicleParkSystem\bin\Debug\VechicleParkSystem.exe
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Vehicle-Park-System\MySolution\VechicleParkSystem\bin\Debug\VechicleParkSystem.pdb
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Vehicle-Park-System\MySolution\VechicleParkSystem\bin\Debug\PowerCollections.dll
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Vehicle-Park-System\MySolution\VechicleParkSystem\bin\Debug\PowerCollections.xml
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Vehicle-Park-System\MySolution\VechicleParkSystem\obj\Debug\VechicleParkSystem.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Vehicle-Park-System\MySolution\VechicleParkSystem\obj\Debug\VechicleParkSystem.exe
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Vehicle-Park-System\MySolution\VechicleParkSystem\obj\Debug\VechicleParkSystem.pdb

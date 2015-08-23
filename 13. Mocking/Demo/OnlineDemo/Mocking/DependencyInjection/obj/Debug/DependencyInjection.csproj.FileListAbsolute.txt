@@ -1,0 +1,8 @@
+c:\users\elena\documents\visual studio 2013\Projects\Mocking\DependencyInjection\bin\Debug\DependencyInjection.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Mocking\DependencyInjection\bin\Debug\DependencyInjection.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Mocking\DependencyInjection\bin\Debug\DependencyInjection.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Mocking\DependencyInjection\obj\Debug\DependencyInjection.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Mocking\DependencyInjection\obj\Debug\DependencyInjection.pdb
+C:\Users\Elena\Downloads\CSharpKPK\13. Mocking\Demo\OnlineDemo\Mocking\DependencyInjection\bin\Debug\DependencyInjection.exe.config
+C:\Users\Elena\Downloads\CSharpKPK\13. Mocking\Demo\OnlineDemo\Mocking\DependencyInjection\obj\Debug\DependencyInjection.exe
+C:\Users\Elena\Downloads\CSharpKPK\13. Mocking\Demo\OnlineDemo\Mocking\DependencyInjection\obj\Debug\DependencyInjection.pdb

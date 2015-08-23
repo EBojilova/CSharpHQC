@@ -1,0 +1,6 @@
+RegisterUser?username=user&password=pass123&confirmPassword=pass123
+LoginUser?username=user&password=pass123
+LogoutUser
+LoginUser?username=user&password=pass123
+RegisterUser?username=user&password=pass123&confirmPassword=pass123
+LogoutUser

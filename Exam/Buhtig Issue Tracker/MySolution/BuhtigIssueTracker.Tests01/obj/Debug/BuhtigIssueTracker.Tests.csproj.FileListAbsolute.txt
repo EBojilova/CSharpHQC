@@ -1,0 +1,15 @@
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution\BuhtigIssueTracker.Tests01\bin\Debug\BuhtigIssueTracker.Tests.dll
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution\BuhtigIssueTracker.Tests01\bin\Debug\BuhtigIssueTracker.Tests.pdb
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution\BuhtigIssueTracker.Tests01\bin\Debug\BuhtigIssueTracker.exe
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution\BuhtigIssueTracker.Tests01\bin\Debug\Microsoft.Pex.Framework.dll
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution\BuhtigIssueTracker.Tests01\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution\BuhtigIssueTracker.Tests01\bin\Debug\PowerCollections.dll
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution\BuhtigIssueTracker.Tests01\bin\Debug\Microsoft.ExtendedReflection.Reasoning.dll
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution\BuhtigIssueTracker.Tests01\bin\Debug\Microsoft.ExtendedReflection.dll
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution\BuhtigIssueTracker.Tests01\bin\Debug\BuhtigIssueTracker.pdb
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution\BuhtigIssueTracker.Tests01\bin\Debug\Microsoft.Pex.Framework.xml
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution\BuhtigIssueTracker.Tests01\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution\BuhtigIssueTracker.Tests01\bin\Debug\PowerCollections.xml
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution\BuhtigIssueTracker.Tests01\obj\Debug\BuhtigIssueTracker.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution\BuhtigIssueTracker.Tests01\obj\Debug\BuhtigIssueTracker.Tests.dll
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution\BuhtigIssueTracker.Tests01\obj\Debug\BuhtigIssueTracker.Tests.pdb

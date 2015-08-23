@@ -1,0 +1,6 @@
+c:\users\elena\documents\visual studio 2013\Projects\TDDDemo\Softuni.Collections.Generic.Tree\bin\Debug\Softuni.Collections.Generic.Tree.exe.config
+c:\users\elena\documents\visual studio 2013\Projects\TDDDemo\Softuni.Collections.Generic.Tree\bin\Debug\Softuni.Collections.Generic.Tree.exe
+c:\users\elena\documents\visual studio 2013\Projects\TDDDemo\Softuni.Collections.Generic.Tree\bin\Debug\Softuni.Collections.Generic.Tree.pdb
+c:\users\elena\documents\visual studio 2013\Projects\TDDDemo\Softuni.Collections.Generic.Tree\obj\Debug\Softuni.Collections.Generic.Tree.exe
+c:\users\elena\documents\visual studio 2013\Projects\TDDDemo\Softuni.Collections.Generic.Tree\obj\Debug\Softuni.Collections.Generic.Tree.pdb
+c:\users\elena\documents\visual studio 2013\Projects\TDDDemo\Softuni.Collections.Generic.Tree\obj\Debug\Softuni.Collections.Generic.Tree.csprojResolveAssemblyReference.cache

@@ -1,0 +1,62 @@
+User user registered successfully
+User user logged in successfully
+User user logged out successfully
+The password is invalid for user user
+User admin registered successfully
+User admin logged in successfully
+There is already a logged in user
+Issue 1 created successfully
+Issue 2 created successfully
+Issue 3 created successfully
+Issue 4 created successfully
+Issue 5 created successfully
+Issue 6 created successfully
+Comment added successfully to issue 1
+Comment added successfully to issue 2
+Comment added successfully to issue 3
+Comment added successfully to issue 4
+There is no issue with ID 10
+Another issue
+Priority: ****
+This is yet another new issue
+Tags: another,issue,showstopper
+Another issue by admin
+Priority: ***
+This is another new issue
+Tags: another,issue,new
+Comments:
+Another comment
+-- admin
+New issue
+Priority: ***
+This is a new issue
+Tags: issue,new
+Comments:
+New comment
+-- admin
+Another issue by admin
+Priority: **
+This is another new issue
+Tags: another,issue,new
+Comments:
+Another comment
+-- admin
+Another issue
+Priority: *
+This is another new issue
+Tags: another,issue
+Another issue by admin
+Priority: *
+This is another new issue
+Tags: another,issue,new
+Comments:
+New comment
+-- admin
+New comment
+-- admin
+Another comment
+-- admin
+New comment
+-- admin
+Another comment
+-- admin

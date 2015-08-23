@@ -1,0 +1,163 @@
+User user registered successfully
+User user logged in successfully
+User user logged out successfully
+The password is invalid for user user
+User admin registered successfully
+User admin logged in successfully
+There is already a logged in user
+No issues
+No comments
+Issue 1 created successfully
+Issue 2 created successfully
+Issue 3 created successfully
+Issue 4 created successfully
+Issue 5 created successfully
+Issue 6 created successfully
+Comment added successfully to issue 1
+Comment added successfully to issue 2
+Comment added successfully to issue 3
+Comment added successfully to issue 4
+There is no issue with ID 10
+Another issue
+Priority: ****
+This is yet another new issue
+Tags: another,issue,showstopper
+Another issue by admin
+Priority: ***
+This is another new issue
+Tags: another,issue,new
+Comments:
+Another comment
+-- admin
+New issue
+Priority: ***
+This is a new issue
+Tags: issue,new
+Comments:
+New comment
+-- admin
+Another issue by admin
+Priority: **
+This is another new issue
+Tags: another,issue,new
+Comments:
+Another comment
+-- admin
+Another issue
+Priority: *
+This is another new issue
+Tags: another,issue
+Another issue by admin
+Priority: *
+This is another new issue
+Tags: another,issue,new
+Comments:
+New comment
+-- admin
+New comment
+-- admin
+Another comment
+-- admin
+New comment
+-- admin
+Another comment
+-- admin
+User admin logged out successfully
+A user with username user already exists
+User user logged in successfully
+Comment added successfully to issue 2
+Comment by user
+-- user
+No issues
+The issue with ID 1 does not belong to user user
+User user logged out successfully
+User admin logged in successfully
+Issue 1 removed
+Another issue by admin
+Priority: ***
+This is another new issue
+Tags: another,issue,new
+Comments:
+Another comment
+-- admin
+Another issue by admin
+Priority: **
+This is another new issue
+Tags: another,issue,new
+Comments:
+Another comment
+-- admin
+Comment by user
+-- user
+Another issue by admin
+Priority: *
+This is another new issue
+Tags: another,issue,new
+Comments:
+New comment
+-- admin
+Another issue
+Priority: ****
+This is yet another new issue
+Tags: another,issue,showstopper
+Another issue by admin
+Priority: ***
+This is another new issue
+Tags: another,issue,new
+Comments:
+Another comment
+-- admin
+Another issue by admin
+Priority: **
+This is another new issue
+Tags: another,issue,new
+Comments:
+Another comment
+-- admin
+Comment by user
+-- user
+Another issue
+Priority: *
+This is another new issue
+Tags: another,issue
+Another issue by admin
+Priority: *
+This is another new issue
+Tags: another,issue,new
+Comments:
+New comment
+-- admin
+User admin logged out successfully
+User user logged in successfully
+There is no issue with ID 1
+Comment added successfully to issue 2
+Comment added successfully to issue 3
+Comment added successfully to issue 4
+There is no issue with ID 1
+Comment added successfully to issue 2
+Comment added successfully to issue 3
+Comment added successfully to issue 4
+There is no issue with ID 1
+Comment added successfully to issue 2
+Comment added successfully to issue 3
+Comment added successfully to issue 4
+Comment by user
+-- user
+Another comment
+-- user
+New comment
+-- user
+Another comment
+-- user
+Another comment
+-- user
+New comment
+-- user
+Another comment
+-- user
+Another comment
+-- user
+New comment
+-- user
+Another comment
+-- user

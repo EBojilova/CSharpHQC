@@ -1,0 +1,5 @@
+C:\Users\Elena\Downloads\CSharpKPK\FilipKolev-Quality Code-Homework\Homework-07- High-Quality-Methods\Geometry\bin\Debug\Geometry.exe.config
+C:\Users\Elena\Downloads\CSharpKPK\FilipKolev-Quality Code-Homework\Homework-07- High-Quality-Methods\Geometry\bin\Debug\Geometry.exe
+C:\Users\Elena\Downloads\CSharpKPK\FilipKolev-Quality Code-Homework\Homework-07- High-Quality-Methods\Geometry\bin\Debug\Geometry.pdb
+C:\Users\Elena\Downloads\CSharpKPK\FilipKolev-Quality Code-Homework\Homework-07- High-Quality-Methods\Geometry\obj\Debug\Geometry.exe
+C:\Users\Elena\Downloads\CSharpKPK\FilipKolev-Quality Code-Homework\Homework-07- High-Quality-Methods\Geometry\obj\Debug\Geometry.pdb

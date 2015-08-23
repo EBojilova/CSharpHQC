@@ -1,0 +1,6 @@
+c:\users\elena\documents\visual studio 2013\Projects\Recursion\Fibonachi\bin\Debug\Fibonachi.exe.config
+c:\users\elena\documents\visual studio 2013\Projects\Recursion\Fibonachi\bin\Debug\Fibonachi.exe
+c:\users\elena\documents\visual studio 2013\Projects\Recursion\Fibonachi\bin\Debug\Fibonachi.pdb
+c:\users\elena\documents\visual studio 2013\Projects\Recursion\Fibonachi\obj\Debug\Fibonachi.csprojResolveAssemblyReference.cache
+c:\users\elena\documents\visual studio 2013\Projects\Recursion\Fibonachi\obj\Debug\Fibonachi.exe
+c:\users\elena\documents\visual studio 2013\Projects\Recursion\Fibonachi\obj\Debug\Fibonachi.pdb

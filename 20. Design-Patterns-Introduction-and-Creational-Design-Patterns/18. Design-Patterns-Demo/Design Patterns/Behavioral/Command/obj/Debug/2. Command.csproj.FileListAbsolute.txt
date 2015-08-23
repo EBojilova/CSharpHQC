@@ -1,0 +1,8 @@
+C:\Users\Jamal\Desktop\Design Patterns\Behavioral\Command\bin\Debug\Command.exe.config
+C:\Users\Jamal\Desktop\Trash\Design Patterns\Behavioral\Command\bin\Debug\Command.exe.config
+C:\Users\Elena\Downloads\CSharpKPK\20. Design-Patterns-Introduction-and-Creational-Design-Patterns\18. Design-Patterns-Demo\Design Patterns\Behavioral\Command\bin\Debug\Command.exe.config
+C:\Users\Elena\Downloads\CSharpKPK\20. Design-Patterns-Introduction-and-Creational-Design-Patterns\18. Design-Patterns-Demo\Design Patterns\Behavioral\Command\bin\Debug\Command.exe
+C:\Users\Elena\Downloads\CSharpKPK\20. Design-Patterns-Introduction-and-Creational-Design-Patterns\18. Design-Patterns-Demo\Design Patterns\Behavioral\Command\bin\Debug\Command.pdb
+C:\Users\Elena\Downloads\CSharpKPK\20. Design-Patterns-Introduction-and-Creational-Design-Patterns\18. Design-Patterns-Demo\Design Patterns\Behavioral\Command\obj\Debug\2. Command.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\CSharpKPK\20. Design-Patterns-Introduction-and-Creational-Design-Patterns\18. Design-Patterns-Demo\Design Patterns\Behavioral\Command\obj\Debug\Command.exe
+C:\Users\Elena\Downloads\CSharpKPK\20. Design-Patterns-Introduction-and-Creational-Design-Patterns\18. Design-Patterns-Demo\Design Patterns\Behavioral\Command\obj\Debug\Command.pdb

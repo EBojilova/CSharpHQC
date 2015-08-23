@@ -1,0 +1,14 @@
+﻿namespace VechicleParkSystem.Vehicles
+{
+    internal class Motorbike : Vehicle
+    {
+        private const decimal DefaultRegularRate = 1.35M;
+
+        private const decimal DefaultOvertimeRate = 3.00M;
+
+        public Motorbike(string licensePlate, string owner, int reservedHours)
+            : base(licensePlate, owner, DefaultRegularRate, DefaultOvertimeRate, reservedHours)
+        {
+        }
+    }
+}

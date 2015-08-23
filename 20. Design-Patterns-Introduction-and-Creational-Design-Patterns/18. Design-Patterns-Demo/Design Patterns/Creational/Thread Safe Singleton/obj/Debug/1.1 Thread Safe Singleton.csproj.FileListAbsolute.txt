@@ -1,0 +1,8 @@
+C:\Users\Jamal\Desktop\Design Patterns\Creational\Thread Safe Singleton\bin\Debug\Thread Safe Singleton.exe.config
+C:\Users\Jamal\Desktop\Trash\Design Patterns\Creational\Thread Safe Singleton\bin\Debug\Thread Safe Singleton.exe.config
+C:\Users\Elena\Downloads\CSharpKPK\20. Design-Patterns-Introduction-and-Creational-Design-Patterns\18. Design-Patterns-Demo\Design Patterns\Creational\Thread Safe Singleton\bin\Debug\Thread Safe Singleton.exe.config
+C:\Users\Elena\Downloads\CSharpKPK\20. Design-Patterns-Introduction-and-Creational-Design-Patterns\18. Design-Patterns-Demo\Design Patterns\Creational\Thread Safe Singleton\bin\Debug\Thread Safe Singleton.exe
+C:\Users\Elena\Downloads\CSharpKPK\20. Design-Patterns-Introduction-and-Creational-Design-Patterns\18. Design-Patterns-Demo\Design Patterns\Creational\Thread Safe Singleton\bin\Debug\Thread Safe Singleton.pdb
+C:\Users\Elena\Downloads\CSharpKPK\20. Design-Patterns-Introduction-and-Creational-Design-Patterns\18. Design-Patterns-Demo\Design Patterns\Creational\Thread Safe Singleton\obj\Debug\Thread Safe Singleton.exe
+C:\Users\Elena\Downloads\CSharpKPK\20. Design-Patterns-Introduction-and-Creational-Design-Patterns\18. Design-Patterns-Demo\Design Patterns\Creational\Thread Safe Singleton\obj\Debug\Thread Safe Singleton.pdb
+C:\Users\Elena\Downloads\CSharpKPK\20. Design-Patterns-Introduction-and-Creational-Design-Patterns\18. Design-Patterns-Demo\Design Patterns\Creational\Thread Safe Singleton\obj\Debug\1.1 Thread Safe Singleton.csprojResolveAssemblyReference.cache

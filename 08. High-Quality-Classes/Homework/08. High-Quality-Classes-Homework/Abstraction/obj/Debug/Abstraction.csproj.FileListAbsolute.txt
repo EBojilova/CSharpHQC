@@ -1,0 +1,4 @@
+C:\Users\Elena\Downloads\CSharpKPK\08. High-Quality-Classes\Homework\08. High-Quality-Classes-Homework\Abstraction\bin\Debug\Abstraction.exe
+C:\Users\Elena\Downloads\CSharpKPK\08. High-Quality-Classes\Homework\08. High-Quality-Classes-Homework\Abstraction\bin\Debug\Abstraction.pdb
+C:\Users\Elena\Downloads\CSharpKPK\08. High-Quality-Classes\Homework\08. High-Quality-Classes-Homework\Abstraction\obj\Debug\Abstraction.exe
+C:\Users\Elena\Downloads\CSharpKPK\08. High-Quality-Classes\Homework\08. High-Quality-Classes-Homework\Abstraction\obj\Debug\Abstraction.pdb

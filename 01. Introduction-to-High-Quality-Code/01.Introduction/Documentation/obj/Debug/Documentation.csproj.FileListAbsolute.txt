@@ -1,0 +1,6 @@
+C:\Users\Elena\Downloads\CSharpKPK\01. Introduction-to-High-Quality-Code\01.Introduction\Documentation\obj\Debug\Documentation.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\CSharpKPK\01. Introduction-to-High-Quality-Code\01.Introduction\Documentation\bin\Debug\Documentation.exe.config
+C:\Users\Elena\Downloads\CSharpKPK\01. Introduction-to-High-Quality-Code\01.Introduction\Documentation\bin\Debug\Documentation.exe
+C:\Users\Elena\Downloads\CSharpKPK\01. Introduction-to-High-Quality-Code\01.Introduction\Documentation\bin\Debug\Documentation.pdb
+C:\Users\Elena\Downloads\CSharpKPK\01. Introduction-to-High-Quality-Code\01.Introduction\Documentation\obj\Debug\Documentation.exe
+C:\Users\Elena\Downloads\CSharpKPK\01. Introduction-to-High-Quality-Code\01.Introduction\Documentation\obj\Debug\Documentation.pdb

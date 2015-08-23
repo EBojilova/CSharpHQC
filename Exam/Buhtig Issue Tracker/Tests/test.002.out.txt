@@ -1,0 +1,22 @@
+User user registered successfully
+User user logged in successfully
+User user logged out successfully
+The password is invalid for user user
+User admin registered successfully
+User admin logged in successfully
+There is already a logged in user
+Issue 1 created successfully
+Comment added successfully to issue 1
+There is no issue with ID 2
+There is no issue with ID 3
+There is no issue with ID 4
+There is no issue with ID 10
+New issue
+Priority: ***
+This is a new issue
+Tags: issue,new
+Comments:
+New comment
+-- admin
+New comment
+-- admin

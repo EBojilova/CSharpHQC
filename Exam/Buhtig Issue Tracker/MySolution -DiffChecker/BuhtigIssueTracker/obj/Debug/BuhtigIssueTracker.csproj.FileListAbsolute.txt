@@ -1,0 +1,16 @@
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution\BuhtigIssueTracker\bin\Debug\BuhtigIssueTracker.exe.config
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution\BuhtigIssueTracker\bin\Debug\BuhtigIssueTracker.exe
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution\BuhtigIssueTracker\bin\Debug\BuhtigIssueTracker.pdb
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution\BuhtigIssueTracker\bin\Debug\PowerCollections.dll
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution\BuhtigIssueTracker\bin\Debug\PowerCollections.xml
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution\BuhtigIssueTracker\obj\Debug\BuhtigIssueTracker.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution\BuhtigIssueTracker\obj\Debug\BuhtigIssueTracker.exe
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution\BuhtigIssueTracker\obj\Debug\BuhtigIssueTracker.pdb
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution -DiffChecker\BuhtigIssueTracker\bin\Debug\BuhtigIssueTracker.exe.config
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution -DiffChecker\BuhtigIssueTracker\obj\Debug\BuhtigIssueTracker.exe
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution -DiffChecker\BuhtigIssueTracker\obj\Debug\BuhtigIssueTracker.pdb
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution -DiffChecker\BuhtigIssueTracker\bin\Debug\BuhtigIssueTracker.exe
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution -DiffChecker\BuhtigIssueTracker\bin\Debug\BuhtigIssueTracker.pdb
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution -DiffChecker\BuhtigIssueTracker\bin\Debug\PowerCollections.dll
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution -DiffChecker\BuhtigIssueTracker\bin\Debug\PowerCollections.xml
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution -DiffChecker\BuhtigIssueTracker\obj\Debug\BuhtigIssueTracker.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution\BuhtigIssueTracker.UnitTests\obj\Debug\BuhtigIssueTracker.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution\BuhtigIssueTracker.UnitTests\bin\Debug\BuhtigIssueTracker.UnitTests.dll
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution\BuhtigIssueTracker.UnitTests\bin\Debug\BuhtigIssueTracker.UnitTests.pdb
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution\BuhtigIssueTracker.UnitTests\bin\Debug\BuhtigIssueTracker.exe
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution\BuhtigIssueTracker.UnitTests\bin\Debug\PowerCollections.dll
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution\BuhtigIssueTracker.UnitTests\bin\Debug\BuhtigIssueTracker.pdb
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution\BuhtigIssueTracker.UnitTests\bin\Debug\PowerCollections.xml
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution\BuhtigIssueTracker.UnitTests\obj\Debug\BuhtigIssueTracker.UnitTests.dll
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution\BuhtigIssueTracker.UnitTests\obj\Debug\BuhtigIssueTracker.UnitTests.pdb

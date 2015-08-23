@@ -1,0 +1,7 @@
+C:\Users\Elena\Downloads\CSharpKPK\14. Test-Driven-Development\Demo\Tree\Tree.Tests\bin\Debug\Tree.Tests.dll
+C:\Users\Elena\Downloads\CSharpKPK\14. Test-Driven-Development\Demo\Tree\Tree.Tests\bin\Debug\Tree.Tests.pdb
+C:\Users\Elena\Downloads\CSharpKPK\14. Test-Driven-Development\Demo\Tree\Tree.Tests\bin\Debug\Tree.exe
+C:\Users\Elena\Downloads\CSharpKPK\14. Test-Driven-Development\Demo\Tree\Tree.Tests\bin\Debug\Tree.pdb
+C:\Users\Elena\Downloads\CSharpKPK\14. Test-Driven-Development\Demo\Tree\Tree.Tests\obj\Debug\Tree.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\CSharpKPK\14. Test-Driven-Development\Demo\Tree\Tree.Tests\obj\Debug\Tree.Tests.dll
+C:\Users\Elena\Downloads\CSharpKPK\14. Test-Driven-Development\Demo\Tree\Tree.Tests\obj\Debug\Tree.Tests.pdb

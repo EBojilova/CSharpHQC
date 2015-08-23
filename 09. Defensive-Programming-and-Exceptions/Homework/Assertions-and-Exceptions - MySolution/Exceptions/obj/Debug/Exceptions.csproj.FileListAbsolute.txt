@@ -1,0 +1,5 @@
+C:\Users\Elena\Downloads\CSharpKPK\09. Defensive-Programming-and-Exceptions\Homework\Assertions-and-Exceptions - MySolution\Exceptions\bin\Debug\Exceptions-Homework.exe
+C:\Users\Elena\Downloads\CSharpKPK\09. Defensive-Programming-and-Exceptions\Homework\Assertions-and-Exceptions - MySolution\Exceptions\bin\Debug\Exceptions-Homework.pdb
+C:\Users\Elena\Downloads\CSharpKPK\09. Defensive-Programming-and-Exceptions\Homework\Assertions-and-Exceptions - MySolution\Exceptions\obj\Debug\Exceptions.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\CSharpKPK\09. Defensive-Programming-and-Exceptions\Homework\Assertions-and-Exceptions - MySolution\Exceptions\obj\Debug\Exceptions-Homework.exe
+C:\Users\Elena\Downloads\CSharpKPK\09. Defensive-Programming-and-Exceptions\Homework\Assertions-and-Exceptions - MySolution\Exceptions\obj\Debug\Exceptions-Homework.pdb

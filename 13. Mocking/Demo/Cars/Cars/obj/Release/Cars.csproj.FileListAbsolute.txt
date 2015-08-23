@@ -1,0 +1,4 @@
+C:\Users\Elena\Downloads\CSharpKPK\13. Mocking\Demo\Cars\Cars\bin\Release\Cars.dll
+C:\Users\Elena\Downloads\CSharpKPK\13. Mocking\Demo\Cars\Cars\bin\Release\Cars.pdb
+C:\Users\Elena\Downloads\CSharpKPK\13. Mocking\Demo\Cars\Cars\obj\Release\Cars.dll
+C:\Users\Elena\Downloads\CSharpKPK\13. Mocking\Demo\Cars\Cars\obj\Release\Cars.pdb

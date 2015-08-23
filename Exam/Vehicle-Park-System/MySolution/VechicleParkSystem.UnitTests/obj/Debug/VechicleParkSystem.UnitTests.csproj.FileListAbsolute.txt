@@ -1,0 +1,9 @@
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Vehicle-Park-System\MySolution\VechicleParkSystem.UnitTests\obj\Debug\VechicleParkSystem.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Vehicle-Park-System\MySolution\VechicleParkSystem.UnitTests\bin\Debug\VechicleParkSystem.UnitTests.dll
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Vehicle-Park-System\MySolution\VechicleParkSystem.UnitTests\bin\Debug\VechicleParkSystem.UnitTests.pdb
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Vehicle-Park-System\MySolution\VechicleParkSystem.UnitTests\bin\Debug\VechicleParkSystem.exe
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Vehicle-Park-System\MySolution\VechicleParkSystem.UnitTests\bin\Debug\PowerCollections.dll
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Vehicle-Park-System\MySolution\VechicleParkSystem.UnitTests\bin\Debug\VechicleParkSystem.pdb
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Vehicle-Park-System\MySolution\VechicleParkSystem.UnitTests\bin\Debug\PowerCollections.xml
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Vehicle-Park-System\MySolution\VechicleParkSystem.UnitTests\obj\Debug\VechicleParkSystem.UnitTests.dll
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Vehicle-Park-System\MySolution\VechicleParkSystem.UnitTests\obj\Debug\VechicleParkSystem.UnitTests.pdb

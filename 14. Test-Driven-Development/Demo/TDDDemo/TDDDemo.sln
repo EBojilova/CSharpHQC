@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Softuni.Collections.Generic.Tree", "Softuni.Collections.Generic.Tree\Softuni.Collections.Generic.Tree.csproj", "{7E5B8EA4-CE52-481E-9E74-EBD72A99E248}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Softuni.Collections.Generic.Tests", "Softuni.Generic.Tests\Softuni.Collections.Generic.Tests.csproj", "{02BBD503-A8BB-4810-89E9-6CE2E875676C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E5B8EA4-CE52-481E-9E74-EBD72A99E248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E5B8EA4-CE52-481E-9E74-EBD72A99E248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E5B8EA4-CE52-481E-9E74-EBD72A99E248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E5B8EA4-CE52-481E-9E74-EBD72A99E248}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02BBD503-A8BB-4810-89E9-6CE2E875676C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02BBD503-A8BB-4810-89E9-6CE2E875676C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02BBD503-A8BB-4810-89E9-6CE2E875676C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02BBD503-A8BB-4810-89E9-6CE2E875676C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

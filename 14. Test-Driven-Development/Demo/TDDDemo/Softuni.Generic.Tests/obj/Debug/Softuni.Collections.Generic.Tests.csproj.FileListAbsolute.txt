@@ -1,0 +1,7 @@
+c:\users\elena\documents\visual studio 2013\Projects\TDDDemo\Softuni.Generic.Tests\bin\Debug\Softuni.Generic.Tests.dll
+c:\users\elena\documents\visual studio 2013\Projects\TDDDemo\Softuni.Generic.Tests\bin\Debug\Softuni.Generic.Tests.pdb
+c:\users\elena\documents\visual studio 2013\Projects\TDDDemo\Softuni.Generic.Tests\bin\Debug\Softuni.Collections.Generic.Tree.exe
+c:\users\elena\documents\visual studio 2013\Projects\TDDDemo\Softuni.Generic.Tests\bin\Debug\Softuni.Collections.Generic.Tree.pdb
+c:\users\elena\documents\visual studio 2013\Projects\TDDDemo\Softuni.Generic.Tests\obj\Debug\Softuni.Collections.Generic.Tests.csprojResolveAssemblyReference.cache
+c:\users\elena\documents\visual studio 2013\Projects\TDDDemo\Softuni.Generic.Tests\obj\Debug\Softuni.Generic.Tests.dll
+c:\users\elena\documents\visual studio 2013\Projects\TDDDemo\Softuni.Generic.Tests\obj\Debug\Softuni.Generic.Tests.pdb

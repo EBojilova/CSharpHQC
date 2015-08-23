@@ -1,0 +1,18 @@
+C:\Users\Vladislav\Desktop\Cars\Cars.Tests\bin\Debug\Cars.Tests.dll
+C:\Users\Vladislav\Desktop\Cars\Cars.Tests\bin\Debug\Cars.Tests.pdb
+C:\Users\Vladislav\Desktop\Cars\Cars.Tests\bin\Debug\Cars.dll
+C:\Users\Vladislav\Desktop\Cars\Cars.Tests\bin\Debug\Moq.dll
+C:\Users\Vladislav\Desktop\Cars\Cars.Tests\bin\Debug\Cars.pdb
+C:\Users\Vladislav\Desktop\Cars\Cars.Tests\bin\Debug\Moq.xml
+C:\Users\Vladislav\Desktop\Cars\Cars.Tests\obj\Debug\Cars.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\Cars\Cars.Tests\obj\Debug\Cars.Tests.dll
+C:\Users\Vladislav\Desktop\Cars\Cars.Tests\obj\Debug\Cars.Tests.pdb
+C:\Users\Elena\Downloads\CSharpKPK\13. Mocking\Demo\Cars\Cars.Tests\bin\Debug\Cars.Tests.dll
+C:\Users\Elena\Downloads\CSharpKPK\13. Mocking\Demo\Cars\Cars.Tests\bin\Debug\Cars.Tests.pdb
+C:\Users\Elena\Downloads\CSharpKPK\13. Mocking\Demo\Cars\Cars.Tests\bin\Debug\Cars.dll
+C:\Users\Elena\Downloads\CSharpKPK\13. Mocking\Demo\Cars\Cars.Tests\bin\Debug\Moq.dll
+C:\Users\Elena\Downloads\CSharpKPK\13. Mocking\Demo\Cars\Cars.Tests\bin\Debug\Cars.pdb
+C:\Users\Elena\Downloads\CSharpKPK\13. Mocking\Demo\Cars\Cars.Tests\bin\Debug\Moq.xml
+C:\Users\Elena\Downloads\CSharpKPK\13. Mocking\Demo\Cars\Cars.Tests\obj\Debug\Cars.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\CSharpKPK\13. Mocking\Demo\Cars\Cars.Tests\obj\Debug\Cars.Tests.dll
+C:\Users\Elena\Downloads\CSharpKPK\13. Mocking\Demo\Cars\Cars.Tests\obj\Debug\Cars.Tests.pdb

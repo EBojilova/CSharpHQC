@@ -1,0 +1,4 @@
+C:\Users\Elena\Downloads\CSharpKPK\08. High-Quality-Classes\Homework\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.exe
+C:\Users\Elena\Downloads\CSharpKPK\08. High-Quality-Classes\Homework\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.pdb
+C:\Users\Elena\Downloads\CSharpKPK\08. High-Quality-Classes\Homework\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.exe
+C:\Users\Elena\Downloads\CSharpKPK\08. High-Quality-Classes\Homework\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.pdb

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="CapitalizeFirstLetter method" Url="html/0e7948b7-a90b-27fd-d8a6-b8ff5669680a.htm" />
+  <HelpKINode Title="ConvertCyrillicToLatinLetters method" Url="html/215d7ed1-2f88-da19-4c99-3f3cb1aba1ad.htm" />
+  <HelpKINode Title="ConvertLatinToCyrillicKeyboard method" Url="html/05cf28f8-364d-798d-5f66-ec4142337e4d.htm" />
+  <HelpKINode Title="GetFileExtension method" Url="html/b06e0571-2104-f3c6-4a30-95bf558c37d4.htm" />
+  <HelpKINode Title="GetFirstCharacters method" Url="html/cc69944c-4ab1-8ccd-5748-2fa4740f2e38.htm" />
+  <HelpKINode Title="GetStringBetween method" Url="html/cafbc83e-77fd-8648-9a8d-d93f91909823.htm" />
+  <HelpKINode Title="Main method" Url="html/c8a1eb14-258c-f51d-9aa6-5190188aedd3.htm" />
+  <HelpKINode Title="StringExtensions class">
+    <HelpKINode Title="StringExtensions Class" Url="html/2b579f1c-d74c-13fd-b820-c1ead0a584ac.htm" />
+    <HelpKINode Title="about StringExtensions class" Url="html/2b579f1c-d74c-13fd-b820-c1ead0a584ac.htm" />
+    <HelpKINode Title="methods" Url="html/0f8a4f71-fcf9-53d5-ed43-4049a2e19998.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StringExtensions.CapitalizeFirstLetter method" Url="html/0e7948b7-a90b-27fd-d8a6-b8ff5669680a.htm" />
+  <HelpKINode Title="StringExtensions.ConvertCyrillicToLatinLetters method" Url="html/215d7ed1-2f88-da19-4c99-3f3cb1aba1ad.htm" />
+  <HelpKINode Title="StringExtensions.ConvertLatinToCyrillicKeyboard method" Url="html/05cf28f8-364d-798d-5f66-ec4142337e4d.htm" />
+  <HelpKINode Title="StringExtensions.GetFileExtension method" Url="html/b06e0571-2104-f3c6-4a30-95bf558c37d4.htm" />
+  <HelpKINode Title="StringExtensions.GetFirstCharacters method" Url="html/cc69944c-4ab1-8ccd-5748-2fa4740f2e38.htm" />
+  <HelpKINode Title="StringExtensions.GetStringBetween method" Url="html/cafbc83e-77fd-8648-9a8d-d93f91909823.htm" />
+  <HelpKINode Title="StringExtensions.ToBoolean method" Url="html/85daae69-d421-624f-466d-ac50e40e7951.htm" />
+  <HelpKINode Title="StringExtensions.ToByteArray method" Url="html/7431723c-aa2a-e837-8ba5-1de2413aaddb.htm" />
+  <HelpKINode Title="StringExtensions.ToContentType method" Url="html/261570b9-039b-3249-9ccd-984551bbe842.htm" />
+  <HelpKINode Title="StringExtensions.ToDateTime method" Url="html/06f3f9ea-5fbe-95c3-148d-dff58984f5bf.htm" />
+  <HelpKINode Title="StringExtensions.ToInteger method" Url="html/5e3e5eb5-e872-704f-7475-41d2d16627cf.htm" />
+  <HelpKINode Title="StringExtensions.ToLong method" Url="html/74048c1f-026d-e61d-b80f-fe15e1a75390.htm" />
+  <HelpKINode Title="StringExtensions.ToMd5Hash method" Url="html/400bb365-fa0d-4da8-c8d8-3556f801536a.htm" />
+  <HelpKINode Title="StringExtensions.ToShort method" Url="html/8dda8480-88a6-22b8-7453-8c2c69a8648a.htm" />
+  <HelpKINode Title="StringExtensions.ToValidLatinFileName method" Url="html/87fb716f-4d66-c4ff-9124-8e7a00e69e97.htm" />
+  <HelpKINode Title="StringExtensions.ToValidUsername method" Url="html/20753143-9607-27c0-d725-3c53bf6237a5.htm" />
+  <HelpKINode Title="StringExtensionsMain class">
+    <HelpKINode Title="StringExtensionsMain Class" Url="html/cdecde37-0ad2-10b2-ac50-85804bce0657.htm" />
+    <HelpKINode Title="about StringExtensionsMain class" Url="html/cdecde37-0ad2-10b2-ac50-85804bce0657.htm" />
+    <HelpKINode Title="constructor" Url="html/71e5ad5b-112a-6a3d-052d-9cb370ccc791.htm" />
+    <HelpKINode Title="methods" Url="html/f2b6502e-5cba-6f1c-05e8-b50ab282ceec.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StringExtensionsMain.Main method" Url="html/c8a1eb14-258c-f51d-9aa6-5190188aedd3.htm" />
+  <HelpKINode Title="StringExtensionsMain.StringExtensionsMain constructor" Url="html/71e5ad5b-112a-6a3d-052d-9cb370ccc791.htm" />
+  <HelpKINode Title="ToBoolean method" Url="html/85daae69-d421-624f-466d-ac50e40e7951.htm" />
+  <HelpKINode Title="ToByteArray method" Url="html/7431723c-aa2a-e837-8ba5-1de2413aaddb.htm" />
+  <HelpKINode Title="ToContentType method" Url="html/261570b9-039b-3249-9ccd-984551bbe842.htm" />
+  <HelpKINode Title="ToDateTime method" Url="html/06f3f9ea-5fbe-95c3-148d-dff58984f5bf.htm" />
+  <HelpKINode Title="ToInteger method" Url="html/5e3e5eb5-e872-704f-7475-41d2d16627cf.htm" />
+  <HelpKINode Title="ToLong method" Url="html/74048c1f-026d-e61d-b80f-fe15e1a75390.htm" />
+  <HelpKINode Title="ToMd5Hash method" Url="html/400bb365-fa0d-4da8-c8d8-3556f801536a.htm" />
+  <HelpKINode Title="ToShort method" Url="html/8dda8480-88a6-22b8-7453-8c2c69a8648a.htm" />
+  <HelpKINode Title="ToValidLatinFileName method" Url="html/87fb716f-4d66-c4ff-9124-8e7a00e69e97.htm" />
+  <HelpKINode Title="ToValidUsername method" Url="html/20753143-9607-27c0-d725-3c53bf6237a5.htm" />
+  <HelpKINode Title="_01.StringExtensions namespace" Url="html/55b75981-9a7d-5e21-b1be-3cad37200c30.htm" />
+  <HelpKINode Title="_01.StringExtensions.StringExtensions class" Url="html/2b579f1c-d74c-13fd-b820-c1ead0a584ac.htm" />
+  <HelpKINode Title="_01.StringExtensions.StringExtensionsMain class" Url="html/cdecde37-0ad2-10b2-ac50-85804bce0657.htm" />
+</HelpKI>

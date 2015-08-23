@@ -1,0 +1,7 @@
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Evening-Ticket-Office\MySolution\bin\Debug\PowerCollections.dll
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Evening-Ticket-Office\MySolution\bin\Debug\PowerCollections.xml
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Evening-Ticket-Office\MySolution\bin\Debug\TicketOffice.exe
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Evening-Ticket-Office\MySolution\bin\Debug\TicketOffice.pdb
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Evening-Ticket-Office\MySolution\obj\x86\Debug\TicketOffice.exe
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Evening-Ticket-Office\MySolution\obj\x86\Debug\TicketOffice.pdb
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Evening-Ticket-Office\MySolution\obj\x86\Debug\TicketOffice.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\TravelAgency\TravelAgencyTests\bin\Debug\TravelAgencyTests.dll
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\TravelAgency\TravelAgencyTests\bin\Debug\TravelAgencyTests.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\TravelAgency\TravelAgencyTests\obj\Debug\TravelAgencyTests.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\TravelAgency\TravelAgencyTests\obj\Debug\TravelAgencyTests.dll
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\TravelAgency\TravelAgencyTests\obj\Debug\TravelAgencyTests.pdb

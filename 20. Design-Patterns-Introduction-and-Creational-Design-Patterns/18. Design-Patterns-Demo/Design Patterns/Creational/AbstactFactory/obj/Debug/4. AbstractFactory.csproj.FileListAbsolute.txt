@@ -1,0 +1,10 @@
+C:\Users\Jamal\Desktop\Trash\Design Patterns\Creational\AbstactFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\Elena\Downloads\CSharpKPK\20. Design-Patterns-Introduction-and-Creational-Design-Patterns\18. Design-Patterns-Demo\Design Patterns\Creational\AbstactFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\Elena\Downloads\CSharpKPK\20. Design-Patterns-Introduction-and-Creational-Design-Patterns\18. Design-Patterns-Demo\Design Patterns\Creational\AbstactFactory\bin\Debug\AbstractFactory.exe
+C:\Users\Elena\Downloads\CSharpKPK\20. Design-Patterns-Introduction-and-Creational-Design-Patterns\18. Design-Patterns-Demo\Design Patterns\Creational\AbstactFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\Elena\Downloads\CSharpKPK\20. Design-Patterns-Introduction-and-Creational-Design-Patterns\18. Design-Patterns-Demo\Design Patterns\Creational\AbstactFactory\bin\Debug\Microsoft.Owin.dll
+C:\Users\Elena\Downloads\CSharpKPK\20. Design-Patterns-Introduction-and-Creational-Design-Patterns\18. Design-Patterns-Demo\Design Patterns\Creational\AbstactFactory\bin\Debug\Owin.dll
+C:\Users\Elena\Downloads\CSharpKPK\20. Design-Patterns-Introduction-and-Creational-Design-Patterns\18. Design-Patterns-Demo\Design Patterns\Creational\AbstactFactory\bin\Debug\Microsoft.Owin.xml
+C:\Users\Elena\Downloads\CSharpKPK\20. Design-Patterns-Introduction-and-Creational-Design-Patterns\18. Design-Patterns-Demo\Design Patterns\Creational\AbstactFactory\obj\Debug\4. AbstractFactory.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\CSharpKPK\20. Design-Patterns-Introduction-and-Creational-Design-Patterns\18. Design-Patterns-Demo\Design Patterns\Creational\AbstactFactory\obj\Debug\AbstractFactory.exe
+C:\Users\Elena\Downloads\CSharpKPK\20. Design-Patterns-Introduction-and-Creational-Design-Patterns\18. Design-Patterns-Demo\Design Patterns\Creational\AbstactFactory\obj\Debug\AbstractFactory.pdb

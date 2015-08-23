@@ -1,0 +1,7 @@
+C:\Software-University\Exam-Problems\High-Quality-Code\Theatre\Theatre-Author-Solution\Theatre.Tests\bin\Debug\Theatre.Tests.dll
+C:\Software-University\Exam-Problems\High-Quality-Code\Theatre\Theatre-Author-Solution\Theatre.Tests\bin\Debug\Theatre.Tests.pdb
+C:\Software-University\Exam-Problems\High-Quality-Code\Theatre\Theatre-Author-Solution\Theatre.Tests\bin\Debug\Theatre.exe
+C:\Software-University\Exam-Problems\High-Quality-Code\Theatre\Theatre-Author-Solution\Theatre.Tests\bin\Debug\Theatre.pdb
+C:\Software-University\Exam-Problems\High-Quality-Code\Theatre\Theatre-Author-Solution\Theatre.Tests\obj\Debug\Theatre.Tests.csprojResolveAssemblyReference.cache
+C:\Software-University\Exam-Problems\High-Quality-Code\Theatre\Theatre-Author-Solution\Theatre.Tests\obj\Debug\Theatre.Tests.dll
+C:\Software-University\Exam-Problems\High-Quality-Code\Theatre\Theatre-Author-Solution\Theatre.Tests\obj\Debug\Theatre.Tests.pdb

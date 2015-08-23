@@ -1,0 +1,10 @@
+c:\users\elena\documents\visual studio 2013\Projects\SOLIDhomework\Logger\bin\Debug\Logger.dll
+c:\users\elena\documents\visual studio 2013\Projects\SOLIDhomework\Logger\bin\Debug\Logger.pdb
+c:\users\elena\documents\visual studio 2013\Projects\SOLIDhomework\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+c:\users\elena\documents\visual studio 2013\Projects\SOLIDhomework\Logger\obj\Debug\Logger.dll
+c:\users\elena\documents\visual studio 2013\Projects\SOLIDhomework\Logger\obj\Debug\Logger.pdb
+C:\Users\Elena\Downloads\CSharpKPK\15. SOLID-Principles-in-Software-Design\Homework\SOLIDhomework\Logger\bin\Debug\Logger.dll
+C:\Users\Elena\Downloads\CSharpKPK\15. SOLID-Principles-in-Software-Design\Homework\SOLIDhomework\Logger\bin\Debug\Logger.pdb
+C:\Users\Elena\Downloads\CSharpKPK\15. SOLID-Principles-in-Software-Design\Homework\SOLIDhomework\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\CSharpKPK\15. SOLID-Principles-in-Software-Design\Homework\SOLIDhomework\Logger\obj\Debug\Logger.dll
+C:\Users\Elena\Downloads\CSharpKPK\15. SOLID-Principles-in-Software-Design\Homework\SOLIDhomework\Logger\obj\Debug\Logger.pdb

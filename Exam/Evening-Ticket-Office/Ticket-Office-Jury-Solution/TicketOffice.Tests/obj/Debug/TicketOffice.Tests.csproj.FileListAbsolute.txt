@@ -1,0 +1,11 @@
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Evening-Ticket-Office\Ticket-Office-Jury-Solution\TicketOffice.Tests\bin\Debug\TicketOffice.Tests.dll
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Evening-Ticket-Office\Ticket-Office-Jury-Solution\TicketOffice.Tests\bin\Debug\TicketOffice.Tests.pdb
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Evening-Ticket-Office\Ticket-Office-Jury-Solution\TicketOffice.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Evening-Ticket-Office\Ticket-Office-Jury-Solution\TicketOffice.Tests\bin\Debug\TicketOffice.exe
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Evening-Ticket-Office\Ticket-Office-Jury-Solution\TicketOffice.Tests\bin\Debug\PowerCollections.dll
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Evening-Ticket-Office\Ticket-Office-Jury-Solution\TicketOffice.Tests\bin\Debug\TicketOffice.pdb
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Evening-Ticket-Office\Ticket-Office-Jury-Solution\TicketOffice.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Evening-Ticket-Office\Ticket-Office-Jury-Solution\TicketOffice.Tests\bin\Debug\PowerCollections.xml
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Evening-Ticket-Office\Ticket-Office-Jury-Solution\TicketOffice.Tests\obj\Debug\TicketOffice.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Evening-Ticket-Office\Ticket-Office-Jury-Solution\TicketOffice.Tests\obj\Debug\TicketOffice.Tests.dll
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Evening-Ticket-Office\Ticket-Office-Jury-Solution\TicketOffice.Tests\obj\Debug\TicketOffice.Tests.pdb

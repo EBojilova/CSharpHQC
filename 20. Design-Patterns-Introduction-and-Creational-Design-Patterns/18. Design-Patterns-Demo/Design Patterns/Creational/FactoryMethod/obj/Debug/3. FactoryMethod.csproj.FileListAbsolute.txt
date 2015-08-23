@@ -1,0 +1,9 @@
+C:\Users\Jamal\Desktop\Trash\Design Patterns\Creational\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Users\Jamal\Desktop\Trash\Design Patterns\Creational\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\Jamal\Desktop\Trash\Design Patterns\Creational\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\Jamal\Desktop\Trash\Design Patterns\Creational\FactoryMethod\obj\Debug\3. FactoryMethod.csprojResolveAssemblyReference.cache
+C:\Users\Jamal\Desktop\Trash\Design Patterns\Creational\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Users\Jamal\Desktop\Trash\Design Patterns\Creational\FactoryMethod\obj\Debug\FactoryMethod.pdb
+C:\Users\Elena\Downloads\CSharpKPK\20. Design-Patterns-Introduction-and-Creational-Design-Patterns\18. Design-Patterns-Demo\Design Patterns\Creational\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Users\Elena\Downloads\CSharpKPK\20. Design-Patterns-Introduction-and-Creational-Design-Patterns\18. Design-Patterns-Demo\Design Patterns\Creational\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Users\Elena\Downloads\CSharpKPK\20. Design-Patterns-Introduction-and-Creational-Design-Patterns\18. Design-Patterns-Demo\Design Patterns\Creational\FactoryMethod\obj\Debug\FactoryMethod.pdb

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>03.CodeFormatting-task 2</name>
+    </assembly>
+    <members>
+        <member name="M:_03.CodeFormatting_task_2.Program.PrepareReports">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

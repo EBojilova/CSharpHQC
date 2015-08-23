@@ -1,0 +1,5 @@
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Theatre\MySolution\Theatre\bin\Debug\Theatre.exe
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Theatre\MySolution\Theatre\bin\Debug\Theatre.pdb
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Theatre\MySolution\Theatre\obj\Debug\Theatre.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Theatre\MySolution\Theatre\obj\Debug\Theatre.exe
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Theatre\MySolution\Theatre\obj\Debug\Theatre.pdb

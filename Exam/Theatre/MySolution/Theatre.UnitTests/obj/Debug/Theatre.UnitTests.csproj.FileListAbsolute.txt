@@ -1,0 +1,7 @@
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Theatre\MySolution\Theatre.UnitTests\bin\Debug\Theatre.UnitTests.dll
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Theatre\MySolution\Theatre.UnitTests\bin\Debug\Theatre.UnitTests.pdb
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Theatre\MySolution\Theatre.UnitTests\bin\Debug\Theatre.exe
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Theatre\MySolution\Theatre.UnitTests\bin\Debug\Theatre.pdb
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Theatre\MySolution\Theatre.UnitTests\obj\Debug\Theatre.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Theatre\MySolution\Theatre.UnitTests\obj\Debug\Theatre.UnitTests.dll
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Theatre\MySolution\Theatre.UnitTests\obj\Debug\Theatre.UnitTests.pdb

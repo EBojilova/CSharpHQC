@@ -1,0 +1,9 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Mocking\Demo.Tests\bin\Debug\Demo.Tests.dll
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Mocking\Demo.Tests\bin\Debug\Demo.Tests.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Mocking\Demo.Tests\bin\Debug\Moq.dll
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Mocking\Demo.Tests\bin\Debug\Moq.xml
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Mocking\Demo.Tests\obj\Debug\Demo.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Mocking\Demo.Tests\obj\Debug\Demo.Tests.dll
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Mocking\Demo.Tests\obj\Debug\Demo.Tests.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Mocking\Demo.Tests\bin\Debug\DependencyInjectionVideo.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Mocking\Demo.Tests\bin\Debug\DependencyInjectionVideo.pdb

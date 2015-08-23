@@ -1,0 +1,9 @@
+C:\Users\Vladislav\Desktop\Cars\Cars\bin\Debug\Cars.dll
+C:\Users\Vladislav\Desktop\Cars\Cars\bin\Debug\Cars.pdb
+C:\Users\Vladislav\Desktop\Cars\Cars\obj\Debug\Cars.dll
+C:\Users\Vladislav\Desktop\Cars\Cars\obj\Debug\Cars.pdb
+C:\Users\Elena\Downloads\CSharpKPK\13. Mocking\Demo\Cars\Cars\bin\Debug\Cars.dll
+C:\Users\Elena\Downloads\CSharpKPK\13. Mocking\Demo\Cars\Cars\bin\Debug\Cars.pdb
+C:\Users\Elena\Downloads\CSharpKPK\13. Mocking\Demo\Cars\Cars\obj\Debug\Cars.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\CSharpKPK\13. Mocking\Demo\Cars\Cars\obj\Debug\Cars.dll
+C:\Users\Elena\Downloads\CSharpKPK\13. Mocking\Demo\Cars\Cars\obj\Debug\Cars.pdb

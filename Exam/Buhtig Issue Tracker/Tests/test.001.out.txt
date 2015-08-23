@@ -1,0 +1,6 @@
+User user registered successfully
+User user logged in successfully
+User user logged out successfully
+User user logged in successfully
+There is already a logged in user
+User user logged out successfully

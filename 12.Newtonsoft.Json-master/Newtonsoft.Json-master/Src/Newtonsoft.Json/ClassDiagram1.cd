@@ -1,0 +1,1714 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Newtonsoft.Json.Bson.BsonBinaryWriter" Collapsed="true">
+    <Position X="39.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAIQQAgAAAAAAgAAACAAAAAAAAACIAIQ=</HashCode>
+      <FileName>Bson\BsonBinaryWriter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Bson.BsonObjectId" Collapsed="true">
+    <Position X="41" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Bson\BsonObjectId.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Bson.BsonReader" Collapsed="true">
+    <Position X="17" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAkQAAwCYQAQKIAAwkEgjAAoGAEARcAEBAAAAACEChk=</HashCode>
+      <FileName>Bson\BsonReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Bson.BsonToken" Collapsed="true">
+    <Position X="15" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAACAQAAAAAAAAA=</HashCode>
+      <FileName>Bson\BsonToken.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Bson.BsonObject" Collapsed="true">
+    <Position X="10.5" Y="22.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIQAAAAAAAAABAAAAAAAAAAAAAAAAAEAQAAAAAAAAA=</HashCode>
+      <FileName>Bson\BsonToken.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Newtonsoft.Json.Bson.BsonArray" Collapsed="true">
+    <Position X="12.75" Y="22.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIQAAAAAAAAABAAAAAAAAAAAAAAAAAEAQAAAAAAAAA=</HashCode>
+      <FileName>Bson\BsonToken.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Newtonsoft.Json.Bson.BsonValue" Collapsed="true">
+    <Position X="16.25" Y="22.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAQAgAAAAAAA=</HashCode>
+      <FileName>Bson\BsonToken.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Bson.BsonString" Collapsed="true">
+    <Position X="15" Y="24.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bson\BsonToken.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Bson.BsonBinary" Collapsed="true">
+    <Position X="17.25" Y="24.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bson\BsonToken.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Bson.BsonRegex" Collapsed="true">
+    <Position X="19.5" Y="22.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAQAAAABAAAA=</HashCode>
+      <FileName>Bson\BsonToken.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Bson.BsonProperty" Collapsed="true">
+    <Position X="42.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Bson\BsonToken.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Bson.BsonWriter" Collapsed="true">
+    <Position X="17" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAxAAAAIAAASAoAAAUAAAgAQCAAAAACAAQCAARCIIYA=</HashCode>
+      <FileName>Bson\BsonWriter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.JsonArrayAttribute" Collapsed="true">
+    <Position X="2.75" Y="24" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>JsonArrayAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.JsonConstructorAttribute" Collapsed="true">
+    <Position X="48" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>JsonConstructorAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.JsonContainerAttribute" Collapsed="true">
+    <Position X="2.75" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAEwAEAAAgEAAAAAIAgEEAAAAAABABAAAAA=</HashCode>
+      <FileName>JsonContainerAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.JsonConvert" Collapsed="true">
+    <Position X="49.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wBAAIAAAAMDAAIAEQgAAACACABAAAgAABAsAAAAAACg=</HashCode>
+      <FileName>JsonConvert.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.JsonConverter" Collapsed="true">
+    <Position X="17.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQQAAAAAEAAAAAAAAABAAAAAAAAAAAAICAA=</HashCode>
+      <FileName>JsonConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.JsonConverterAttribute" Collapsed="true">
+    <Position X="35.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEIAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>JsonConverterAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.JsonConverterCollection" Collapsed="true">
+    <Position X="37.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>JsonConverterCollection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.JsonDictionaryAttribute" Collapsed="true">
+    <Position X="5" Y="24" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>JsonDictionaryAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.JsonException" Collapsed="true">
+    <Position X="3.75" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>JsonException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.JsonExtensionDataAttribute" Collapsed="true">
+    <Position X="39.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>JsonExtensionDataAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.JsonIgnoreAttribute" Collapsed="true">
+    <Position X="42.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>JsonIgnoreAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.JsonObjectAttribute" Collapsed="true">
+    <Position X="0.5" Y="24" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAQAAAAAAAAAAAAAACAAAAAAAIAAAA=</HashCode>
+      <FileName>JsonObjectAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.JsonPropertyAttribute" Collapsed="true">
+    <Position X="48" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAlQACBAUQIAAAAgEAABAAIEgEEAAAAAAhABBAACA=</HashCode>
+      <FileName>JsonPropertyAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.JsonReader" Collapsed="true">
+    <Position X="17" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YBoAgEAAByAEIALAQgAACiAoGQKQCOBwAIAhACGUGhA=</HashCode>
+      <FileName>JsonReader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Newtonsoft.Json.JsonReaderException" Collapsed="true">
+    <Position X="5" Y="21" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAIAAAAAAAAAEABAAAAAAAAAAA=</HashCode>
+      <FileName>JsonReaderException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.JsonRequiredAttribute" Collapsed="true">
+    <Position X="35.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>JsonRequiredAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.JsonSerializationException" Collapsed="true">
+    <Position X="7.25" Y="21" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>JsonSerializationException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.JsonSerializer" Collapsed="true">
+    <Position X="4.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iGCAlUhhDwSGZSSAAAwAwiBIGWLASMBIAIAyAANWqCA=</HashCode>
+      <FileName>JsonSerializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.JsonSerializerSettings" Collapsed="true">
+    <Position X="39.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GGiAlcBhTwYEZwgAAA0BwqEAiUKASMBIAIQwAAu2qCA=</HashCode>
+      <FileName>JsonSerializerSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.JsonTextReader" Collapsed="true">
+    <Position X="19.25" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ki0QAAAgAUCBBgEjQhIIIgspksMAxFQBAQCAIwCEQEA=</HashCode>
+      <FileName>JsonTextReader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Newtonsoft.Json.JsonTextWriter" Collapsed="true">
+    <Position X="19.25" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AA0BqAwIgAQCwAAAAEAAAoAAGAAECAAAQQCAAQiYAIA=</HashCode>
+      <FileName>JsonTextWriter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.JsonValidatingReader" Collapsed="true">
+    <Position X="12.5" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BA0AEABBAUUAAkIQQggAABgsEADAEAAgEFRgUiAQGjE=</HashCode>
+      <FileName>JsonValidatingReader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Newtonsoft.Json.JsonWriter" Collapsed="true">
+    <Position X="15.75" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SA8BgECIQCSGQAKQAMoCAgCJDQOMKIABAYCBAQGKzbA=</HashCode>
+      <FileName>JsonWriter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Newtonsoft.Json.JsonWriterException" Collapsed="true">
+    <Position X="0.5" Y="21" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>JsonWriterException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Converters.BinaryConverter" Collapsed="true">
+    <Position X="31" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQQAAAAAQQAAAAAAAAAAAAAAgAACAAAAAAAAAAQCAA=</HashCode>
+      <FileName>Converters\BinaryConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Converters.BsonObjectIdConverter" Collapsed="true">
+    <Position X="33.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQQAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Converters\BsonObjectIdConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Converters.CustomCreationConverter&lt;T&gt;" Collapsed="true">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQQAAAAAEAAAAAAAAAAAAEAAAAAAAAAACAA=</HashCode>
+      <FileName>Converters\CustomCreationConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Converters.DataSetConverter" Collapsed="true">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQQAAAAAAAAAAAAAAQAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Converters\DataSetConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Converters.DataTableConverter" Collapsed="true">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAQQAAAAAAAAAAAAAAQAAAAAAIAAAAAAACAA=</HashCode>
+      <FileName>Converters\DataTableConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Converters.DateTimeConverterBase" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Converters\DateTimeConverterBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Converters.DiscriminatedUnionConverter" Collapsed="true">
+    <Position X="15.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AhAAAAAAAQQAAgAAAAABAAAAAAIAAAAAAIAAAAAECAA=</HashCode>
+      <FileName>Converters\DiscriminatedUnionConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Converters.EntityKeyMemberConverter" Collapsed="true">
+    <Position X="17.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIEQAAAAAQQAAgAAAAAAQAAAAgAABAAAAAAgAAAACAA=</HashCode>
+      <FileName>Converters\EntityKeyMemberConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Converters.ExpandoObjectConverter" Collapsed="true">
+    <Position X="19.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAQQAAAAAEAAAAAAAAAAAAAQBAAAAAAAACAA=</HashCode>
+      <FileName>Converters\ExpandoObjectConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Converters.IsoDateTimeConverter" Collapsed="true">
+    <Position X="10.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAgAQQAAAAAAAAAAAAAAQAAAKAAAIAAAAAAAAA=</HashCode>
+      <FileName>Converters\IsoDateTimeConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Converters.JavaScriptDateTimeConverter" Collapsed="true">
+    <Position X="13" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Converters\JavaScriptDateTimeConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Converters.KeyValuePairConverter" Collapsed="true">
+    <Position X="22" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAACAAQQAAgAAAAAAAAAAAAAAAAAAAAAAAAgASAA=</HashCode>
+      <FileName>Converters\KeyValuePairConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Converters.RegexConverter" Collapsed="true">
+    <Position X="24.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAABAAQQAAAIAABAQAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Converters\RegexConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Converters.StringEnumConverter" Collapsed="true">
+    <Position X="26.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQQAAAAAAAEAAAABAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Converters\StringEnumConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Converters.VersionConverter" Collapsed="true">
+    <Position X="28.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQQAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Converters\VersionConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Converters.XmlDocumentWrapper" Collapsed="true">
+    <Position X="19.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABEAACAQAAAAAAAAgAIAAAiAAAAAAEAAASAA=</HashCode>
+      <FileName>Converters\XmlNodeConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Newtonsoft.Json.Converters.XmlElementWrapper" Collapsed="true">
+    <Position X="22" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAABAAAAAAACAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Converters\XmlNodeConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Newtonsoft.Json.Converters.XmlDeclarationWrapper" Collapsed="true">
+    <Position X="24.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAgAAAgAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Converters\XmlNodeConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Newtonsoft.Json.Converters.XmlDocumentTypeWrapper" Collapsed="true">
+    <Position X="17.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAACEAAAAAQAAAABAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Converters\XmlNodeConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Newtonsoft.Json.Converters.XmlNodeWrapper" Collapsed="true">
+    <Position X="20.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAXBAAAAAAAAAAAAAAAAQAAAFAAAAAACgAAIQAAA=</HashCode>
+      <FileName>Converters\XmlNodeConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Newtonsoft.Json.Converters.XDeclarationWrapper" Collapsed="true">
+    <Position X="1" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAACAAQAAAAAAAAAAAAAAAgAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Converters\XmlNodeConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Newtonsoft.Json.Converters.XDocumentTypeWrapper" Collapsed="true">
+    <Position X="3.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAACEAAAAAQAAAABAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Converters\XmlNodeConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Newtonsoft.Json.Converters.XDocumentWrapper" Collapsed="true">
+    <Position X="14.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAACAQAAAAAAAAgAIAAAiACAACAEAIASAA=</HashCode>
+      <FileName>Converters\XmlNodeConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Newtonsoft.Json.Converters.XTextWrapper" Collapsed="true">
+    <Position X="5.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgCAAQAAA=</HashCode>
+      <FileName>Converters\XmlNodeConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Converters.XCommentWrapper" Collapsed="true">
+    <Position X="7.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgCAAQAAA=</HashCode>
+      <FileName>Converters\XmlNodeConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Converters.XProcessingInstructionWrapper" Collapsed="true">
+    <Position X="10" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAABAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Converters\XmlNodeConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Converters.XContainerWrapper" Collapsed="true">
+    <Position X="13.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAERAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAIQAAA=</HashCode>
+      <FileName>Converters\XmlNodeConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Converters.XObjectWrapper" Collapsed="true">
+    <Position X="8.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAASAAAAAAAAAAIAAAAAAQAAAFAAAAAACgAAIQAAA=</HashCode>
+      <FileName>Converters\XmlNodeConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Newtonsoft.Json.Converters.XAttributeWrapper" Collapsed="true">
+    <Position X="16.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAACAAAAAAAAAAAAAAABAAAAAAAgAAAQAAA=</HashCode>
+      <FileName>Converters\XmlNodeConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Converters.XElementWrapper" Collapsed="true">
+    <Position X="12.25" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAQAAAAAAAAAACAgAAgAQAAABAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Converters\XmlNodeConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Newtonsoft.Json.Converters.XmlNodeConverter" Collapsed="true">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gICEAAEAAQYAAAKACAABDAIgEAlEJAAAAAAAHICICBA=</HashCode>
+      <FileName>Converters\XmlNodeConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Linq.Extensions" Collapsed="true">
+    <Position X="46.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAIAEIAAAAAAAAAAAIBAgAAECAAA=</HashCode>
+      <FileName>Linq\Extensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Linq.JArray" Collapsed="true">
+    <Position X="2.75" Y="18.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIggEAAAAAAAJAQCgAABAAQAAAAAAAoCYAAAABQICA=</HashCode>
+      <FileName>Linq\JArray.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Newtonsoft.Json.Linq.JConstructor" Collapsed="true">
+    <Position X="5" Y="18.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgoAAAAAAAAIAACAAAAAQQAAAAAAAoAYAAAAAAACA=</HashCode>
+      <FileName>Linq\JConstructor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Linq.JContainer" Collapsed="true">
+    <Position X="6.25" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ggISJIBACYGOFcIFKAAU4KZRTScIWTAOJBCmwBMwAAI=</HashCode>
+      <FileName>Linq\JContainer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Newtonsoft.Json.Linq.JObject" Collapsed="true">
+    <Position X="7.25" Y="18.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>uAIggABQYABAkJAAKwABBQARggCAACAoQYAiKwASAQg=</HashCode>
+      <FileName>Linq\JObject.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Newtonsoft.Json.Linq.JProperty" Collapsed="true">
+    <Position X="9.5" Y="18.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgoABAAAAABMABAAAAAAQQQAAACAAuAYAgAAAAAAA=</HashCode>
+      <FileName>Linq\JProperty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Linq.JPropertyDescriptor" Collapsed="true">
+    <Position X="44.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAJAAQAgAQQAAAAAAAAAAAQAYAAAACAAAAAAA=</HashCode>
+      <FileName>Linq\JPropertyDescriptor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Linq.JPropertyKeyedCollection" Collapsed="true">
+    <Position X="46.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAABAAAAIBACADAAEBAAAQAAAAAAGAABgAAAQQQA=</HashCode>
+      <FileName>Linq\JPropertyKeyedCollection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Linq.JRaw" Collapsed="true">
+    <Position X="0.5" Y="18.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Linq\JRaw.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Linq.JsonMergeSettings" Collapsed="true">
+    <Position X="44.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Linq\JsonMergeSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Linq.JToken" Collapsed="true">
+    <Position X="5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>p5owtAkgAQAQDyKsDhYE5TBw5uEQBDksAcMiDHdAACQ=</HashCode>
+      <FileName>Linq\JToken.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Newtonsoft.Json.Linq.JTokenEqualityComparer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="44.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Linq\JTokenEqualityComparer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Newtonsoft.Json.Linq.JTokenReader" Collapsed="true">
+    <Position X="14.75" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BBgAAAAAAQAQAgIAwiAAASA4EAAAAACAAEAABIIEAAA=</HashCode>
+      <FileName>Linq\JTokenReader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Newtonsoft.Json.Linq.JTokenWriter" Collapsed="true">
+    <Position X="14.75" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABxAAAAIAAACCgAAAUAAAgAQCAAAAAAAAQCABQKJAAA=</HashCode>
+      <FileName>Linq\JTokenWriter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Linq.JValue" Collapsed="true">
+    <Position X="0.5" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JBEgAMKAAAQAFQyEoBACAAIQBgwAAIBgAYFgAAAAcBA=</HashCode>
+      <FileName>Linq\JValue.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Newtonsoft.Json.Linq.JsonPath.ArrayIndexFilter" Collapsed="true">
+    <Position X="5.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Linq\JsonPath\ArrayIndexFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Linq.JsonPath.ArrayMultipleIndexFilter" Collapsed="true">
+    <Position X="7.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Linq\JsonPath\ArrayMultipleIndexFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Linq.JsonPath.ArraySliceFilter" Collapsed="true">
+    <Position X="9.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAACQAAAAAAAgAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Linq\JsonPath\ArraySliceFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Linq.JsonPath.FieldFilter" Collapsed="true">
+    <Position X="12" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Linq\JsonPath\FieldFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Linq.JsonPath.FieldMultipleFilter" Collapsed="true">
+    <Position X="14.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Linq\JsonPath\FieldMultipleFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Linq.JsonPath.JPath" Collapsed="true">
+    <Position X="42.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAQAACAEAEKACAkwAAEAAIAAEAAAAgAAAAAE=</HashCode>
+      <FileName>Linq\JsonPath\JPath.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Linq.JsonPath.PathFilter" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Linq\JsonPath\PathFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Linq.JsonPath.QueryExpression" Collapsed="true">
+    <Position X="23.5" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Linq\JsonPath\QueryExpression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Linq.JsonPath.CompositeExpression" Collapsed="true">
+    <Position X="22.25" Y="22.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Linq\JsonPath\QueryExpression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Linq.JsonPath.BooleanQueryExpression" Collapsed="true">
+    <Position X="24.5" Y="22.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Linq\JsonPath\QueryExpression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Linq.JsonPath.QueryFilter" Collapsed="true">
+    <Position X="0.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Linq\JsonPath\QueryFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Linq.JsonPath.ScanFilter" Collapsed="true">
+    <Position X="3" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Linq\JsonPath\ScanFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Schema.Extensions" Collapsed="true">
+    <Position X="48" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Schema\Extensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Schema.JsonSchema" Collapsed="true">
+    <Position X="37.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hACiBADMEAEkCEAUBBIgJAAwAAgAQAAwQQAISAAGAAA=</HashCode>
+      <FileName>Schema\JsonSchema.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Schema.JsonSchemaBuilder" Collapsed="true">
+    <Position X="39.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIBBgIAAAAAAFAAEAAAEAhRACAAAAACAAAEIAACBA=</HashCode>
+      <FileName>Schema\JsonSchemaBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Schema.JsonSchemaConstants" Collapsed="true">
+    <Position X="41" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BIAAAEQIAEihQEAQBAAEAECIAjAAgoAgwAAQIBAAAEA=</HashCode>
+      <FileName>Schema\JsonSchemaConstants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Schema.JsonSchemaException" Collapsed="true">
+    <Position X="2.75" Y="21" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAIAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Schema\JsonSchemaException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Schema.JsonSchemaGenerator" Collapsed="true">
+    <Position X="42.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAIQACIAAGQIAAAABABAACAAAIAAAAAIEBCCBA=</HashCode>
+      <FileName>Schema\JsonSchemaGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Schema.JsonSchemaModel" Collapsed="true">
+    <Position X="44.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hACgBADGAAEECAAUBBAABAAAAAAAQEAQQQABQAACAAA=</HashCode>
+      <FileName>Schema\JsonSchemaModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Schema.JsonSchemaModelBuilder" Collapsed="true">
+    <Position X="46.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgCQBAAAAAAAAAAQAAAAAiAgAAAgAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Schema\JsonSchemaModelBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Schema.JsonSchemaNode" Collapsed="true">
+    <Position X="48" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAiAAAAAAAECAAAAAAAAAAAAAAAAAAAQAABAAICgAA=</HashCode>
+      <FileName>Schema\JsonSchemaNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Schema.JsonSchemaNodeCollection" Collapsed="true">
+    <Position X="49.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Schema\JsonSchemaNodeCollection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Schema.JsonSchemaResolver" Collapsed="true">
+    <Position X="35.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Schema\JsonSchemaResolver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Schema.JsonSchemaWriter" Collapsed="true">
+    <Position X="37.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAACEAEAAAAAAAAAAQAAAAAAAICAAAAAAIA=</HashCode>
+      <FileName>Schema\JsonSchemaWriter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Schema.ValidationEventArgs" Collapsed="true">
+    <Position X="46.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAIAAAAAAAAAAAAAAAAAAABAIAAAAAA=</HashCode>
+      <FileName>Schema\ValidationEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Serialization.CachedAttributeGetter&lt;T&gt;" Collapsed="true">
+    <Position X="44.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAI=</HashCode>
+      <FileName>Serialization\CachedAttributeGetter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Serialization.CamelCasePropertyNamesContractResolver" Collapsed="true">
+    <Position X="8.25" Y="23.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Serialization\CamelCasePropertyNamesContractResolver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Serialization.DefaultContractResolverState" Collapsed="true">
+    <Position X="37.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Serialization\DefaultContractResolver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Serialization.DefaultContractResolver" Collapsed="true">
+    <Position X="8.25" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iQoFQMALQAqBAAEgqAACAogSEgCBQgAoSDEAAIAkBgQ=</HashCode>
+      <FileName>Serialization\DefaultContractResolver.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Newtonsoft.Json.Serialization.DefaultReferenceResolver" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="39.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAABAAAEAAAAAAIAAAAAAEAAAgAAAAAA=</HashCode>
+      <FileName>Serialization\DefaultReferenceResolver.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Newtonsoft.Json.Serialization.DefaultSerializationBinder" Collapsed="true">
+    <Position X="41" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAgAAAAAAIQAAAgAAAAAA=</HashCode>
+      <FileName>Serialization\DefaultSerializationBinder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Serialization.DiagnosticsTraceWriter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="42.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAABBAAAAAAAAAAAAA=</HashCode>
+      <FileName>Serialization\DiagnosticsTraceWriter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Newtonsoft.Json.Serialization.DynamicValueProvider" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="35.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAgAEAAAAAAAAAAAAAAAAAAAAAAIAQAA=</HashCode>
+      <FileName>Serialization\DynamicValueProvider.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Newtonsoft.Json.Serialization.ErrorContext" Collapsed="true">
+    <Position X="41" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAQIAAAAAAAAAAAAIAhAAAAAAAAAAAAA=</HashCode>
+      <FileName>Serialization\ErrorContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Serialization.ErrorEventArgs" Collapsed="true">
+    <Position X="42.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAhAAAAA=</HashCode>
+      <FileName>Serialization\ErrorEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Serialization.ExpressionValueProvider" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="44.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAgAEAAAAAAAAAAAAAAAAAAAAAAIAQAA=</HashCode>
+      <FileName>Serialization\ExpressionValueProvider.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Newtonsoft.Json.Serialization.JsonArrayContract" Collapsed="true">
+    <Position X="5.25" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAQAIAEQAEABAqAAAAAAAAgAEgAAAAAAQAAAAAQ=</HashCode>
+      <FileName>Serialization\JsonArrayContract.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Serialization.JsonContainerContract" Collapsed="true">
+    <Position X="7.5" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAACAgAAAgAAQBAAIAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Serialization\JsonContainerContract.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Serialization.JsonContract" Collapsed="true">
+    <Position X="7.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EQAhAAUEQASAAQCAaIkgoBiBBQAIEABEKMCAAAAAaAA=</HashCode>
+      <FileName>Serialization\JsonContract.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Serialization.JsonDictionaryContract" Collapsed="true">
+    <Position X="7.5" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKAAAAAAIACQAAABgiAAAAAAAAAAEgAAAABgQAAAAAA=</HashCode>
+      <FileName>Serialization\JsonDictionaryContract.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Serialization.JsonDynamicContract" Collapsed="true">
+    <Position X="9.75" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAACAAAAAAAgAgIAACAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Serialization\JsonDynamicContract.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Serialization.JsonFormatterConverter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="41" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAIAAAAAAAEEAIAAQQAAAAAABgAgAJgAogYQAAI=</HashCode>
+      <FileName>Serialization\JsonFormatterConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Newtonsoft.Json.Serialization.JsonISerializableContract" Collapsed="true">
+    <Position X="12" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Serialization\JsonISerializableContract.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Serialization.JsonLinqContract" Collapsed="true">
+    <Position X="14.25" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Serialization\JsonLinqContract.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Serialization.JsonObjectContract" Collapsed="true">
+    <Position X="3" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAGAAIMACAQAAABAAEAAAAAEAIBAAAAAAAAQAKCAAI=</HashCode>
+      <FileName>Serialization\JsonObjectContract.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Serialization.JsonPrimitiveContract" Collapsed="true">
+    <Position X="0.75" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Serialization\JsonPrimitiveContract.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Serialization.JsonProperty" Collapsed="true">
+    <Position X="46.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAUQhCAAyCUCIAAEAgEAghAAIEDgEIACAAEiAAhgECA=</HashCode>
+      <FileName>Serialization\JsonProperty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Serialization.JsonPropertyCollection" Collapsed="true">
+    <Position X="49.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAAAAAAAAAAAAASAAAAAAAAAAAAAIAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Serialization\JsonPropertyCollection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Serialization.JsonSerializerInternalBase" Collapsed="true">
+    <Position X="23.5" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEEAAACgAACAgAAAAAAAAAAAAQAEAAAAAgAAAAAA=</HashCode>
+      <FileName>Serialization\JsonSerializerInternalBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Serialization.JsonSerializerInternalReader" Collapsed="true">
+    <Position X="22.25" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CgASANEISAdAAAA0AQSACEKwAQREQgUAAWAAGBAABEA=</HashCode>
+      <FileName>Serialization\JsonSerializerInternalReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Serialization.JsonSerializerInternalWriter" Collapsed="true">
+    <Position X="24.5" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAQAgAIkEESIkGJgAAACTAACKFEAgEIIAAgAACBABA=</HashCode>
+      <FileName>Serialization\JsonSerializerInternalWriter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Serialization.JsonSerializerProxy" Collapsed="true">
+    <Position X="4.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACCAhAARCwUCYQAAAAQAAiBAEQKASABAAIAQAAMGACA=</HashCode>
+      <FileName>Serialization\JsonSerializerProxy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Serialization.JsonStringContract" Collapsed="true">
+    <Position X="0.75" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Serialization\JsonStringContract.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Serialization.JsonTypeReflector" Collapsed="true">
+    <Position X="42.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BIEAAEQAIAAgACAEAAAARBQAGAAwEAIABAADBkAAAAA=</HashCode>
+      <FileName>Serialization\JsonTypeReflector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Serialization.MemoryTraceWriter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="48" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QIAAAAAAAAAAAAAEAAAAAAAAAAAAABACAAAAAAAAAAA=</HashCode>
+      <FileName>Serialization\MemoryTraceWriter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Newtonsoft.Json.Serialization.OnErrorAttribute" Collapsed="true">
+    <Position X="41" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Serialization\OnErrorAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Serialization.ReflectionAttributeProvider" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="44.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Serialization\ReflectionAttributeProvider.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Newtonsoft.Json.Serialization.ReflectionValueProvider" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="35.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAgAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Serialization\ReflectionValueProvider.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Newtonsoft.Json.Serialization.TraceJsonReader" Collapsed="true">
+    <Position X="21.5" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAgAAAAEAQAAAgIAQoAgAAAoEAEAAAAgAEAgAACQEgA=</HashCode>
+      <FileName>Serialization\TraceJsonReader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Newtonsoft.Json.Serialization.TraceJsonWriter" Collapsed="true">
+    <Position X="12.5" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAoAgAAIAAASAAAAAEAiAgAACAEAAAABASCAAQCIAQA=</HashCode>
+      <FileName>Serialization\TraceJsonWriter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Utilities.Base64Encoder" Collapsed="true">
+    <Position X="35.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAIAAAAABAAAAAAAAAAgAAAAAAAAAQAEAAIAAIAIA=</HashCode>
+      <FileName>Utilities\Base64Encoder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Utilities.BidirectionalDictionary&lt;TFirst, TSecond&gt;" Collapsed="true">
+    <Position X="37.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAkABAAAAIAAAAAAAAAAAQAAAAAABAAAAAA=</HashCode>
+      <FileName>Utilities\BidirectionalDictionary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Utilities.CollectionUtils" Collapsed="true">
+    <Position X="46.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAkAAgAAgEAAAAAAAAAAAAAAAAAAAAAAJACUAJA=</HashCode>
+      <FileName>Utilities\CollectionUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Utilities.CollectionWrapper&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="48" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgIQAAAACIAEABARAAAABCQQAAUIAAAEQAAAAABQIAI=</HashCode>
+      <FileName>Utilities\CollectionWrapper.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Newtonsoft.Json.Utilities.TypeInformation" Collapsed="true">
+    <Position X="44.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Utilities\ConvertUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Utilities.ConvertUtils" Collapsed="true">
+    <Position X="49.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CIBKIEQABABAAAgAAIAAAAABAAACAAEAAECAIQAAAgA=</HashCode>
+      <FileName>Utilities\ConvertUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Utilities.DateTimeUtils" Collapsed="true">
+    <Position X="35.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAACBQBBCQEEIBIBCCAAAAAgQHAEAEgQAEAAAAQAAA=</HashCode>
+      <FileName>Utilities\DateTimeUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Utilities.DictionaryWrapper&lt;TKey, TValue&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="44.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAIABgBACABEABAQCIAARAQAAAAIgAAEAAAoAIBRIAM=</HashCode>
+      <FileName>Utilities\DictionaryWrapper.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Newtonsoft.Json.Utilities.DynamicProxy&lt;T&gt;" Collapsed="true">
+    <Position X="46.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAACAAAAAABEAABIFQCAACAAAAAAACAAAAACA=</HashCode>
+      <FileName>Utilities\DynamicProxy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Utilities.DynamicProxyMetaObject&lt;T&gt;" Collapsed="true">
+    <Position X="48" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgWAACQAgAAQAACAAAAEJICECAABAAwAQEAgAREEAAA=</HashCode>
+      <FileName>Utilities\DynamicProxyMetaObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Utilities.DynamicReflectionDelegateFactory" Collapsed="true">
+    <Position X="19.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAgAAAEAAUAAAAAAEAAAAQAAAAAABAAQAgACAAAAAA=</HashCode>
+      <FileName>Utilities\DynamicReflectionDelegateFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Utilities.DynamicUtils" Collapsed="true">
+    <Position X="49.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utilities\DynamicUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Utilities.NoThrowGetBinderMember" Collapsed="true">
+    <Position X="37.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utilities\DynamicUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Utilities.NoThrowSetBinderMember" Collapsed="true">
+    <Position X="39.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utilities\DynamicUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Utilities.NoThrowExpressionVisitor" Collapsed="true">
+    <Position X="35.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Utilities\DynamicUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Utilities.EnumUtils" Collapsed="true">
+    <Position X="37.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAQYAAAAAAAAAABAAAAABIAAAAACAAAAAgAAAA=</HashCode>
+      <FileName>Utilities\EnumUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Utilities.EnumValue&lt;T&gt;" Collapsed="true">
+    <Position X="39.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAIAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Utilities\EnumValue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Utilities.ExpressionReflectionDelegateFactory" Collapsed="true">
+    <Position X="21.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAAAAAAAAAAAAAEAAAAQBAAAAABAAQAAACAABAAA=</HashCode>
+      <FileName>Utilities\ExpressionReflectionDelegateFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Utilities.FSharpFunction" Collapsed="true">
+    <Position X="49.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Utilities\FSharpUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Utilities.FSharpUtils" Collapsed="true">
+    <Position X="35.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAQjAAAEiQAggQAAEIAAAAAEAARBAAAgAAAAAEAEBA=</HashCode>
+      <FileName>Utilities\FSharpUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Utilities.ILGeneratorExtensions" Collapsed="true">
+    <Position X="37.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAgAABAAAAAAAAAAAAAAAAAAAAAAIAAEAAAAIA=</HashCode>
+      <FileName>Utilities\ILGeneratorExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Utilities.ImmutableCollectionsUtils" Collapsed="true">
+    <Position X="39.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAEACAAAIAQcRAAIAAABAAARCgAAAAgBBgAJAAIAEA=</HashCode>
+      <FileName>Utilities\ImmutableCollectionsUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Utilities.JavaScriptUtils" Collapsed="true">
+    <Position X="41" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAACAAEAAAAQAAAAAAAAAAAAAAEAABAAAQ=</HashCode>
+      <FileName>Utilities\JavaScriptUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Utilities.JsonTokenUtils" Collapsed="true">
+    <Position X="41" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Utilities\JsonTokenUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Utilities.LateBoundReflectionDelegateFactory" Collapsed="true">
+    <Position X="24" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAAAAAAAAAAAAAEAAAAQAAAAAABAAQAAACAAAAAA=</HashCode>
+      <FileName>Utilities\LateBoundReflectionDelegateFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Utilities.MathUtils" Collapsed="true">
+    <Position X="46.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAEAKAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utilities\MathUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Utilities.MiscellaneousUtils" Collapsed="true">
+    <Position X="49.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAQAAAAABAAAEBAAAACAQAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Utilities\MiscellaneousUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Utilities.PropertyNameTable" Collapsed="true">
+    <Position X="42.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAgAADAAAAAAFAAAEAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Utilities\PropertyNameTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Utilities.ReflectionDelegateFactory" Collapsed="true">
+    <Position X="21.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAEAAAAQAAAAAABAAAAAACAAAAAA=</HashCode>
+      <FileName>Utilities\ReflectionDelegateFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Utilities.ReflectionMember" Collapsed="true">
+    <Position X="46.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAIAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Utilities\ReflectionObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Utilities.ReflectionObject" Collapsed="true">
+    <Position X="48" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAgAAAAAAAAAAAAAAAEEAEAAEAAAAAAA=</HashCode>
+      <FileName>Utilities\ReflectionObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Utilities.ReflectionUtils" Collapsed="true">
+    <Position X="49.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAECiAiCgBAAAChADAghBAAAArQAAAYQQAJEQAEQICM=</HashCode>
+      <FileName>Utilities\ReflectionUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Utilities.StringBuffer" Collapsed="true">
+    <Position X="37.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgACAAAAAkAAAAAAAACAAAAQAAAAAAgABACAA=</HashCode>
+      <FileName>Utilities\StringBuffer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Utilities.StringUtils" Collapsed="true">
+    <Position X="39.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAUAAAAAAgEABADAIAAAQAAAgAkAAAABAgAAEIAAA=</HashCode>
+      <FileName>Utilities\StringUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Utilities.ThreadSafeStore&lt;TKey, TValue&gt;" Collapsed="true">
+    <Position X="41" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAgBgAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utilities\ThreadSafeStore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Utilities.TypeExtensions" Collapsed="true">
+    <Position X="42.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAgAAABAAkAAAAIAgAAAABAAEAIAIAAAAAUAIAAg=</HashCode>
+      <FileName>Utilities\TypeExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newtonsoft.Json.Utilities.ValidationUtils" Collapsed="true">
+    <Position X="48" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAQAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Utilities\ValidationUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Newtonsoft.Json.JsonPosition" Collapsed="true">
+    <Position X="39.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAgAAEAgAAAAACAAAAAAAAAgAQAAACBAAAA=</HashCode>
+      <FileName>JsonPosition.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Newtonsoft.Json.Linq.JEnumerable&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="37.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAiAIAAAAAAAAAAIAEAAAAQAAAAAA=</HashCode>
+      <FileName>Linq\JEnumerable.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="Newtonsoft.Json.Serialization.ResolverContractKey" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="41" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgBAAAAAAAAAEAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Serialization\DefaultContractResolver.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="Newtonsoft.Json.Utilities.DateTimeParser" Collapsed="true">
+    <Position X="35.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIkAACYJJAAABEAgBAEACIAhABCACsMBAAAABABAAA=</HashCode>
+      <FileName>Utilities\DateTimeParser.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Newtonsoft.Json.Utilities.StringReference" Collapsed="true">
+    <Position X="42.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAEAEAAAAAABAAIAAAIAABAAAAAAAAAA=</HashCode>
+      <FileName>Utilities\StringReference.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="Newtonsoft.Json.IJsonLineInfo" Collapsed="true">
+    <Position X="41" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAIAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>IJsonLineInfo.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Newtonsoft.Json.Converters.IXmlDocument" Collapsed="true">
+    <Position X="17.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAACAQAAAAAAAAgAIAAAiAAAAAAEAAASAA=</HashCode>
+      <FileName>Converters\XmlNodeConverter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Newtonsoft.Json.Converters.IXmlDeclaration" Collapsed="true">
+    <Position X="19.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Converters\XmlNodeConverter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Newtonsoft.Json.Converters.IXmlDocumentType" Collapsed="true">
+    <Position X="22" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAACAAAAAAQAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Converters\XmlNodeConverter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Newtonsoft.Json.Converters.IXmlElement" Collapsed="true">
+    <Position X="24.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAACAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Converters\XmlNodeConverter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Newtonsoft.Json.Converters.IXmlNode" Collapsed="true">
+    <Position X="20.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAASAAAAAAAAAAAAAAAAAQAAAFAAAAAACgAAIQAAA=</HashCode>
+      <FileName>Converters\XmlNodeConverter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Newtonsoft.Json.Linq.IJEnumerable&lt;T&gt;" Collapsed="true">
+    <Position X="39.25" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Linq\IJEnumerable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Newtonsoft.Json.Serialization.IAttributeProvider" Collapsed="true">
+    <Position X="35.75" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Serialization\IAttributeProvider.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Newtonsoft.Json.Serialization.IContractResolver" Collapsed="true">
+    <Position X="37.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Serialization\IContractResolver.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Newtonsoft.Json.Serialization.IReferenceResolver" Collapsed="true">
+    <Position X="42.75" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAEAAAAAAIAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Serialization\IReferenceResolver.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Newtonsoft.Json.Serialization.ITraceWriter" Collapsed="true">
+    <Position X="44.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Serialization\ITraceWriter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Newtonsoft.Json.Serialization.IValueProvider" Collapsed="true">
+    <Position X="46.25" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Serialization\IValueProvider.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Newtonsoft.Json.Utilities.IWrappedCollection" Collapsed="true">
+    <Position X="48" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utilities\CollectionWrapper.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Newtonsoft.Json.Utilities.IWrappedDictionary" Collapsed="true">
+    <Position X="49.75" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Utilities\DictionaryWrapper.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Newtonsoft.Json.Bson.BsonBinaryType" Collapsed="true">
+    <Position X="35.75" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAEAAAACAAAAAQEAAAAAIAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Bson\BsonBinaryType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Newtonsoft.Json.Bson.BsonType" Collapsed="true">
+    <Position X="37.5" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAGAAQACDAAhQEAgAAAAAAAAAgABAAIAAAAACCA=</HashCode>
+      <FileName>Bson\BsonType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Newtonsoft.Json.ConstructorHandling" Collapsed="true">
+    <Position X="39.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConstructorHandling.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Newtonsoft.Json.DateFormatHandling" Collapsed="true">
+    <Position X="41" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>DateFormatHandling.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Newtonsoft.Json.DateParseHandling" Collapsed="true">
+    <Position X="42.75" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAQAAAAAAAEAAAA=</HashCode>
+      <FileName>DateParseHandling.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Newtonsoft.Json.DateTimeZoneHandling" Collapsed="true">
+    <Position X="44.5" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAhAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>DateTimeZoneHandling.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Newtonsoft.Json.DefaultValueHandling" Collapsed="true">
+    <Position X="46.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAACAAAAAAAAAAACAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DefaultValueHandling.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Newtonsoft.Json.FloatFormatHandling" Collapsed="true">
+    <Position X="48" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>FloatFormatHandling.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Newtonsoft.Json.FloatParseHandling" Collapsed="true">
+    <Position X="49.75" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FloatParseHandling.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Newtonsoft.Json.Formatting" Collapsed="true">
+    <Position X="35.75" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Formatting.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Newtonsoft.Json.JsonContainerType" Collapsed="true">
+    <Position X="37.5" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAACAAgAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>JsonPosition.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Newtonsoft.Json.ReadType" Collapsed="true">
+    <Position X="49.75" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAQAAAAAAQgAAAAAoEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>JsonTextReader.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Newtonsoft.Json.JsonToken" Collapsed="true">
+    <Position X="42.75" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACABAEAQAACAAAQAAAAAAAEgABAgABAAIIAAVgACA=</HashCode>
+      <FileName>JsonToken.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Newtonsoft.Json.MemberSerialization" Collapsed="true">
+    <Position X="46.25" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>MemberSerialization.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Newtonsoft.Json.MetadataPropertyHandling" Collapsed="true">
+    <Position X="49.75" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAIAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>MetadataPropertyHandling.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Newtonsoft.Json.MissingMemberHandling" Collapsed="true">
+    <Position X="35.75" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MissingMemberHandling.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Newtonsoft.Json.NullValueHandling" Collapsed="true">
+    <Position X="37.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NullValueHandling.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Newtonsoft.Json.ObjectCreationHandling" Collapsed="true">
+    <Position X="39.25" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAACAAACA=</HashCode>
+      <FileName>ObjectCreationHandling.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Newtonsoft.Json.PreserveReferencesHandling" Collapsed="true">
+    <Position X="44.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAAAAEAAIAAAAEAAAA=</HashCode>
+      <FileName>PreserveReferencesHandling.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Newtonsoft.Json.ReferenceLoopHandling" Collapsed="true">
+    <Position X="35.75" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAQAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ReferenceLoopHandling.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Newtonsoft.Json.Required" Collapsed="true">
+    <Position X="37.5" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAIAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Required.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Newtonsoft.Json.StringEscapeHandling" Collapsed="true">
+    <Position X="39.25" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAIAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>StringEscapeHandling.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Newtonsoft.Json.TypeNameHandling" Collapsed="true">
+    <Position X="41" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAAAAEAAIAAACEAAAA=</HashCode>
+      <FileName>TypeNameHandling.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Newtonsoft.Json.WriteState" Collapsed="true">
+    <Position X="44.5" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAACAACQAgAAAAAAAAAAAAAAAAAAAAAQCAAAA=</HashCode>
+      <FileName>WriteState.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Newtonsoft.Json.Linq.JTokenType" Collapsed="true">
+    <Position X="44.5" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAEAQAACAAgQAAAAAAAAAAABgABCAYIAQEgACA=</HashCode>
+      <FileName>Linq\JTokenType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Newtonsoft.Json.Linq.MergeArrayHandling" Collapsed="true">
+    <Position X="48" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAQAAACA=</HashCode>
+      <FileName>Linq\MergeArrayHandling.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Newtonsoft.Json.Linq.JsonPath.QueryOperator" Collapsed="true">
+    <Position X="48" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ICAACAAAAAAAAAAAgAAAAAAAAAAAAAAgAAAAAAUIACA=</HashCode>
+      <FileName>Linq\JsonPath\QueryExpression.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Newtonsoft.Json.Schema.JsonSchemaType" Collapsed="true">
+    <Position X="41" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAQAACAAgQAAAAAAAAAAAAgAAAAIAAAEgAAA=</HashCode>
+      <FileName>Schema\JsonSchemaType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Newtonsoft.Json.Schema.UndefinedSchemaIdHandling" Collapsed="true">
+    <Position X="42.75" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAACAEAAAA=</HashCode>
+      <FileName>Schema\UndefinedSchemaIdHandling.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Newtonsoft.Json.Serialization.JsonContractType" Collapsed="true">
+    <Position X="39.25" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAACAAhQAAAAAAAAAAABAAAAAAAAIEAEAA=</HashCode>
+      <FileName>Serialization\JsonContract.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Newtonsoft.Json.Utilities.PrimitiveTypeCode" Collapsed="true">
+    <Position X="46.25" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>Q0AAAAAQIYYhAJwgQAIAAACAJEQCBCSAGEUIgACIAQA=</HashCode>
+      <FileName>Utilities\ConvertUtils.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Newtonsoft.Json.Utilities.ParseResult" Collapsed="true">
+    <Position X="41" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAIAAgAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Utilities\ConvertUtils.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Newtonsoft.Json.Utilities.ParserTimeZone" Collapsed="true">
+    <Position X="42.75" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAgAAAAAAAAARAAAAAA=</HashCode>
+      <FileName>Utilities\DateTimeParser.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="Newtonsoft.Json.Schema.ValidationEventHandler" Collapsed="true">
+    <Position X="48" Y="15.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Schema\ValidationEventHandler.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="Newtonsoft.Json.Serialization.SerializationCallback" Collapsed="true">
+    <Position X="44.5" Y="15.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Serialization\JsonContract.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="Newtonsoft.Json.Serialization.SerializationErrorCallback" Collapsed="true">
+    <Position X="46.25" Y="15.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAQQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Serialization\JsonContract.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="Newtonsoft.Json.Serialization.ExtensionDataSetter" Collapsed="true">
+    <Position X="39.25" Y="15.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAQAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Serialization\JsonContract.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="Newtonsoft.Json.Serialization.ExtensionDataGetter" Collapsed="true">
+    <Position X="37.5" Y="15.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Serialization\JsonContract.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="Newtonsoft.Json.Serialization.ObjectConstructor&lt;T&gt;" Collapsed="true">
+    <Position X="42.75" Y="15.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Serialization\ObjectConstructor.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="Newtonsoft.Json.Utilities.MethodCall&lt;T, TResult&gt;" Collapsed="true">
+    <Position X="41" Y="15.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utilities\MethodCall.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="Newtonsoft.Json.Utilities.Creator&lt;T&gt;" Collapsed="true">
+    <Position X="35.75" Y="15.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Utilities\MiscellaneousUtils.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

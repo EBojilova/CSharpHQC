@@ -4,7 +4,15 @@
 
     internal static class Messages
     {
-        internal static readonly StringBuilder Output = new StringBuilder();
+        private static readonly StringBuilder Output = new StringBuilder();
+
+        public static StringBuilder Writer
+        {
+            get
+            {
+                return Output;
+            }
+        }
 
         public static void PrintEventAdded()
         {

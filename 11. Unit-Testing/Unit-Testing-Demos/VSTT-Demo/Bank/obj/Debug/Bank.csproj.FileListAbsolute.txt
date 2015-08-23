@@ -1,0 +1,5 @@
+C:\Users\Elena\Downloads\CSharpKPK\11. Unit-Testing\Unit-Testing-Demos\VSTT-Demo\Bank\bin\Debug\Bank.dll
+C:\Users\Elena\Downloads\CSharpKPK\11. Unit-Testing\Unit-Testing-Demos\VSTT-Demo\Bank\bin\Debug\Bank.pdb
+C:\Users\Elena\Downloads\CSharpKPK\11. Unit-Testing\Unit-Testing-Demos\VSTT-Demo\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\CSharpKPK\11. Unit-Testing\Unit-Testing-Demos\VSTT-Demo\Bank\obj\Debug\Bank.dll
+C:\Users\Elena\Downloads\CSharpKPK\11. Unit-Testing\Unit-Testing-Demos\VSTT-Demo\Bank\obj\Debug\Bank.pdb

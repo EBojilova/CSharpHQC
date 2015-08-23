@@ -1,0 +1,6 @@
+C:\Users\Elena\Downloads\CSharpKPK\01. Introduction-to-High-Quality-Code\01.Introduction\03.CodeFormatting\bin\Debug\03.CodeFormatting.exe.config
+C:\Users\Elena\Downloads\CSharpKPK\01. Introduction-to-High-Quality-Code\01.Introduction\03.CodeFormatting\bin\Debug\03.CodeFormatting.exe
+C:\Users\Elena\Downloads\CSharpKPK\01. Introduction-to-High-Quality-Code\01.Introduction\03.CodeFormatting\bin\Debug\03.CodeFormatting.pdb
+C:\Users\Elena\Downloads\CSharpKPK\01. Introduction-to-High-Quality-Code\01.Introduction\03.CodeFormatting\obj\Debug\03.CodeFormatting.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\CSharpKPK\01. Introduction-to-High-Quality-Code\01.Introduction\03.CodeFormatting\obj\Debug\03.CodeFormatting.exe
+C:\Users\Elena\Downloads\CSharpKPK\01. Introduction-to-High-Quality-Code\01.Introduction\03.CodeFormatting\obj\Debug\03.CodeFormatting.pdb

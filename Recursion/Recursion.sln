@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonachi", "Fibonachi\Fibonachi.csproj", "{F9504836-C713-4FDF-B7A6-7F3882B1C02C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factoriel", "Factoriel\Factoriel.csproj", "{829CBB5A-FBBC-43D7-8BC8-C36F22EE9515}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveNestedLoops", "RecursiveNestedLoops\RecursiveNestedLoops.csproj", "{C962ED78-723E-4802-8E56-3D0E250DC6E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9504836-C713-4FDF-B7A6-7F3882B1C02C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9504836-C713-4FDF-B7A6-7F3882B1C02C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9504836-C713-4FDF-B7A6-7F3882B1C02C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9504836-C713-4FDF-B7A6-7F3882B1C02C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{829CBB5A-FBBC-43D7-8BC8-C36F22EE9515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{829CBB5A-FBBC-43D7-8BC8-C36F22EE9515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{829CBB5A-FBBC-43D7-8BC8-C36F22EE9515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{829CBB5A-FBBC-43D7-8BC8-C36F22EE9515}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C962ED78-723E-4802-8E56-3D0E250DC6E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C962ED78-723E-4802-8E56-3D0E250DC6E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C962ED78-723E-4802-8E56-3D0E250DC6E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C962ED78-723E-4802-8E56-3D0E250DC6E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

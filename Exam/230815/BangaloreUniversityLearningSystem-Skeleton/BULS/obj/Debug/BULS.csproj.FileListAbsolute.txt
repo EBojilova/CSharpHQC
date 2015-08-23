@@ -1,0 +1,6 @@
+C:\Users\Elena\Downloads\CSharpKPK\Exam\230815\BangaloreUniversityLearningSystem-Skeleton\BULS\bin\Debug\BangaloreUniversityLearningSystem.exe.config
+C:\Users\Elena\Downloads\CSharpKPK\Exam\230815\BangaloreUniversityLearningSystem-Skeleton\BULS\bin\Debug\BangaloreUniversityLearningSystem.exe
+C:\Users\Elena\Downloads\CSharpKPK\Exam\230815\BangaloreUniversityLearningSystem-Skeleton\BULS\bin\Debug\BangaloreUniversityLearningSystem.pdb
+C:\Users\Elena\Downloads\CSharpKPK\Exam\230815\BangaloreUniversityLearningSystem-Skeleton\BULS\obj\Debug\BULS.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\CSharpKPK\Exam\230815\BangaloreUniversityLearningSystem-Skeleton\BULS\obj\Debug\BangaloreUniversityLearningSystem.exe
+C:\Users\Elena\Downloads\CSharpKPK\Exam\230815\BangaloreUniversityLearningSystem-Skeleton\BULS\obj\Debug\BangaloreUniversityLearningSystem.pdb

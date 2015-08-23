@@ -1,0 +1,9 @@
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Phonebook\Phonebook-Solution\Phonebook.Tests\bin\Debug\Phonebook.Tests.dll
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Phonebook\Phonebook-Solution\Phonebook.Tests\bin\Debug\Phonebook.Tests.pdb
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Phonebook\Phonebook-Solution\Phonebook.Tests\bin\Debug\Phonebook.exe
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Phonebook\Phonebook-Solution\Phonebook.Tests\bin\Debug\PowerCollections.dll
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Phonebook\Phonebook-Solution\Phonebook.Tests\bin\Debug\Phonebook.pdb
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Phonebook\Phonebook-Solution\Phonebook.Tests\bin\Debug\PowerCollections.xml
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Phonebook\Phonebook-Solution\Phonebook.Tests\obj\Debug\Phonebook.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Phonebook\Phonebook-Solution\Phonebook.Tests\obj\Debug\Phonebook.Tests.dll
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Phonebook\Phonebook-Solution\Phonebook.Tests\obj\Debug\Phonebook.Tests.pdb

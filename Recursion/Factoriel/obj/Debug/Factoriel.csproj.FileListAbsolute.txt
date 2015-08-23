@@ -1,0 +1,5 @@
+c:\users\elena\documents\visual studio 2013\Projects\Recursion\Factoriel\bin\Debug\Factoriel.exe.config
+c:\users\elena\documents\visual studio 2013\Projects\Recursion\Factoriel\bin\Debug\Factoriel.exe
+c:\users\elena\documents\visual studio 2013\Projects\Recursion\Factoriel\bin\Debug\Factoriel.pdb
+c:\users\elena\documents\visual studio 2013\Projects\Recursion\Factoriel\obj\Debug\Factoriel.exe
+c:\users\elena\documents\visual studio 2013\Projects\Recursion\Factoriel\obj\Debug\Factoriel.pdb

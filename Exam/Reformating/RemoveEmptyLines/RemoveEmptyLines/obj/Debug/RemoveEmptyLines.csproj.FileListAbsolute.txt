@@ -1,0 +1,7 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\RemoveEmptyLines\RemoveEmptyLines\bin\Debug\RemoveEmptyLines.exe.config
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Reformating\RemoveEmptyLines\RemoveEmptyLines\bin\Debug\RemoveEmptyLines.exe.config
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Reformating\RemoveEmptyLines\RemoveEmptyLines\bin\Debug\RemoveEmptyLines.exe
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Reformating\RemoveEmptyLines\RemoveEmptyLines\bin\Debug\RemoveEmptyLines.pdb
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Reformating\RemoveEmptyLines\RemoveEmptyLines\obj\Debug\RemoveEmptyLines.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Reformating\RemoveEmptyLines\RemoveEmptyLines\obj\Debug\RemoveEmptyLines.exe
+C:\Users\Elena\Downloads\CSharpKPK\Exam\Reformating\RemoveEmptyLines\RemoveEmptyLines\obj\Debug\RemoveEmptyLines.pdb

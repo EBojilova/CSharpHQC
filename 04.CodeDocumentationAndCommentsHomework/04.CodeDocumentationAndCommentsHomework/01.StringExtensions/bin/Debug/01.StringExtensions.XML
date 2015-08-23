@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>01.StringExtensions</name>
+    </assembly>
+    <members>
+        <member name="T:_01.StringExtensions.StringExtensionsMain">
+            <summary>
+            The string extensions main.
+            </summary>
+        </member>
+        <member name="M:_01.StringExtensions.StringExtensionsMain.Main(System.String[])">
+            <summary>
+            The main.
+            </summary>
+            <param name="args">
+            The args.
+            </param>
+        </member>
+        <member name="T:_01.StringExtensions.StringExtensions">
+            <summary>
+            The StringExtensions class provides various methods for manipulating strings.
+            </summary>
+        </member>
+        <member name="M:_01.StringExtensions.StringExtensions.ToMd5Hash(System.String)">
+            <summary>
+            Encrypts the input string using MD5
+            </summary>
+            <param name="input">
+            The input string to be encrypted.
+            </param>
+            <returns>
+            The MD5 encrypted string.<see cref="T:System.String"/>.
+            </returns>
+        </member>
+        <member name="M:_01.StringExtensions.StringExtensions.ToBoolean(System.String)">
+            <summary>
+            Converts the string to a boolean value, returns True if input string value is equal to  one of the following strings: "true", "ok", "yes", "1".
+            </summary>
+            <param name="input">
+            The input string to be converted.
+            </param>
+            <returns>
+            The value of type boolean.<see cref="T:System.Boolean"/>.
+            </returns>
+        </member>
+        <member name="M:_01.StringExtensions.StringExtensions.ToShort(System.String)">
+            <summary>
+            Tries to parse the input string to a value of type short. If unsuccessful, returns the default value for short.
+            </summary>
+            <param name="input">
+            The input string to be parsed.
+            </param>
+            <returns>
+            The value of type short.<see cref="T:System.Int16"/>.
+            </returns>
+        </member>
+        <member name="M:_01.StringExtensions.StringExtensions.ToInteger(System.String)">
+            <summary>
+            Tries to parse the input string to a value of type integer. If unsuccessful, returns the default value for integer.
+            </summary>
+            <param name="input">
+            The input string to be parsed.
+            </param>
+            <returns>
+            The value of type integer.<see cref="T:System.Int32"/>.
+            </returns>
+        </member>
+        <member name="M:_01.StringExtensions.StringExtensions.ToLong(System.String)">
+            <summary>
+            Tries to parse the input string to a value of type long. If unsuccessful, returns the default value for long.
+            </summary>
+            <param name="input">
+            The input string to be parsed.
+            </param>
+            <returns>
+            The value of type long.<see cref="T:System.Int32"/>.
+            </returns>
+        </member>
+        <member name="M:_01.StringExtensions.StringExtensions.ToDateTime(System.String)">
+            <summary>
+            Tries to parse the input string to a DateTime object. If unsuccessful, returns the default value for DateTime object.
+            </summary>
+            <param name="input">
+            The input string to be parsed.
+            </param>
+            <returns>
+            A DateTime object.<see cref="T:System.Int32"/>.
+            </returns>
+        </member>
+        <member name="M:_01.StringExtensions.StringExtensions.CapitalizeFirstLetter(System.String)">
+            <summary>
+            Capitalizes the first letter of a non-empty string
+            </summary>
+            <param name="input">
+            The input string.
+            </param>
+            <returns>
+            The result string. <see cref="T:System.String"/>.
+            </returns>
+        </member>
+        <member name="M:_01.StringExtensions.StringExtensions.GetStringBetween(System.String,System.String,System.String,System.Int32)">
+            <summary>
+            Returns a substring of the input string, which is found between a specified start string and end string.
+            </summary>
+            <param name="input">
+            The input.
+            </param>
+            <param name="startString">
+            The start string.
+            </param>
+            <param name="endString">
+            The end string.
+            </param>
+            <param name="startFrom">
+            The start from index.
+            </param>
+            <returns>
+            The substring result.<see cref="T:System.String"/>.
+            </returns>
+        </member>
+        <member name="M:_01.StringExtensions.StringExtensions.ConvertCyrillicToLatinLetters(System.String)">
+            <summary>
+            The convert cyrillic keyboard input to latin keyboard output.
+            </summary>
+            <param name="input">
+            The input word with cyrillic letters.
+            </param>
+            <returns>
+            The output word with latin letters. <see cref="T:System.String"/>.
+            </returns>
+        </member>
+        <member name="M:_01.StringExtensions.StringExtensions.ConvertLatinToCyrillicKeyboard(System.String)">
+            <summary>
+            The convert latin keyboard input to cyrillic keyboard output.
+            </summary>
+            <param name="input">
+            The input word with latin letters.
+            </param>
+            <returns>
+            The output word with cyrillic letters. <see cref="T:System.String"/>.
+            </returns>
+        </member>
+        <member name="M:_01.StringExtensions.StringExtensions.ToValidUsername(System.String)">
+            <summary>
+            Removes all special characters from a string. The resulting string will contain only letters, digits, underscores and dot and will be considered a valid username.
+            </summary>
+            <param name="input">
+            The input string.
+            </param>
+            <returns>
+            The validated output string. <see cref="T:System.String"/>.
+            </returns>
+        </member>
+        <member name="M:_01.StringExtensions.StringExtensions.ToValidLatinFileName(System.String)">
+            <summary>
+            Validate latin file name, where the spce is replaced by "-".
+            </summary>
+            <param name="input">
+            The input file name string.
+            </param>
+            <returns>
+            The validated file name string.<see cref="T:System.String"/>.
+            </returns>
+        </member>
+        <member name="M:_01.StringExtensions.StringExtensions.GetFirstCharacters(System.String,System.Int32)">
+            <summary>
+            Gets the first charsCount characters in a string.
+            </summary>
+            <param name="input">
+            The input string.
+            </param>
+            <param name="charsCount">
+            The number of characters to be returned.
+            </param>
+            <returns>
+            The first count of characters of the given string.
+            </returns>
+        </member>
+        <member name="M:_01.StringExtensions.StringExtensions.GetFileExtension(System.String)">
+            <summary>
+            The get file extension of file name string.
+            </summary>
+            <param name="fileName">
+            The file name string.
+            </param>
+            <returns>
+            The extension string.<see cref="T:System.String"/>.
+            </returns>
+        </member>
+        <member name="M:_01.StringExtensions.StringExtensions.ToContentType(System.String)">
+            <summary>
+            Returns the content type of a given file extension.
+            </summary>
+            <param name="fileExtension">
+            The file extension.
+            </param>
+            <returns>
+            The content type of a given file extension.<see cref="T:System.String"/>.
+            </returns>
+        </member>
+        <member name="M:_01.StringExtensions.StringExtensions.ToByteArray(System.String)">
+            <summary>
+            Returns an array of bytes where each symbol of the input string is converted to a value of type byte
+            </summary>
+            <param name="input">
+            The input string.
+            </param>
+            <returns>
+            A byte array.
+            </returns>
+        </member>
+    </members>
+</doc>

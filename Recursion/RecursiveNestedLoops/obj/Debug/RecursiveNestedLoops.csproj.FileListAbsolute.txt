@@ -1,0 +1,6 @@
+c:\users\elena\documents\visual studio 2013\Projects\Recursion\RecursiveNestedLoops\bin\Debug\RecursiveNestedLoops.exe.config
+c:\users\elena\documents\visual studio 2013\Projects\Recursion\RecursiveNestedLoops\bin\Debug\RecursiveNestedLoops.exe
+c:\users\elena\documents\visual studio 2013\Projects\Recursion\RecursiveNestedLoops\bin\Debug\RecursiveNestedLoops.pdb
+c:\users\elena\documents\visual studio 2013\Projects\Recursion\RecursiveNestedLoops\obj\Debug\RecursiveNestedLoops.exe
+c:\users\elena\documents\visual studio 2013\Projects\Recursion\RecursiveNestedLoops\obj\Debug\RecursiveNestedLoops.pdb
+c:\users\elena\documents\visual studio 2013\Projects\Recursion\RecursiveNestedLoops\obj\Debug\RecursiveNestedLoops.csprojResolveAssemblyReference.cache
