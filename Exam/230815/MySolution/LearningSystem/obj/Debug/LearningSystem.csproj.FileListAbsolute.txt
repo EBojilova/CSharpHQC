@@ -10,3 +10,9 @@ C:\Users\Elena\Downloads\CSharpKPK\Exam\230815\MySolution\LearningSystem\obj\Deb
 C:\Users\Elena\Downloads\CSharpKPK\Exam\230815\MySolution\LearningSystem\bin\Debug\LearningSystem.exe
 C:\Users\Elena\Downloads\CSharpKPK\Exam\230815\MySolution\LearningSystem\bin\Debug\LearningSystem.pdb
 C:\Users\Elena\Downloads\CSharpKPK\Exam\230815\MySolution\LearningSystem\obj\Debug\LearningSystem.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\MySolution\LearningSystem\bin\Debug\LearningSystem.exe.config
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\MySolution\LearningSystem\obj\Debug\LearningSystem.exe
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\MySolution\LearningSystem\obj\Debug\LearningSystem.pdb
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\MySolution\LearningSystem\bin\Debug\LearningSystem.exe
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\MySolution\LearningSystem\bin\Debug\LearningSystem.pdb
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\MySolution\LearningSystem\obj\Debug\LearningSystem.csprojResolveAssemblyReference.cache

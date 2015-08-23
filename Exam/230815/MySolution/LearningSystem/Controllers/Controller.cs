@@ -36,7 +36,7 @@
             var baseNamespace = fullNamespace.Substring(0, firstSeparatorIndex);
             var controllerName = this.GetType().Name.Replace("Controller", string.Empty);
             var actionName = new StackTrace().GetFrame(1).GetMethod().Name;
-            var fullPath = baseNamespace + ".Views." + actionName;
+            string fullPath = baseNamespace + ".Views." + controllerName + "." + actionName;
             var viewType = Assembly.GetExecutingAssembly().GetType(fullPath);
             return Activator.CreateInstance(viewType, model) as IView;
         }
