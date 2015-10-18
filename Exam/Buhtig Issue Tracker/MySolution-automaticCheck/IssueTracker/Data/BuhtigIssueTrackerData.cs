@@ -43,13 +43,27 @@ namespace Data
 
         public MultiDictionary<User, Comment> User_Comments { get; set; }
 
-        public int AddIssue(Issue p)
+        public int AddIssue(Issue issue)
         {
-            return 0;
+            issue.Id = this.NextIssueId;
+            this.IssueId_Issue.Add(issue.Id, issue);
+            this.NextIssueId++;
+            this.UserName_Issues[this.CurrentUser.UserName].Add(issue);
+            foreach (var tag in issue.Tags)
+            {
+                this.Tag_Issues[tag].Add(issue);
+            }
+            return issue.Id;
         }
 
-        public void RemoveIssue(Issue p)
+        public void RemoveIssue(Issue issue)
         {
+            this.UserName_Issues[this.CurrentUser.UserName].Remove(issue);
+            foreach (var tag in issue.Tags)
+            {
+                this.Tag_Issues[tag].Remove(issue);
+            }
+            this.IssueId_Issue.Remove(issue.Id);
         }
     }
 }

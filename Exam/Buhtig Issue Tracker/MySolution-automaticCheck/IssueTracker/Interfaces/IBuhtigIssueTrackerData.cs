@@ -20,8 +20,8 @@
 
         MultiDictionary<User, Comment> User_Comments { get; }
 
-        int AddIssue(Issue p);
+        int AddIssue(Issue issue);
 
-        void RemoveIssue(Issue p);
+        void RemoveIssue(Issue issue);
     }
 }

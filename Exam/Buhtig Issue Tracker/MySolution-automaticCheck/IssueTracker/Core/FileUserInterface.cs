@@ -1,12 +1,18 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace IssueTracker.Core
+﻿namespace IssueTracker.Core
 {
-    interface FileUserInterface
+    using global::IssueTracker.Interfaces;
+
+    public class FileUserInterface : IUserInterface
     {
+
+        public string ReadLine()
+        {
+            throw new System.NotImplementedException();
+        }
+
+        public void WriteLine(string message)
+        {
+            throw new System.NotImplementedException();
+        }
     }
 }

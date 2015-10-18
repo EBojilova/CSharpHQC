@@ -1,12 +1,19 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace IssueTracker.Core
+﻿namespace IssueTracker.Core
 {
-    class ConsoleUserInterface
+    using System;
+
+    using global::IssueTracker.Interfaces;
+
+    internal class ConsoleUserInterface : IUserInterface
     {
+        public string ReadLine()
+        {
+            return Console.ReadLine();
+        }
+
+        public void WriteLine(string message)
+        {
+            Console.WriteLine(message);
+        }
     }
 }

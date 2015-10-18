@@ -1,45 +1,55 @@
 namespace buhtig.Core
 {
     using System;
+    using System.IO;
 
     using IssueTracker.Core;
     using IssueTracker.Interfaces;
 
     public class Engine : IEngine
     {
-        private readonly Dispatcher d;
+       
 
-        public Engine(Dispatcher d)
+        public Engine(IDispatcher dispatcher, IUserInterface userInterface)
         {
-            this.d = d;
+            this.Dispatcher = dispatcher;
+            this.UserInterface = userInterface;
         }
 
         public Engine()
-            : this(new Dispatcher())
+            : this(new Dispatcher(), new ConsoleUserInterface())
         {
         }
 
+        public IDispatcher Dispatcher { get; }
+
+        public IUserInterface UserInterface { get; }
+
         public void Run()
         {
-            while (true)
+            using (var reader = new StreamReader("../../URLs/002.txt"))
             {
-                var url = Console.ReadLine();
-                if (url != null)
+                while (true)
                 {
-                    break;
-                }
-                url = url.Trim();
-                if (string.IsNullOrEmpty(url))
-                {
-                    try
+                    //var url = this.UserInterface.ReadLine();
+                    var url = reader.ReadLine();
+                    if (url != null)
                     {
-                        var ep = new Endpoint(url);
-                        var viewResult = this.d.DispatchAction(ep);
-                        Console.WriteLine(viewResult);
+                        break;
                     }
-                    catch (Exception ex)
+                    url = url.Trim();
+                    if (string.IsNullOrEmpty(url))
                     {
-                        Console.WriteLine(ex.Message);
+                        try
+                        {
+                            var ep = new Endpoint(url);
+                            var viewResult = this.Dispatcher.DispatchAction(ep);
+                            this.UserInterface.WriteLine(viewResult);
+                        }
+                        catch (Exception ex)
+                        {
+                            this.UserInterface.WriteLine(ex.Message);
+                        }
                     }
                 }
             }

@@ -107,14 +107,7 @@
 
             // In case of success, the action returns Issue <id> created successfully
             var issue = new Issue(title, description, priority, tags.Distinct().ToList());
-            issue.Id = this.Data.NextIssueId;
-            this.Data.IssueId_Issue.Add(issue.Id, issue);
-            this.Data.NextIssueId++;
-            this.Data.UserName_Issues[this.Data.CurrentUser.UserName].Add(issue);
-            foreach (var tag in issue.Tags)
-            {
-                this.Data.Tag_Issues[tag].Add(issue);
-            }
+            this.Data.AddIssue(issue);
             return string.Format("Issue {0} created successfully.", issue.Id);
         }
 
@@ -144,12 +137,7 @@
 
             // Removes an issue given by the specified ID.
             // In case of success, the action returns Issue<id> removed
-            this.Data.UserName_Issues[this.Data.CurrentUser.UserName].Remove(issue);
-            foreach (var tag in issue.Tags)
-            {
-                this.Data.Tag_Issues[tag].Remove(issue);
-            }
-            this.Data.IssueId_Issue.Remove(issue.Id);
+            this.Data.RemoveIssue(issue);
             return string.Format("Issue {0} removed", issueId);
         }
 
@@ -161,7 +149,6 @@
                 return "There is no currently logged in user";
             }
 
-            // TODO Remove + 1
             // If the issue ID is invalid (i. e., does not exist in the database), the action returns There is no issue with ID < id >
             if (!this.Data.IssueId_Issue.ContainsKey(issueId))
             {

@@ -5,7 +5,7 @@
     using global::IssueTracker.Enums;
     using global::IssueTracker.Interfaces;
 
-    public class Dispatcher
+    public class Dispatcher : IDispatcher
     {
         private Dispatcher(IIssueTracker tracker)
         {

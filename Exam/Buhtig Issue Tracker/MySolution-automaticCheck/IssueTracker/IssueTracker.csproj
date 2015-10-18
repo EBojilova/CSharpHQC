@@ -44,10 +44,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Core\ConsoleUserInterface.cs" />
+    <Compile Include="Core\FileUserInterface.cs" />
     <Compile Include="Enums\IssuePriority.cs" />
+    <Compile Include="Interfaces\IDispatcher.cs" />
     <Compile Include="Interfaces\IEndpoint.cs" />
     <Compile Include="Interfaces\IEngine.cs" />
     <Compile Include="Interfaces\IIssueTracker.cs" />
+    <Compile Include="Interfaces\IUserInterface.cs" />
     <Compile Include="Models\Issue.cs" />
     <Compile Include="Models\Comment.cs" />
     <Compile Include="Data\BuhtigIssueTrackerData.cs" />
