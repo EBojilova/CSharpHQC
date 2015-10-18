@@ -86,7 +86,7 @@ namespace BuhtigIssueTracker.UnitTests
         }
 
         [TestMethod]
-        public void IssueTracker_RegisterUser_NotCorrectPassword()
+        public void IssueTracker_SearchForIssues_ShouldReturnCorrectResult()
         {
             this.tracker.RegisterUser("Helen", "0123", "0123");
             this.tracker.LoginUser("Helen", "0123");

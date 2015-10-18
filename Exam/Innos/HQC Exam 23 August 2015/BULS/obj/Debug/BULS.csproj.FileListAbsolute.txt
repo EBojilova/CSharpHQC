@@ -1,0 +1,6 @@
+C:\Users\Elena\Downloads\Soft-Uni-Exams-Labs-and-Workshops-master\HighQualityCode\HQC Exam 23 August 2015\BULS\bin\Debug\BangaloreUniversityLearningSystem.exe.config
+C:\Users\Elena\Downloads\Soft-Uni-Exams-Labs-and-Workshops-master\HighQualityCode\HQC Exam 23 August 2015\BULS\bin\Debug\BangaloreUniversityLearningSystem.exe
+C:\Users\Elena\Downloads\Soft-Uni-Exams-Labs-and-Workshops-master\HighQualityCode\HQC Exam 23 August 2015\BULS\bin\Debug\BangaloreUniversityLearningSystem.pdb
+C:\Users\Elena\Downloads\Soft-Uni-Exams-Labs-and-Workshops-master\HighQualityCode\HQC Exam 23 August 2015\BULS\obj\Debug\BULS.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\Soft-Uni-Exams-Labs-and-Workshops-master\HighQualityCode\HQC Exam 23 August 2015\BULS\obj\Debug\BangaloreUniversityLearningSystem.exe
+C:\Users\Elena\Downloads\Soft-Uni-Exams-Labs-and-Workshops-master\HighQualityCode\HQC Exam 23 August 2015\BULS\obj\Debug\BangaloreUniversityLearningSystem.pdb

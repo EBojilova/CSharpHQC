@@ -1,0 +1,27 @@
+C:\Users\Elena\Downloads\CSharpKPK\Exam\230815\MySolution\BULS\bin\Debug\LearningSystem.exe.config
+C:\Users\Elena\Downloads\CSharpKPK\Exam\230815\MySolution\BULS\bin\Debug\LearningSystem.exe
+C:\Users\Elena\Downloads\CSharpKPK\Exam\230815\MySolution\BULS\bin\Debug\LearningSystem.pdb
+C:\Users\Elena\Downloads\CSharpKPK\Exam\230815\MySolution\BULS\obj\Debug\LearningSystem.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\CSharpKPK\Exam\230815\MySolution\BULS\obj\Debug\LearningSystem.exe
+C:\Users\Elena\Downloads\CSharpKPK\Exam\230815\MySolution\BULS\obj\Debug\LearningSystem.pdb
+C:\Users\Elena\Downloads\CSharpKPK\Exam\230815\MySolution\LearningSystem\bin\Debug\LearningSystem.exe.config
+C:\Users\Elena\Downloads\CSharpKPK\Exam\230815\MySolution\LearningSystem\obj\Debug\LearningSystem.exe
+C:\Users\Elena\Downloads\CSharpKPK\Exam\230815\MySolution\LearningSystem\obj\Debug\LearningSystem.pdb
+C:\Users\Elena\Downloads\CSharpKPK\Exam\230815\MySolution\LearningSystem\bin\Debug\LearningSystem.exe
+C:\Users\Elena\Downloads\CSharpKPK\Exam\230815\MySolution\LearningSystem\bin\Debug\LearningSystem.pdb
+C:\Users\Elena\Downloads\CSharpKPK\Exam\230815\MySolution\LearningSystem\obj\Debug\LearningSystem.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\MySolution\LearningSystem\bin\Debug\LearningSystem.exe.config
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\MySolution\LearningSystem\obj\Debug\LearningSystem.exe
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\MySolution\LearningSystem\obj\Debug\LearningSystem.pdb
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\MySolution\LearningSystem\bin\Debug\LearningSystem.exe
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\MySolution\LearningSystem\bin\Debug\LearningSystem.pdb
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\MySolution\LearningSystem\obj\Debug\LearningSystem.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\MySolutionManualTests\LearningSystem\bin\Debug\LearningSystem.exe.config
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\MySolutionManualTests\LearningSystem\obj\Debug\LearningSystem.exe
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\MySolutionManualTests\LearningSystem\obj\Debug\LearningSystem.pdb
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\Bangalore-University-Learning-System-Solution-Manual Tests\LearningSystem\bin\Debug\LearningSystem.exe.config
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\Bangalore-University-Learning-System-Solution-Manual Tests\LearningSystem\obj\Debug\LearningSystem.exe
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\Bangalore-University-Learning-System-Solution-Manual Tests\LearningSystem\obj\Debug\LearningSystem.pdb
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\Bangalore-University-Learning-System-Solution-Manual Tests\LearningSystem\bin\Debug\LearningSystem.exe
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\Bangalore-University-Learning-System-Solution-Manual Tests\LearningSystem\bin\Debug\LearningSystem.pdb
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\Bangalore-University-Learning-System-Solution-Manual Tests\LearningSystem\obj\Debug\LearningSystem.csprojResolveAssemblyReference.cache

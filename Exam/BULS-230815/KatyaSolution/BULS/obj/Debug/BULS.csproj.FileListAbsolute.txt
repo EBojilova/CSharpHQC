@@ -1,0 +1,5 @@
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\KatyaSolution\BULS\bin\Debug\BULS.exe.config
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\KatyaSolution\BULS\bin\Debug\BULS.exe
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\KatyaSolution\BULS\bin\Debug\BULS.pdb
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\KatyaSolution\BULS\obj\Debug\BULS.exe
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\KatyaSolution\BULS\obj\Debug\BULS.pdb

@@ -1,0 +1,8 @@
+C:\Users\Elena\Downloads\High-Quality-Code-Exam-23-August-2015\High-Quality Code Exam  - 23 August 2015\Bangalore-University-Learning-System-Solution\BangaloreUniversityLearningSystem\bin\Debug\BangaloreUniversityLearningSystem.exe.config
+C:\Users\Elena\Downloads\High-Quality-Code-Exam-23-August-2015\High-Quality Code Exam  - 23 August 2015\Bangalore-University-Learning-System-Solution\BangaloreUniversityLearningSystem\bin\Debug\BangaloreUniversityLearningSystem.exe
+C:\Users\Elena\Downloads\High-Quality-Code-Exam-23-August-2015\High-Quality Code Exam  - 23 August 2015\Bangalore-University-Learning-System-Solution\BangaloreUniversityLearningSystem\bin\Debug\BangaloreUniversityLearningSystem.pdb
+C:\Users\Elena\Downloads\High-Quality-Code-Exam-23-August-2015\High-Quality Code Exam  - 23 August 2015\Bangalore-University-Learning-System-Solution\BangaloreUniversityLearningSystem\obj\Debug\BangaloreUniversityLearningSystem.exe
+C:\Users\Elena\Downloads\High-Quality-Code-Exam-23-August-2015\High-Quality Code Exam  - 23 August 2015\Bangalore-University-Learning-System-Solution\BangaloreUniversityLearningSystem\obj\Debug\BangaloreUniversityLearningSystem.pdb
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\Bangalore-University-Learning-System-Solution\BangaloreUniversityLearningSystem\bin\Debug\BangaloreUniversityLearningSystem.exe.config
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\Bangalore-University-Learning-System-Solution\BangaloreUniversityLearningSystem\obj\Debug\BangaloreUniversityLearningSystem.exe
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\Bangalore-University-Learning-System-Solution\BangaloreUniversityLearningSystem\obj\Debug\BangaloreUniversityLearningSystem.pdb

@@ -61,7 +61,7 @@ namespace BuhtigIssueTracker.UnitTests
         [TestMethod]
         public void IssueTracker_GetMyIssues_NotLogedIn()
         {
-            this.tracker.RegisterUser("Helen", "0123", "0123");
+            //this.tracker.RegisterUser("Helen", "0123", "0123");
             var message = this.tracker.GetMyIssues();
 
             Assert.AreEqual("There is no currently logged in user", message);

@@ -1,0 +1,9 @@
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution-automaticCheck\IssueTracker\bin\Debug\IssueTracker.exe.config
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution-automaticCheck\IssueTracker\bin\Debug\IssueTracker.exe
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution-automaticCheck\IssueTracker\bin\Debug\IssueTracker.pdb
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution-automaticCheck\IssueTracker\bin\Debug\PowerCollections.dll
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution-automaticCheck\IssueTracker\bin\Debug\PowerCollections.xml
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution-automaticCheck\IssueTracker\obj\Debug\IssueTracker.exe
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution-automaticCheck\IssueTracker\obj\Debug\IssueTracker.pdb
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution-automaticCheck\IssueTracker\bin\Debug\IssueTracker.exe.CodeAnalysisLog.xml
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\Buhtig Issue Tracker\MySolution-automaticCheck\IssueTracker\bin\Debug\IssueTracker.exe.lastcodeanalysissucceeded

@@ -6,7 +6,7 @@
 
     using Wintellect.PowerCollections;
 
-    internal interface IBuhtigIssueTrackerData
+    public interface IBuhtigIssueTrackerData
     {
         User CurrentUser { get; set; }
 

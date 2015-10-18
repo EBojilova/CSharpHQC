@@ -16,12 +16,12 @@
         {
         }
 
-        private IssueTracker(IBuhtigIssueTrackerData data)
+        public IssueTracker(IBuhtigIssueTrackerData data)
         {
             this.Data = data;
         }
 
-        private IBuhtigIssueTrackerData Data { get; set; }
+        private IBuhtigIssueTrackerData Data { get; }
 
         public string RegisterUser(string userName, string password, string confirmPassword)
         {
@@ -89,6 +89,7 @@
             }
 
             var issue = new Issue(title, description, priority, strings.Distinct().ToList());
+
             var issueId = this.Data.AddIssue(issue);
 
             return string.Format("Issue {0} created successfully", issueId);
@@ -110,8 +111,8 @@
             if (!this.Data.UserName_Issue[this.Data.CurrentUser.UserName].Contains(issue))
             {
                 return string.Format(
-                    "The issue with ID {0} does not belong to user {1}", 
-                    issueId, 
+                    "The issue with ID {0} does not belong to user {1}",
+                    issueId,
                     this.Data.CurrentUser.UserName);
             }
 

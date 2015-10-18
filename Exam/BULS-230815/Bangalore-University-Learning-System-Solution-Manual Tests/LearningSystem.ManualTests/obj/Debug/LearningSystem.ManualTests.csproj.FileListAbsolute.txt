@@ -1,0 +1,22 @@
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\MySolution\LearningSystem.ManualTests\bin\Debug\LearningSystem.ManualTests.dll
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\MySolution\LearningSystem.ManualTests\bin\Debug\LearningSystem.ManualTests.pdb
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\MySolution\LearningSystem.ManualTests\bin\Debug\LearningSystem.exe
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\MySolution\LearningSystem.ManualTests\bin\Debug\LearningSystem.pdb
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\MySolution\LearningSystem.ManualTests\obj\Debug\LearningSystem.ManualTests.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\MySolution\LearningSystem.ManualTests\obj\Debug\LearningSystem.ManualTests.dll
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\MySolution\LearningSystem.ManualTests\obj\Debug\LearningSystem.ManualTests.pdb
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\MySolution\LearningSystem.ManualTests\bin\Debug\nunit.framework.dll
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\MySolution\LearningSystem.ManualTests\bin\Debug\nunit.framework.xml
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\MySolution\LearningSystem.ManualTests\bin\Debug\Moq.dll
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\MySolution\LearningSystem.ManualTests\bin\Debug\Moq.xml
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\Bangalore-University-Learning-System-Solution-Manual Tests\LearningSystem.ManualTests\bin\Debug\LearningSystem.ManualTests.dll
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\Bangalore-University-Learning-System-Solution-Manual Tests\LearningSystem.ManualTests\bin\Debug\LearningSystem.ManualTests.pdb
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\Bangalore-University-Learning-System-Solution-Manual Tests\LearningSystem.ManualTests\bin\Debug\LearningSystem.exe
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\Bangalore-University-Learning-System-Solution-Manual Tests\LearningSystem.ManualTests\bin\Debug\Moq.dll
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\Bangalore-University-Learning-System-Solution-Manual Tests\LearningSystem.ManualTests\bin\Debug\nunit.framework.dll
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\Bangalore-University-Learning-System-Solution-Manual Tests\LearningSystem.ManualTests\bin\Debug\LearningSystem.pdb
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\Bangalore-University-Learning-System-Solution-Manual Tests\LearningSystem.ManualTests\bin\Debug\Moq.xml
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\Bangalore-University-Learning-System-Solution-Manual Tests\LearningSystem.ManualTests\bin\Debug\nunit.framework.xml
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\Bangalore-University-Learning-System-Solution-Manual Tests\LearningSystem.ManualTests\obj\Debug\LearningSystem.ManualTests.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\Bangalore-University-Learning-System-Solution-Manual Tests\LearningSystem.ManualTests\obj\Debug\LearningSystem.ManualTests.dll
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\Bangalore-University-Learning-System-Solution-Manual Tests\LearningSystem.ManualTests\obj\Debug\LearningSystem.ManualTests.pdb

@@ -1,0 +1,12 @@
+C:\Users\Elena\Downloads\Soft-Uni-Exams-Labs-and-Workshops-master\HighQualityCode\HQC Exam 23 August 2015\BULSTests\bin\Debug\BULSTests.dll
+C:\Users\Elena\Downloads\Soft-Uni-Exams-Labs-and-Workshops-master\HighQualityCode\HQC Exam 23 August 2015\BULSTests\bin\Debug\BULSTests.pdb
+C:\Users\Elena\Downloads\Soft-Uni-Exams-Labs-and-Workshops-master\HighQualityCode\HQC Exam 23 August 2015\BULSTests\bin\Debug\BangaloreUniversityLearningSystem.exe
+C:\Users\Elena\Downloads\Soft-Uni-Exams-Labs-and-Workshops-master\HighQualityCode\HQC Exam 23 August 2015\BULSTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Elena\Downloads\Soft-Uni-Exams-Labs-and-Workshops-master\HighQualityCode\HQC Exam 23 August 2015\BULSTests\bin\Debug\Moq.dll
+C:\Users\Elena\Downloads\Soft-Uni-Exams-Labs-and-Workshops-master\HighQualityCode\HQC Exam 23 August 2015\BULSTests\bin\Debug\nunit.framework.dll
+C:\Users\Elena\Downloads\Soft-Uni-Exams-Labs-and-Workshops-master\HighQualityCode\HQC Exam 23 August 2015\BULSTests\bin\Debug\BangaloreUniversityLearningSystem.pdb
+C:\Users\Elena\Downloads\Soft-Uni-Exams-Labs-and-Workshops-master\HighQualityCode\HQC Exam 23 August 2015\BULSTests\bin\Debug\Moq.xml
+C:\Users\Elena\Downloads\Soft-Uni-Exams-Labs-and-Workshops-master\HighQualityCode\HQC Exam 23 August 2015\BULSTests\bin\Debug\nunit.framework.xml
+C:\Users\Elena\Downloads\Soft-Uni-Exams-Labs-and-Workshops-master\HighQualityCode\HQC Exam 23 August 2015\BULSTests\obj\Debug\BULSTests.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\Soft-Uni-Exams-Labs-and-Workshops-master\HighQualityCode\HQC Exam 23 August 2015\BULSTests\obj\Debug\BULSTests.dll
+C:\Users\Elena\Downloads\Soft-Uni-Exams-Labs-and-Workshops-master\HighQualityCode\HQC Exam 23 August 2015\BULSTests\obj\Debug\BULSTests.pdb

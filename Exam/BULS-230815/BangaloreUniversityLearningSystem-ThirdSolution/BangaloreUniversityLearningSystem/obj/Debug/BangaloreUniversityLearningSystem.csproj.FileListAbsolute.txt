@@ -1,0 +1,9 @@
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\BangaloreUniversityLearningSystem-ThirdSolution\BangaloreUniversityLearningSystem\bin\Debug\BangaloreUniversityLearningSystem.exe.config
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\BangaloreUniversityLearningSystem-ThirdSolution\BangaloreUniversityLearningSystem\obj\Debug\BangaloreUniversityLearningSystem.exe
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\BangaloreUniversityLearningSystem-ThirdSolution\BangaloreUniversityLearningSystem\obj\Debug\BangaloreUniversityLearningSystem.pdb
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\BangaloreUniversityLearningSystem-ThirdSolution\BangaloreUniversityLearningSystem\bin\Debug\BangaloreUniversityLearningSystem.exe
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\BangaloreUniversityLearningSystem-ThirdSolution\BangaloreUniversityLearningSystem\bin\Debug\BangaloreUniversityLearningSystem.pdb
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\230815\BangaloreUniversityLearningSystem-ThirdSolution\BangaloreUniversityLearningSystem\obj\Debug\BangaloreUniversityLearningSystem.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\BULS-230815\BangaloreUniversityLearningSystem-ThirdSolution\BangaloreUniversityLearningSystem\bin\Debug\BangaloreUniversityLearningSystem.exe.config
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\BULS-230815\BangaloreUniversityLearningSystem-ThirdSolution\BangaloreUniversityLearningSystem\obj\Debug\BangaloreUniversityLearningSystem.exe
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\BULS-230815\BangaloreUniversityLearningSystem-ThirdSolution\BangaloreUniversityLearningSystem\obj\Debug\BangaloreUniversityLearningSystem.pdb

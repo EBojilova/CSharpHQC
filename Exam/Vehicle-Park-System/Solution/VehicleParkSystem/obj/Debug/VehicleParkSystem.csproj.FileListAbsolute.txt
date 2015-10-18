@@ -6,3 +6,6 @@ C:\Users\Elena\Downloads\CSharpKPK\Exam\Vehicle-Park-System\Solution\VehiclePark
 C:\Users\Elena\Downloads\CSharpKPK\Exam\Vehicle-Park-System\Solution\VehicleParkSystem\obj\Debug\VehicleParkSystem.csprojResolveAssemblyReference.cache
 C:\Users\Elena\Downloads\CSharpKPK\Exam\Vehicle-Park-System\Solution\VehicleParkSystem\obj\Debug\VehicleParkSystem.exe
 C:\Users\Elena\Downloads\CSharpKPK\Exam\Vehicle-Park-System\Solution\VehicleParkSystem\obj\Debug\VehicleParkSystem.pdb
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\Vehicle-Park-System\Solution\VehicleParkSystem\bin\Debug\VehicleParkSystem.exe.config
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\Vehicle-Park-System\Solution\VehicleParkSystem\obj\Debug\VehicleParkSystem.exe
+C:\Users\Elena\Downloads\C#\CSharpKPK\Exam\Vehicle-Park-System\Solution\VehicleParkSystem\obj\Debug\VehicleParkSystem.pdb
